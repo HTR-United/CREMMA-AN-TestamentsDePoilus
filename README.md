@@ -10,6 +10,14 @@ Les données se trouvent au chemin `./data/**/*.xml`
 
 Sélection aléatoire, 1 échantillon par département disponible par batch
 
+### Ordre des scripts
+
+1. compileSourcesList.py
+2. selectDataDpt.py (Change batch_id)
+3. download_images.py
+4. create_text_files.py 
+5. updateReadme.py
+
 ## Treated data
 
 <!-- Start Table -->
