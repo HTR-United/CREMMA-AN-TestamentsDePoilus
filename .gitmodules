@@ -1,0 +1,3 @@
+[submodule "TEI"]
+	path = TEI
+	url = git@github.com:ArchivesNationalesFR/editionTestamentsDePoilus.git
