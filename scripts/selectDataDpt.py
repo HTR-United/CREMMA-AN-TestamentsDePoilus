@@ -5,7 +5,7 @@ import os
 
 main_file = os.path.join(os.path.dirname(__file__), "..", "used_data.json")
 dump_file = os.path.join(os.path.dirname(__file__), "full_dump.json")
-batch_id = "1"
+batch_id = "2"
 
 with open(main_file) as f:
 	j_main = json.load(f)
