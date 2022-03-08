@@ -1,10 +1,11 @@
 import lxml.etree as et
 import re
+import os
 
 
 normalizeSpace = re.compile(r"\s+")
 
-main = et.parse("../TEI/tei/TestamentsDePoilus.xml")
+main = et.parse(os.path.join("..", "TEI", "tei", "TestamentsDePoilus.xml"))
 main.xinclude()
 
 places = {
