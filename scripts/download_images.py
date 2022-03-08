@@ -14,11 +14,11 @@ def get_image_name(batch_dir, xml_id, image_numb):
 
 def download(url, dest):
 	response = requests.get(url)
-	file = open(dest, "wb")
+	file = open(dest, "wb", encoding="utf8")
 	file.write(response.content)
 	file.close()
 
-with open(main_file) as f:
+with open(main_file, encoding="utf8") as f:
 	j_main = json.load(f)
 
 for key, value in j_main.items():

@@ -29,10 +29,10 @@ def convert_xml(xml_file_name, dest):
 	xml = os.path.join(tei_dir, xml_file_name)
 	text = str(xsl(ET.parse(xml)))
 	text = "\n".join([line.strip() for line in text.split("\n") if line.strip()])
-	with open(dest, "w") as f:
+	with open(dest, "w", encoding="utf8") as f:
 		f.write(text)
 
-with open(main_file) as f:
+with open(main_file, encoding="utf8") as f:
 	j_main = json.load(f)
 
 FORCE = True
