@@ -1,14 +1,14 @@
 # CREMMA-AN-TestamentDePoilus
 
-## DonnÃ©es
+## Données
 
-Les donnÃ©es se trouvent au chemin `./data/**/*.xml`
+Les données se trouvent au chemin `./data/**/*.xml`
 
 ## Description
 
-## MÃ©thode de sÃ©lection des donnÃ©es d'entraÃ®nement
+## Méthode de sélection des données d'entraînement
 
-SÃ©lection alÃ©atoire, 1 Ã©chantillon par dÃ©partement disponible par batch
+Sélection aléatoire, 1 échantillon par département disponible par batch
 
 ### Ordre des scripts
 
