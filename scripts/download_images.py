@@ -18,7 +18,7 @@ def download(url, dest):
 	file.write(response.content)
 	file.close()
 
-with open(main_file) as f:
+with open(main_file, encoding="utf8") as f:
 	j_main = json.load(f)
 
 for key, value in j_main.items():

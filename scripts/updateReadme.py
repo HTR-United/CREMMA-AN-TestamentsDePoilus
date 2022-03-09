@@ -12,7 +12,7 @@ readme_path = os.path.join(os.path.dirname(__file__), "..", "README.md")
 before_line = []
 after_line = []
 
-with open(readme_path) as f:
+with open(readme_path, encoding="utf8") as f:
 	start, after = False, False
 	for line in f:
 		if start == False:
@@ -26,7 +26,7 @@ with open(readme_path) as f:
 			after = True
 			after_line.append(line.strip())
 
-with open(main_file) as f:
+with open(main_file, encoding="utf8") as f:
 	j = json.load(f)
 
 table = [
@@ -42,5 +42,5 @@ table = [
 table = ["| " + " | ".join(row) + " |" for row in table]
 #print()
 
-with open(readme_path, "w") as f:
+with open(readme_path, "w", encoding="utf8") as f:
 	f.write("\n".join([*before_line, *table, *after_line]))

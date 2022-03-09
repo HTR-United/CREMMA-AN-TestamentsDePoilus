@@ -75,7 +75,7 @@ for testament in main.findall("//{*}TEI"):
 		}
 
 import json
-with open("full_dump.json", "w") as f:
+with open("full_dump.json", "w", encoding="utf8") as f:
 	json.dump(places, f)
 
 for place in places.values():
