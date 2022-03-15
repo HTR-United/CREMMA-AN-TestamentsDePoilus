@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AD78_0003-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Layout>
+    <Page WIDTH="1512"
+          HEIGHT="1456"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1512"
+                  HEIGHT="1456">
+        
+        <TextBlock HPOS="32"
+                   VPOS="593"
+                   WIDTH="1396"
+                   HEIGHT="257"
+                   ID="eSc_textblock_5435786b"
+                   TAGREFS="BT">
+          <Shape><Polygon POINTS="32 593 32 850 1428 850 1428 593"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_37500da9"
+                    
+                    BASELINE="49 723 688 745 1244 755 1380 777" 
+                    HPOS="47"
+                    VPOS="669"
+                    WIDTH="1336"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="48 721 49 673 72 678 84 673 95 669 95 669 97 669 97 669 98 669 98 669 98 669 99 669 112 674 151 687 175 679 177 679 177 679 177 679 178 679 178 679 179 679 200 684 241 677 256 675 256 675 257 675 257 675 257 675 258 675 265 678 298 689 371 680 416 675 416 675 417 675 417 675 418 675 418 675 436 681 496 704 525 695 526 695 526 695 526 695 527 695 527 695 529 695 571 707 646 703 648 703 648 703 648 703 649 703 649 703 649 703 650 703 660 711 764 712 789 701 789 701 791 701 791 701 791 701 792 701 792 701 793 701 843 715 902 704 902 704 902 704 904 704 904 704 905 704 905 704 930 714 980 703 980 703 980 703 981 703 981 703 1087 720 1132 711 1132 711 1132 711 1133 711 1133 711 1134 711 1154 715 1197 701 1197 701 1198 701 1198 701 1198 701 1200 701 1383 706 1379 776 1377 780 1265 777 1265 777 1265 777 1264 777 1259 776 1223 764 940 757 923 763 918 765 918 765 917 765 917 765 916 765 839 764 839 764 764 759 764 759 763 759 763 759 757 757 740 751 709 755 684 759 684 759 683 759 683 759 683 759 681 759 662 753 643 748 594 751 576 752 575 752 575 752 521 748 465 744 452 746 413 751 413 751 412 751 412 751 356 742 344 741 321 741 183 743 182 743 47 730"/></Shape>
+	    <String CONTENT="ame Pierre Barruel"
+                    HPOS="47"
+                    VPOS="669"
+                    WIDTH="1336"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
