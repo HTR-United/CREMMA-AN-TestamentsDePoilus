@@ -455,16 +455,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="594"
-                   VPOS="10"
-                   WIDTH="10"
-                   HEIGHT="6"
-                   ID="eSc_textblock_158a7609"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="599 10 604 16 594 16"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>
