@@ -5,12 +5,12 @@ import os
 
 main_file = os.path.join(os.path.dirname(__file__), "..", "used_data.json")
 dump_file = os.path.join(os.path.dirname(__file__), "full_dump.json")
-batch_id = "1"
+batch_id = "2"
 
-with open(main_file) as f:
+with open(main_file, encoding="utf8") as f:
 	j_main = json.load(f)
 
-with open(dump_file) as f:
+with open(dump_file, encoding="utf8") as f:
 	j_dump = json.load(f)
 
 
@@ -31,5 +31,5 @@ batch_dir = os.path.join(os.path.dirname(__file__), "..", "data", f"batch-{batch
 os.makedirs(batch_dir, exist_ok=True)
 
 
-with open(main_file, "w") as f:
+with open(main_file, "w", encoding="utf8") as f:
 	j_main = json.dump(j_main, f)

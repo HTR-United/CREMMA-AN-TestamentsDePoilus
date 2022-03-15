@@ -1,10 +1,11 @@
 import lxml.etree as et
 import re
+import os
 
 
 normalizeSpace = re.compile(r"\s+")
 
-main = et.parse("../TEI/tei/TestamentsDePoilus.xml")
+main = et.parse(os.path.join("..", "TEI", "tei", "TestamentsDePoilus.xml"))
 main.xinclude()
 
 places = {
@@ -74,7 +75,7 @@ for testament in main.findall("//{*}TEI"):
 		}
 
 import json
-with open("full_dump.json", "w") as f:
+with open("full_dump.json", "w", encoding="utf8") as f:
 	json.dump(places, f)
 
 for place in places.values():
