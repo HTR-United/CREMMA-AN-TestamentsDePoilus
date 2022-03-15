@@ -4,21 +4,6 @@ name: HTR United Workflow
   - push
   - pull_request
 jobs:
-  HTRUC:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Set up Python 3.8
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install htruc
-      - name: Run HTRUC
-        run: |
-          htruc test htr-united.yml
   HTR_United_Metadata_Generator:
     runs-on: ubuntu-latest
     env:
