@@ -10,6 +10,11 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    <OtherTag ID="BT3053" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3052" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT3051" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT3050" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3049" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1079" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1078" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1080" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
   <Layout>
     <Page WIDTH="1703"
           HEIGHT="1078"
@@ -25,12 +30,12 @@
                    WIDTH="1430"
                    HEIGHT="575"
                    ID="eSc_textblock_61a6e088"
-                   TAGREFS="BT">
+                   TAGREFS="BT3049">
           <Shape><Polygon POINTS="1620 697 1618 728 1610 831 1244 841 1153 1005 1027 1019 866 850 355 876 200 597 257 520 372 444 575 496 684 499 832 491 987 497 1115 471 1630 487"/></Shape>
           
           
           <TextLine ID="eSc_line_4305a944"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="213 590 435 583 522 594 956 581 1007 581 1561 572" 
                     HPOS="211"
                     VPOS="521"
@@ -47,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_972f7d1e"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="376 811 635 814 796 812 870 814 1050 813 1115 806 1260 799 1334 798 1588 794" 
                     HPOS="373"
                     VPOS="733"
@@ -64,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_4083a42f"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="986 962 1178 960" 
                     HPOS="984"
                     VPOS="892"
