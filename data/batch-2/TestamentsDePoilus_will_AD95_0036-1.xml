@@ -10,6 +10,11 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    <OtherTag ID="BT3053" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3052" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT3051" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT3050" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3049" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1079" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1078" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1080" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
   <Layout>
     <Page WIDTH="1532"
           HEIGHT="1250"
@@ -20,17 +25,17 @@
                   WIDTH="1532"
                   HEIGHT="1250">
         
-        <TextBlock HPOS="124"
+        <TextBlock HPOS="110"
                    VPOS="100"
-                   WIDTH="1346"
+                   WIDTH="1360"
                    HEIGHT="1051"
                    ID="eSc_textblock_7281a726"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="164 100 124 555 224 598 146 716 538 755 370 971 479 1104 1413 1151 1456 1039 1446 540 1350 483 1470 169 1367 123 1359 120"/></Shape>
+                   TAGREFS="BT3049">
+          <Shape><Polygon POINTS="164 100 110 563 215 618 146 716 538 755 370 971 479 1104 1413 1151 1456 1039 1446 540 1350 483 1470 169 1367 123 1359 120"/></Shape>
           
           
           <TextLine ID="eSc_line_a678262d"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="153 189 1459 212" 
                     HPOS="149"
                     VPOS="141"
@@ -47,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_109dacc2"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="124 326 224 350 225 350 886 389 1381 443" 
                     HPOS="119"
                     VPOS="298"
@@ -64,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_82a66dd1"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="130 515 909 577 909 577 1447 664" 
                     HPOS="125"
                     VPOS="460"
@@ -81,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_89cd7a0f"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="176 681 1264 750" 
                     HPOS="173"
                     VPOS="623"
@@ -98,7 +103,7 @@
           
           
           <TextLine ID="eSc_line_b9a26a02"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="410 990 840 1048 840 1048 1021 1113 1427 1065" 
                     HPOS="405"
                     VPOS="964"

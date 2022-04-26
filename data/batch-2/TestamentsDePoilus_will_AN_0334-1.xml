@@ -10,6 +10,11 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    <OtherTag ID="BT3053" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3052" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT3051" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT3050" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3049" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1079" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1078" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1080" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
   <Layout>
     <Page WIDTH="1800"
           HEIGHT="1547"
@@ -25,12 +30,12 @@
                    WIDTH="1638"
                    HEIGHT="801"
                    ID="eSc_textblock_4d51ddc3"
-                   TAGREFS="BT">
+                   TAGREFS="BT3049">
           <Shape><Polygon POINTS="1638 571 1530 618 1525 658 1587 675 1607 741 1092 1068 779 1144 630 1167 499 1192 44 1299 0 1211 69 899 206 835 120 724 0 657 8 516 238 522 743 517 895 498 970 505 970 511 1628 511"/></Shape>
           
           
           <TextLine ID="eSc_line_be92c0aa"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="188 627 475 625 647 608 835 603 932 602 1438 594 1491 598" 
                     HPOS="184"
                     VPOS="542"
@@ -47,24 +52,24 @@
           
           
           <TextLine ID="eSc_line_14d7d54d"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="279 746 368 739 580 741 832 732 1146 743 1520 741" 
-                    HPOS="275.0"
-                    VPOS="683.0"
-                    WIDTH="1245.0"
-                    HEIGHT="75.0">
+                    HPOS="275"
+                    VPOS="683"
+                    WIDTH="1245"
+                    HEIGHT="75">
             <Shape><Polygon POINTS="279 746 275 702 314 689 315 689 315 689 315 689 317 689 317 689 318 689 318 689 352 701 412 690 412 690 413 690 413 690 413 690 415 690 415 690 440 701 440 701 440 701 462 696 464 696 464 696 465 696 465 696 465 696 466 696 482 701 487 703 600 703 604 701 630 688 630 688 630 688 631 688 631 688 633 688 633 688 633 688 634 688 634 688 656 697 702 693 702 693 704 693 704 693 705 693 705 693 720 700 724 702 818 702 825 700 858 683 858 683 858 683 860 683 860 683 861 683 1111 683 1111 683 1111 683 1112 683 1112 683 1141 694 1219 692 1221 692 1221 692 1221 692 1222 692 1222 692 1222 692 1233 698 1242 703 1286 703 1297 697 1322 684 1322 684 1322 684 1324 684 1324 684 1325 684 1325 684 1325 684 1326 684 1348 690 1369 683 1369 683 1370 683 1370 683 1370 683 1371 683 1371 683 1373 683 1419 696 1469 687 1469 687 1471 687 1471 687 1471 687 1517 697 1520 741 1518 752 1496 756 1496 756 1495 756 1495 756 1495 756 1494 756 1494 756 1486 752 1468 745 1428 752 1409 756 1409 756 1409 756 1408 756 1408 756 1386 752 1338 745 1208 752 1144 756 1143 756 1143 756 1143 756 1142 756 1130 752 1106 745 1077 752 1063 756 1062 756 1062 756 1062 758 1010 758 1009 756 1009 756 1008 756 1008 756 997 752 972 742 649 742 607 752 598 754 598 754 598 754 596 754 596 754 596 754 595 754 595 754 591 752 575 745 550 752 536 756 535 756 535 756 533 756 278 751"/></Shape>
 	    <String CONTENT="Argentan le 26 août 1915"
-                    HPOS="275.0"
-                    VPOS="683.0"
-                    WIDTH="1245.0"
-                    HEIGHT="75.0"></String>
+                    HPOS="275"
+                    VPOS="683"
+                    WIDTH="1245"
+                    HEIGHT="75"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_e8c77bcb"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="21 1238 980 1029" 
                     HPOS="14"
                     VPOS="1002"

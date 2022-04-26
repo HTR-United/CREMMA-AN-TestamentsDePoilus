@@ -10,6 +10,11 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    <OtherTag ID="BT3053" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3052" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT3051" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT3050" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3049" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1079" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1078" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1080" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
   <Layout>
     <Page WIDTH="1530"
           HEIGHT="1260"
@@ -25,12 +30,12 @@
                    WIDTH="841"
                    HEIGHT="947"
                    ID="eSc_textblock_5227cee2"
-                   TAGREFS="BT">
+                   TAGREFS="BT3049">
           <Shape><Polygon POINTS="373 231 428 197 718 173 732 173 918 181 958 170 1066 279 1135 530 1165 1117 997 1112 360 820 324 580"/></Shape>
           
           
           <TextLine ID="eSc_line_2ba49865"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="354 269 896 260" 
                     HPOS="349"
                     VPOS="201"
@@ -47,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_a5819b33"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="375 490 597 508 716 510 776 512 1042 512" 
                     HPOS="371"
                     VPOS="401"
@@ -64,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_866093ba"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="340 722 707 746 934 730" 
                     HPOS="336"
                     VPOS="658"
@@ -81,7 +86,7 @@
           
           
           <TextLine ID="eSc_line_2ab5450b"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="853 1003 1093 1036" 
                     HPOS="847"
                     VPOS="876"

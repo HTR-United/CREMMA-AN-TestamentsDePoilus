@@ -10,6 +10,11 @@
     </sourceImageInformation>
   </Description>
   
+  <Tags>
+    <OtherTag ID="BT3053" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3052" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT3051" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT3050" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT3049" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1079" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1078" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1080" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+  </Tags>
+  
   <Layout>
     <Page WIDTH="2283"
           HEIGHT="3100"
@@ -25,12 +30,12 @@
                    WIDTH="1605"
                    HEIGHT="1239"
                    ID="eSc_textblock_b6547aed"
-                   TAGREFS="BT">
+                   TAGREFS="BT3049">
           <Shape><Polygon POINTS="460 803 949 2042 2060 1723 2065 1280 1994 836"/></Shape>
           
           
           <TextLine ID="eSc_line_287c4a0b"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="542 906 1737 914 1817 914 1918 914" 
                     HPOS="532"
                     VPOS="790"
@@ -47,7 +52,7 @@
           
           
           <TextLine ID="eSc_line_e3f8002d"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="806 1382 2027 1400" 
                     HPOS="793"
                     VPOS="1278"
@@ -64,7 +69,7 @@
           
           
           <TextLine ID="eSc_line_35b5d099"
-                    
+                    TAGREFS="LT1078"
                     BASELINE="1067 1854 1615 1710" 
                     HPOS="1047"
                     VPOS="1653"
