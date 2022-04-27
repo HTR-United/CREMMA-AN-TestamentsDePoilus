@@ -30,3 +30,11 @@ volume:
   - metric: files
     count: 96
 citation-file-link: https://github.com/Dummy/depot-test/CITATION.cff
+transcription-guidelines: >-
+  The original transcriptions were performed on a crowdsourcing application
+  (https://testaments-de-poilus.huma-num.fr/#!/) under the supervision of the
+  Archives nationales de France. Only the allographic portions of the documents
+  were transcribed. Any marginal elements added later by clerks or archivists
+  are neither segmented nor transcribed. The segmentation follows the SegmOnto
+  ontology. Abbreviations and mispelling were not corrected. Superscripted
+  portions of text are preceeded by ^. 
