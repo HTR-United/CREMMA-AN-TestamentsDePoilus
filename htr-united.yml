@@ -17,8 +17,8 @@ script:
   - Latn
 script-type: only-manuscript
 time:
-  notBefore: '1859'
-  notAfter: '1897'
+  notBefore: '1914'
+  notAfter: '1918'
 hands:
   count: 1-per-file
   precision: estimated
