@@ -11,11 +11,11 @@ authors:
 - surname: Alcofrybas
   roles:
   - transcriber
-- name: Danièle
+- name: "Dani\xE8le"
   surname: Allezard
   roles:
   - support
-- name: Françoise
+- name: "Fran\xE7oise"
   surname: Auriau
   roles:
   - support
@@ -38,7 +38,7 @@ authors:
   roles:
   - support
 - name: Alix
-  surname: Chagué
+  surname: "Chagu\xE9"
   roles:
   - aligner
 - name: Pauline
@@ -81,7 +81,7 @@ authors:
   roles:
   - support
 - name: Christiane
-  surname: Demeulenaere-Douyère
+  surname: "Demeulenaere-Douy\xE8re"
   roles:
   - support
 - surname: Desauthieux
@@ -137,19 +137,19 @@ authors:
 - surname: Lamotte
   roles:
   - transcriber
-- name: Valérie
-  surname: Lemée
+- name: "Val\xE9rie"
+  surname: "Lem\xE9e"
   roles:
   - support
 - name: Jean-Claude
-  surname: Lescure (professeur des universités, Cergy-CY Université)
+  surname: "Lescure (professeur des universit\xE9s, Cergy-CY Universit\xE9)"
   roles:
   - support
-- name: Mélisa
+- name: "M\xE9lisa"
   surname: Locatelli
   roles:
   - support
-- name: Mélisa
+- name: "M\xE9lisa"
   surname: Locatelli
   roles:
   - support
@@ -168,11 +168,11 @@ authors:
 - surname: MarionJo
   roles:
   - transcriber
-- name: Aurélie
+- name: "Aur\xE9lie"
   surname: Massie
   roles:
   - support
-- name: Aurélie
+- name: "Aur\xE9lie"
   surname: Massie
   roles:
   - support
@@ -197,7 +197,7 @@ authors:
 - surname: PaulineTest
   roles:
   - transcriber
-- name: Françoise
+- name: "Fran\xE7oise"
   surname: Pinchard
   roles:
   - support
@@ -243,14 +243,14 @@ authors:
 - surname: Silver08
   roles:
   - transcriber
-- name: Marie-Thérèse
+- name: "Marie-Th\xE9r\xE8se"
   surname: Solignat
   roles:
   - support
-- surname: TPellé
+- surname: "TPell\xE9"
   roles:
   - transcriber
-- surname: Valérie
+- surname: "Val\xE9rie"
   roles:
   - transcriber
 - name: Lucie
@@ -282,8 +282,8 @@ authors:
 - surname: sgauthier
   roles:
   - transcriber
-description: WWI’s Poilus' testaments edited by the Archives National during the Testaments
-  de Poilus project.
+description: "WWI\u2019s Poilus' testaments edited by the Archives National during\
+  \ the Testaments de Poilus project."
 project-name: Testaments de Poilus
 project-website: https://edition-testaments-de-poilus.huma-num.fr/
 language:
@@ -302,8 +302,14 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
+- metric: characters
+  count: 32569
 - metric: files
   count: 96
+- metric: lines
+  count: 1353
+- metric: regions
+  count: 105
 citation-file-link: https://github.com/Dummy/depot-test/CITATION.cff
 transcription-guidelines: 'The original transcriptions were performed on a crowdsourcing
   application (https://testaments-de-poilus.huma-num.fr/#!/) under the supervision
