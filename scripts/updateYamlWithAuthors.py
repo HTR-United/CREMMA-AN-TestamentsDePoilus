@@ -5,6 +5,10 @@ from collections import defaultdict
 import lxml.etree as ET
 import yaml
 
+try:
+    from yaml import CLoader as Loader, CDumper as Dumper
+except ImportError:
+    from yaml import Loader, Dumper
 
 with open("../used_data.json") as f:
     used_data = json.load(f)
@@ -45,7 +49,16 @@ def functionMap(currFunction):
         return "quality-control"
     if currFunction == "Corrections hors plate-forme et contrôle de qualité final":
         return "transcriber"
+    print(currFunction)
 
+# Those ints are used to order people contribution (Role then Alphabetically)
+orders = {
+    "support" : 4,
+    "aligner" : 2,
+    "transcriber" : 1,
+    "quality-control" : 3,
+    "project-manager": 0
+}
 
 details = {
     persons.get(persName, persName): list(map(functionMap, functions))
@@ -60,28 +73,35 @@ for key, val in details.items():
         people.append({"surname": key.replace("#", ""), "roles": val})
     else:
         name, *surname = key.split()
-        people.append({"name": name, "surname": " ".join(surname), "roles": val})
+        people.append({"name": name, "surname": " ".join(surname).split("(")[0].strip(), "roles": val})
 
     print(people[-1])
 
 
 with open(os.path.join("..", "htr-united.yml")) as f:
-    catalog = yaml.load(f)
+    catalog = yaml.load(f, Loader=Loader)
 
 for person in catalog["authors"]:
     broke, aidx = False, None
-    for aidx, auto_person in enumerate(people):
-        broke = False
-        if auto_person["surname"] == person["surname"] and auto_person.get("name") == person.get("surname"):
-            person["roles"] = sorted(list(set(person["roles"] + auto_person["roles"])))
-            broke = True
-            break
-    if broke:
-        people.pop(aidx)
 
+    match = [
+        (idx, auto_person) for (idx, auto_person) in enumerate(people)
+        if auto_person["surname"] == person["surname"] and auto_person.get("name") == person.get("name")
+    ]
+    if match:
+        idx, auto_person = match[0]
+        person["roles"] = sorted(list(set(person["roles"] + auto_person["roles"])))
+        people.pop(idx)
+     
 catalog["authors"].extend(people)
 
-catalog["authors"] = sorted(catalog["authors"], key=lambda x: x["surname"]+" "+x.get("name", ""))
+managers = [u for u in catalog["authors"] if "project-manager" in u["roles"]]
+not_project_managers = [u for u in catalog["authors"] if "project-manager" not in u["roles"]]
+
+catalog["authors"] = managers + sorted(
+    not_project_managers, 
+    key=lambda x: str(min([orders[role] for role in x["roles"]])) + str(int("name" not in x)) + x["surname"]+ " "+x.get("name", "")
+)
 
 with open(os.path.join("..", "htr-united.yml"), "w") as f:
     yaml.dump(catalog, f, sort_keys=False, allow_unicode=True)

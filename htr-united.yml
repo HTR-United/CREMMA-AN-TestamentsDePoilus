@@ -1,7 +1,51 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
 title: ' CREMMA-AN Testament De Poilus '
 url: https://github.com/HTR-United/CREMMA-AN-TestamentDePoilus
+description: WWI’s Poilus' testaments edited by the Archives National during the Testaments
+  de Poilus project.
+project-name: Testaments de Poilus
+project-website: https://edition-testaments-de-poilus.huma-num.fr/
+language:
+- fra
+script:
+- Latn
 authors:
+- name: Emmanuelle
+  surname: de Champs
+  roles:
+  - project-manager
+- surname: Clavaud
+  name: Florence
+  roles:
+  - project-manager
+  - quality-control
+  - transcriber
+- name: Pauline
+  surname: Charbonnier
+  roles:
+  - project-manager
+  - quality-control
+  - transcriber
+- name: Christine
+  surname: Nougaret
+  roles:
+  - project-manager
+  - quality-control
+  - support
+- name: Marie-Françoise
+  surname: Limon-Bonnet
+  roles:
+  - project-manager
+- name: Elise
+  surname: Wojszvzyk
+  roles:
+  - project-manager
+- name: Sylvie
+  surname: Dechavanne
+  roles:
+  - project-manager
+  - quality-control
+  - support
 - surname: ALemoine
   roles:
   - transcriber
@@ -11,92 +55,24 @@ authors:
 - surname: Alcofrybas
   roles:
   - transcriber
-- name: "Dani\xE8le"
-  surname: Allezard
-  roles:
-  - support
-- name: "Fran\xE7oise"
-  surname: Auriau
-  roles:
-  - support
 - surname: BeaLct
   roles:
   - transcriber
-- name: Sophie
-  surname: Blanchard
-  roles:
-  - support
 - surname: CLbt
   roles:
-  - transcriber
-- name: Laure
-  surname: Cadars
-  roles:
-  - support
-- name: Paul
-  surname: Cazin-Bernier
-  roles:
-  - support
-- name: Alix
-  surname: "Chagu\xE9"
-  roles:
-  - aligner
-- name: Pauline
-  surname: Charbonnier
-  roles:
-  - quality-control
-  - transcriber
-- name: Pauline
-  surname: Charbonnier
-  roles:
-  - quality-control
   - transcriber
 - surname: Chloelsa
   roles:
   - transcriber
-- name: Florence
-  surname: Clavaud
-  roles:
-  - quality-control
-  - transcriber
-- name: Florence
-  surname: Clavaud
-  roles:
-  - quality-control
-  - transcriber
-- name: Rosine
-  surname: Cleyet-Michaud
-  roles:
-  - support
 - surname: DMichel
   roles:
   - transcriber
-- name: Sylvie
-  surname: Dechavanne (chef du service des Publics)
-  roles:
-  - support
-  - quality-control
-- name: Sophie
-  surname: Delinge
-  roles:
-  - support
-- name: Christiane
-  surname: "Demeulenaere-Douy\xE8re"
-  roles:
-  - support
 - surname: Desauthieux
   roles:
   - transcriber
-- name: Mathilde
-  surname: Deuve
-  roles:
-  - support
 - surname: EPerrin
   roles:
   - transcriber
-- surname: EdChamps
-  roles:
-  - quality-control
 - surname: GBMireille
   roles:
   - transcriber
@@ -106,18 +82,6 @@ authors:
 - surname: Genea78
   roles:
   - transcriber
-- name: Tristan
-  surname: Girard
-  roles:
-  - support
-- name: Wilfried
-  surname: Gourdon
-  roles:
-  - support
-- name: Wilfried
-  surname: Gourdon
-  roles:
-  - support
 - surname: JMGoux
   roles:
   - transcriber
@@ -127,33 +91,7 @@ authors:
 - surname: LBIsabelle
   roles:
   - transcriber
-- name: Emilie
-  surname: Laffitte-Louisou
-  roles:
-  - support
 - surname: Lamotte
-  roles:
-  - transcriber
-- surname: Lamotte
-  roles:
-  - transcriber
-- name: "Val\xE9rie"
-  surname: "Lem\xE9e"
-  roles:
-  - support
-- name: Jean-Claude
-  surname: "Lescure (professeur des universit\xE9s, Cergy-CY Universit\xE9)"
-  roles:
-  - support
-- name: "M\xE9lisa"
-  surname: Locatelli
-  roles:
-  - support
-- name: "M\xE9lisa"
-  surname: Locatelli
-  roles:
-  - support
-- surname: MFGarreau
   roles:
   - transcriber
 - surname: MFGarreau
@@ -168,23 +106,6 @@ authors:
 - surname: MarionJo
   roles:
   - transcriber
-- name: "Aur\xE9lie"
-  surname: Massie
-  roles:
-  - support
-- name: "Aur\xE9lie"
-  surname: Massie
-  roles:
-  - support
-- name: Christine
-  surname: Nougaret
-  roles:
-  - support
-  - quality-control
-- name: Thomas
-  surname: Olivier
-  roles:
-  - support
 - surname: PGambette
   roles:
   - transcriber
@@ -197,7 +118,118 @@ authors:
 - surname: PaulineTest
   roles:
   - transcriber
-- name: "Fran\xE7oise"
+- surname: SCayeux
+  roles:
+  - transcriber
+- surname: SL.
+  roles:
+  - transcriber
+- surname: SLespinasse
+  roles:
+  - transcriber
+- surname: Silver08
+  roles:
+  - transcriber
+- surname: TPellé
+  roles:
+  - transcriber
+- surname: Valérie
+  roles:
+  - transcriber
+- surname: alp
+  roles:
+  - transcriber
+- surname: jmorvan
+  roles:
+  - transcriber
+- surname: lelia
+  roles:
+  - transcriber
+- surname: majubama
+  roles:
+  - transcriber
+- surname: mickael.lefevr
+  roles:
+  - transcriber
+- surname: sgauthier
+  roles:
+  - transcriber
+- name: Alix
+  surname: Chagué
+  roles:
+  - aligner
+- surname: EdChamps
+  roles:
+  - quality-control
+- name: Danièle
+  surname: Allezard
+  roles:
+  - support
+- name: Françoise
+  surname: Auriau
+  roles:
+  - support
+- name: Sophie
+  surname: Blanchard
+  roles:
+  - support
+- name: Laure
+  surname: Cadars
+  roles:
+  - support
+- name: Paul
+  surname: Cazin-Bernier
+  roles:
+  - support
+- name: Rosine
+  surname: Cleyet-Michaud
+  roles:
+  - support
+- name: Sophie
+  surname: Delinge
+  roles:
+  - support
+- name: Christiane
+  surname: Demeulenaere-Douyère
+  roles:
+  - support
+- name: Mathilde
+  surname: Deuve
+  roles:
+  - support
+- name: Tristan
+  surname: Girard
+  roles:
+  - support
+- name: Wilfried
+  surname: Gourdon
+  roles:
+  - support
+- name: Emilie
+  surname: Laffitte-Louisou
+  roles:
+  - support
+- name: Valérie
+  surname: Lemée
+  roles:
+  - support
+- name: Jean-Claude
+  surname: Lescure
+  roles:
+  - support
+- name: Mélisa
+  surname: Locatelli
+  roles:
+  - support
+- name: Aurélie
+  surname: Massie
+  roles:
+  - support
+- name: Thomas
+  surname: Olivier
+  roles:
+  - support
+- name: Françoise
   surname: Pinchard
   roles:
   - support
@@ -221,75 +253,21 @@ authors:
   surname: Rodriguez
   roles:
   - support
-- surname: SCayeux
-  roles:
-  - transcriber
-- surname: SL
-  roles:
-  - support
-- surname: SL.
-  roles:
-  - transcriber
-- surname: SL.
-  roles:
-  - transcriber
-- surname: SLespinasse
-  roles:
-  - transcriber
 - name: Konstantinos
   surname: Sifakis
   roles:
   - support
-- surname: Silver08
-  roles:
-  - transcriber
-- name: "Marie-Th\xE9r\xE8se"
+- name: Marie-Thérèse
   surname: Solignat
   roles:
   - support
-- surname: "TPell\xE9"
-  roles:
-  - transcriber
-- surname: "Val\xE9rie"
-  roles:
-  - transcriber
 - name: Lucie
   surname: Vieillon
   roles:
   - support
-- name: Lucie
-  surname: Vieillon
+- surname: SL
   roles:
   - support
-- surname: alp
-  roles:
-  - transcriber
-- surname: jmorvan
-  roles:
-  - transcriber
-- surname: lelia
-  roles:
-  - transcriber
-- surname: lelia
-  roles:
-  - transcriber
-- surname: majubama
-  roles:
-  - transcriber
-- surname: mickael.lefevr
-  roles:
-  - transcriber
-- surname: sgauthier
-  roles:
-  - transcriber
-description: "WWI\u2019s Poilus' testaments edited by the Archives National during\
-  \ the Testaments de Poilus project."
-project-name: Testaments de Poilus
-project-website: https://edition-testaments-de-poilus.huma-num.fr/
-language:
-- fra
-script:
-- Latn
 script-type: only-manuscript
 time:
   notBefore: '1914'
