@@ -1,8 +1,8 @@
 schema: https://htr-united.github.io/schema/2021-10-15/schema.json
 title: ' CREMMA-AN Testament De Poilus '
 url: https://github.com/HTR-United/CREMMA-AN-TestamentDePoilus
-description: WWI’s Poilus' testaments edited by the Archives National during the Testaments
-  de Poilus project.
+description: "WWI\u2019s Poilus' testaments edited by the Archives National during\
+  \ the Testaments de Poilus project."
 project-name: Testaments de Poilus
 project-website: https://edition-testaments-de-poilus.huma-num.fr/
 language:
@@ -32,7 +32,7 @@ authors:
   - project-manager
   - quality-control
   - support
-- name: Marie-Françoise
+- name: "Marie-Fran\xE7oise"
   surname: Limon-Bonnet
   roles:
   - project-manager
@@ -130,10 +130,10 @@ authors:
 - surname: Silver08
   roles:
   - transcriber
-- surname: TPellé
+- surname: "TPell\xE9"
   roles:
   - transcriber
-- surname: Valérie
+- surname: "Val\xE9rie"
   roles:
   - transcriber
 - surname: alp
@@ -155,17 +155,17 @@ authors:
   roles:
   - transcriber
 - name: Alix
-  surname: Chagué
+  surname: "Chagu\xE9"
   roles:
   - aligner
 - surname: EdChamps
   roles:
   - quality-control
-- name: Danièle
+- name: "Dani\xE8le"
   surname: Allezard
   roles:
   - support
-- name: Françoise
+- name: "Fran\xE7oise"
   surname: Auriau
   roles:
   - support
@@ -190,7 +190,7 @@ authors:
   roles:
   - support
 - name: Christiane
-  surname: Demeulenaere-Douyère
+  surname: "Demeulenaere-Douy\xE8re"
   roles:
   - support
 - name: Mathilde
@@ -209,19 +209,19 @@ authors:
   surname: Laffitte-Louisou
   roles:
   - support
-- name: Valérie
-  surname: Lemée
+- name: "Val\xE9rie"
+  surname: "Lem\xE9e"
   roles:
   - support
 - name: Jean-Claude
   surname: Lescure
   roles:
   - support
-- name: Mélisa
+- name: "M\xE9lisa"
   surname: Locatelli
   roles:
   - support
-- name: Aurélie
+- name: "Aur\xE9lie"
   surname: Massie
   roles:
   - support
@@ -229,7 +229,7 @@ authors:
   surname: Olivier
   roles:
   - support
-- name: Françoise
+- name: "Fran\xE7oise"
   surname: Pinchard
   roles:
   - support
@@ -257,7 +257,7 @@ authors:
   surname: Sifakis
   roles:
   - support
-- name: Marie-Thérèse
+- name: "Marie-Th\xE9r\xE8se"
   surname: Solignat
   roles:
   - support
