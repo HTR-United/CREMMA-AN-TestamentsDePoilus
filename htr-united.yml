@@ -154,8 +154,8 @@ authors:
 - surname: sgauthier
   roles:
   - transcriber
-- surname: Chagué
-  name: Alix
+- name: Alix
+  surname: Chagué
   roles:
   - aligner
 - surname: EdChamps
@@ -280,8 +280,14 @@ license:
   url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
+- metric: characters
+  count: 32569
 - metric: files
   count: 96
+- metric: lines
+  count: 1353
+- metric: regions
+  count: 105
 citation-file-link: https://github.com/Dummy/depot-test/CITATION.cff
 transcription-guidelines: 'The original transcriptions were performed on a crowdsourcing
   application (https://testaments-de-poilus.huma-num.fr/#!/) under the supervision

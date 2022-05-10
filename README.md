@@ -1,5 +1,7 @@
 # CREMMA-AN-TestamentDePoilus
 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
+
 ## Données
 
 Les données se trouvent au chemin `./data/**/*.xml`
