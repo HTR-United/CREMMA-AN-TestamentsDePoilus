@@ -281,7 +281,7 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 32569
+  count: 33652
 - metric: files
   count: 96
 - metric: lines
@@ -296,4 +296,90 @@ transcription-guidelines: 'The original transcriptions were performed on a crowd
   neither segmented nor transcribed. The segmentation follows the SegmOnto ontology.
   Abbreviations and mispelling were not corrected. Superscripted portions of text
   are preceeded by ^. '
-production-software: "eScriptorium + Kraken"
+production-software: eScriptorium + Kraken
+characters:
+  mode: NFD
+  members:
+  - e
+  - a
+  - n
+  - i
+  - t
+  - s
+  - r
+  - u
+  - o
+  - l
+  - m
+  - d
+  - c
+  - "\u0301"
+  - p
+  - "\u0300"
+  - v
+  - g
+  - f
+  - ','
+  - b
+  - q
+  - '1'
+  - "\u2019"
+  - .
+  - h
+  - M
+  - J
+  - j
+  - C
+  - P
+  - '-'
+  - L
+  - A
+  - '9'
+  - y
+  - x
+  - D
+  - S
+  - B
+  - ^
+  - R
+  - F
+  - "\u0302"
+  - G
+  - E
+  - '4'
+  - z
+  - '2'
+  - V
+  - T
+  - '3'
+  - '5'
+  - N
+  - '0'
+  - )
+  - H
+  - (
+  - '7'
+  - '8'
+  - I
+  - Q
+  - '6'
+  - ;
+  - ':'
+  - O
+  - "\u0327"
+  - U
+  - '"'
+  - "\u0308"
+  - "\u0153"
+  - W
+  - "\xB0"
+  - '?'
+  - Z
+  - /
+  - w
+  - k
+  - '&'
+  - +
+  - X
+  - '%'
+  - ''''
