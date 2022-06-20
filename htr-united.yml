@@ -1,4 +1,4 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: ' CREMMA-AN Testament De Poilus '
 url: https://github.com/HTR-United/CREMMA-AN-TestamentDePoilus
 description: "WWI\u2019s Poilus' testaments edited by the Archives National during\
@@ -8,7 +8,7 @@ project-website: https://edition-testaments-de-poilus.huma-num.fr/
 language:
 - fra
 script:
-- Latn
+- iso: Latn
 authors:
 - name: Emmanuelle
   surname: de Champs
@@ -296,3 +296,4 @@ transcription-guidelines: 'The original transcriptions were performed on a crowd
   neither segmented nor transcribed. The segmentation follows the SegmOnto ontology.
   Abbreviations and mispelling were not corrected. Superscripted portions of text
   are preceeded by ^. '
+production-software: "eScriptorium + Kraken"
