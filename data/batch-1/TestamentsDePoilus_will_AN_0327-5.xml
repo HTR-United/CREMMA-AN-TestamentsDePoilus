@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0327-5.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1384"
+          HEIGHT="1251"
+          PHYSICAL_IMG_NR="2"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1384"
+                  HEIGHT="1251">
+        
+        <TextBlock HPOS="181"
+                   VPOS="156"
+                   WIDTH="551"
+                   HEIGHT="670"
+                   ID="eSc_textblock_aa77f81d"
+                   >
+          <Shape><Polygon POINTS="732 170 456 826 181 826 389 156"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_5fd117d5"
+                    
+                    BASELINE="283 696 579 214" 
+                    HPOS="253"
+                    VPOS="183"
+                    WIDTH="339"
+                    HEIGHT="519">
+            <Shape><Polygon POINTS="525 191 500 201 499 201 499 202 498 202 454 273 454 274 446 302 434 307 433 307 433 308 432 308 432 309 423 338 400 362 399 362 399 363 399 364 397 420 397 444 373 482 355 497 355 498 354 498 354 499 354 500 353 509 344 514 352 402 286 503 303 538 303 540 303 541 273 552 278 570 287 590 286 590 286 591 286 592 283 622 283 628 253 675 282 695 296 702 316 671 316 670 316 669 317 649 344 623 345 622 346 622 346 621 347 618 380 543 396 531 396 530 397 530 397 529 418 485 432 478 433 478 433 477 434 477 438 471 455 444 455 443 455 442 459 415 483 388 484 388 484 387 484 386 488 369 526 316 526 315 526 314 529 299 592 222 578 213 529 183"/></Shape>
+	    <String CONTENT="[[Gauthier]]"
+                    HPOS="253"
+                    VPOS="183"
+                    WIDTH="339"
+                    HEIGHT="519"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="772"
+                   VPOS="377"
+                   WIDTH="608"
+                   HEIGHT="817"
+                   ID="eSc_textblock_fcb2298c"
+                   >
+          <Shape><Polygon POINTS="897 1194 772 1051 1241 377 1380 521"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_29d88b9b"
+                    
+                    BASELINE="885 1029 1311 523" 
+                    HPOS="867"
+                    VPOS="497"
+                    WIDTH="466"
+                    HEIGHT="546">
+            <Shape><Polygon POINTS="1279 497 1235 550 1235 551 1235 552 1235 553 1236 574 1224 579 1223 579 1223 580 1222 580 1222 581 1222 582 1219 597 1204 605 1204 606 1203 606 1169 656 1150 659 1143 661 1142 661 1140 661 1140 663 1125 680 1124 680 1124 681 1111 708 1094 745 1080 747 1069 749 1067 749 1066 749 1066 750 1065 750 1058 758 1058 759 1058 761 1058 762 1058 775 1058 776 1056 777 1042 785 1041 785 1041 786 1040 786 1040 787 1040 788 1039 797 1039 811 1011 836 1010 836 993 864 982 869 976 872 975 872 975 873 974 873 974 874 967 888 959 905 948 913 928 924 928 925 927 925 927 926 921 939 903 945 902 945 902 946 901 946 881 969 881 970 881 971 881 972 881 978 872 983 871 983 871 984 870 984 870 985 870 986 870 987 871 1008 871 1009 867 1014 884 1028 903 1043 913 1019 931 1012 947 1003 948 1003 948 1002 949 1002 949 1001 960 977 962 972 966 970 986 958 986 957 987 957 987 955 999 931 1001 928 1003 927 1020 918 1020 917 1021 917 1051 872 1056 864 1059 863 1070 857 1071 857 1071 856 1072 856 1072 855 1072 854 1073 846 1073 842 1077 842 1082 841 1083 841 1084 841 1084 840 1085 840 1099 823 1099 822 1099 821 1099 820 1099 816 1099 813 1102 812 1107 811 1108 811 1109 811 1109 810 1110 810 1137 778 1137 777 1140 767 1150 739 1174 728 1181 725 1182 725 1182 724 1183 724 1183 723 1186 715 1193 693 1211 682 1212 682 1212 681 1213 681 1213 680 1230 643 1304 554 1333 544 1310 522 1279 497"/></Shape>
+	    <String CONTENT="[[Gauthier]]"
+                    HPOS="867"
+                    VPOS="497"
+                    WIDTH="466"
+                    HEIGHT="546"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1330"
+                   VPOS="87"
+                   WIDTH="28"
+                   HEIGHT="41"
+                   ID="block_6"
+                   TAGREFS="BT4216">
+          <Shape><Polygon POINTS="1358 91 1354 128 1330 128 1339 87"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="1341 123 1347 123" 
+                    HPOS="1339.0"
+                    VPOS="87.0"
+                    WIDTH="8.0"
+                    HEIGHT="45.0">
+            <Shape><Polygon POINTS="1341 123 1339 89 1345 87 1347 123 1347 131 1341 132"/></Shape>
+	    <String CONTENT="6"
+                    HPOS="1339.0"
+                    VPOS="87.0"
+                    WIDTH="8.0"
+                    HEIGHT="45.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

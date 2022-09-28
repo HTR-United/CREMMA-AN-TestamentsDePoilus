@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0308-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1324"
+          HEIGHT="1260"
+          PHYSICAL_IMG_NR="8"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1324"
+                  HEIGHT="1260">
+        
+        <TextBlock HPOS="121"
+                   VPOS="365"
+                   WIDTH="848"
+                   HEIGHT="171"
+                   ID="block_2"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="847 449 969 477 912 477 890 499 902 512 894 536 302 536 273 525 839 512 865 499 542 494 277 515 138 494 121 469 121 390 189 365 230 365 285 411 566 403 643 441"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="137 475 465 472 887 498" 
+                    HPOS="136"
+                    VPOS="368"
+                    WIDTH="750"
+                    HEIGHT="137">
+            <Shape><Polygon POINTS="886 467 845 465 829 454 828 454 826 454 825 454 824 454 823 454 812 462 784 460 772 450 771 450 770 450 769 450 733 458 697 444 696 444 695 444 694 444 693 444 677 454 633 447 632 447 631 447 630 447 621 453 586 432 585 432 584 432 557 427 458 424 457 424 456 424 438 431 424 424 423 424 422 424 421 424 420 424 390 444 384 448 334 447 326 442 315 432 314 432 313 432 283 428 282 428 281 428 258 438 257 438 254 438 213 368 154 398 137 416 143 423 164 434 157 438 137 433 136 474 136 477 201 476 236 480 261 484 262 484 263 484 269 481 281 476 312 483 314 483 315 483 316 483 348 475 395 485 415 489 416 489 432 486 468 479 554 490 563 490 564 490 572 490 646 486 677 493 707 499 708 499 709 499 722 494 733 490 778 492 783 496 794 502 795 502 796 502 867 505 869 505 870 505 885 498 886 497"/></Shape>
+	    <String CONTENT="Ceci est mon"
+                    HPOS="136"
+                    VPOS="368"
+                    WIDTH="750"
+                    HEIGHT="137"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="94"
+                   VPOS="570"
+                   WIDTH="800"
+                   HEIGHT="474"
+                   ID="eSc_textblock_35261620"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="94 570 94 1044 894 1044 894 570"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="eSc_line_4c4bef71"
+                    
+                    BASELINE="238 664 752 668" 
+                    HPOS="236"
+                    VPOS="578"
+                    WIDTH="515"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="236 666 749 668 751 667 749 597 676 621 512 621 488 600 465 579 464 579 463 579 410 579 409 579 408 579 373 591 361 579 361 578 360 578 359 578 294 578 293 578 292 578 291 578 262 602 251 612 239 602 237 663 236 666"/></Shape>
+	    <String CONTENT="testament"
+                    HPOS="236"
+                    VPOS="578"
+                    WIDTH="515"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_13818696"
+                    
+                    BASELINE="277 877 752 861" 
+                    HPOS="274"
+                    VPOS="806"
+                    WIDTH="477"
+                    HEIGHT="86">
+            <Shape><Polygon POINTS="276 876 277 892 307 880 320 889 321 889 322 889 323 889 324 889 357 876 366 880 367 880 368 880 369 880 383 875 397 885 398 885 399 885 400 885 401 885 402 885 415 875 442 875 451 883 452 883 453 883 454 883 456 883 458 882 476 872 527 876 528 876 529 876 530 876 539 870 553 876 554 876 555 876 556 876 567 875 591 873 593 874 610 885 611 885 612 885 613 885 680 883 681 883 698 873 702 877 704 877 705 877 706 877 707 877 708 877 708 876 718 867 720 865 723 867 734 871 735 871 736 871 737 871 751 865 751 861 748 807 675 806 674 806 673 806 665 810 652 815 643 811 640 810 639 810 638 810 637 810 636 810 635 811 621 824 585 824 569 814 563 809 562 809 561 809 560 809 559 809 536 815 494 828 369 830 356 823 343 816 342 816 341 816 274 826 276 876"/></Shape>
+	    <String CONTENT="23 novembre 1916"
+                    HPOS="274"
+                    VPOS="806"
+                    WIDTH="477"
+                    HEIGHT="86"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="176 992 369 977 440 977" 
+                    HPOS="172.0"
+                    VPOS="915.0"
+                    WIDTH="269.0"
+                    HEIGHT="93.0">
+            <Shape><Polygon POINTS="176 992 172 959 219 956 225 950 238 939 238 938 239 938 239 938 239 938 240 938 272 932 272 932 273 932 273 932 273 932 274 932 290 936 316 929 317 929 317 929 317 929 318 929 318 929 319 929 319 929 319 929 320 929 326 933 337 939 365 927 367 926 367 926 368 926 368 926 435 915 440 977 441 980 428 991 428 991 427 991 427 991 427 991 426 991 426 991 426 991 425 991 425 991 424 991 424 991 424 991 411 984 385 992 384 992 384 992 384 992 383 992 383 992 361 989 348 987 333 991 315 997 314 997 314 997 313 997 278 997 246 997 231 1002 223 1004 222 1004 222 1004 222 1004 221 1004 221 1004 221 1004 220 1004 220 1004 220 1004 219 1004 218 1003 208 996 177 1008"/></Shape>
+	    <String CONTENT="XXXX"
+                    HPOS="172.0"
+                    VPOS="915.0"
+                    WIDTH="269.0"
+                    HEIGHT="93.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

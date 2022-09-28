@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0191-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1743"
+          HEIGHT="997"
+          PHYSICAL_IMG_NR="44"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1743"
+                  HEIGHT="997">
+        
+        <TextBlock HPOS="385"
+                   VPOS="255"
+                   WIDTH="792"
+                   HEIGHT="184"
+                   ID="block_0"
+                   >
+          <Shape><Polygon POINTS="600 255 624 289 727 272 792 279 842 295 883 332 963 342 1042 338 1089 309 1135 299 1145 341 1177 345 1167 368 1152 358 1135 397 1154 434 1094 434 1083 427 1065 434 985 434 985 439 596 437 402 437 398 368 415 325 398 314 385 269 515 255"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="420 394 812 392 1075 414" 
+                    HPOS="414"
+                    VPOS="236"
+                    WIDTH="735"
+                    HEIGHT="182">
+            <Shape><Polygon POINTS="418 404 438 405 439 405 440 405 441 405 457 395 532 395 546 402 547 402 575 403 576 403 602 397 611 404 612 404 613 404 630 406 631 406 632 406 658 398 693 410 694 410 695 410 721 399 738 399 755 407 756 407 757 407 758 407 772 400 814 409 815 409 853 402 895 409 896 409 934 404 950 416 951 416 952 416 954 416 1009 413 1015 417 1016 417 1017 417 1073 418 1074 413 1149 299 1047 353 1037 348 1033 347 1032 347 1031 347 1030 347 1028 348 1009 360 974 367 952 351 945 345 944 345 943 345 942 345 941 345 919 352 911 348 910 348 909 348 908 348 903 353 898 356 891 353 881 348 880 348 879 348 869 353 868 353 848 348 847 348 846 348 845 348 836 354 833 357 831 354 814 343 813 343 812 343 742 341 741 341 740 341 739 341 715 358 689 377 779 263 757 291 791 277 783 270 768 266 753 266 615 271 414 236 419 368 419 393"/></Shape>
+	    <String CONTENT="Testament"
+                    HPOS="414"
+                    VPOS="236"
+                    WIDTH="735"
+                    HEIGHT="182"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
