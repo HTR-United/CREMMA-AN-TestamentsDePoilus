@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0001-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1445"
+          HEIGHT="1785"
+          PHYSICAL_IMG_NR="90"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1445"
+                  HEIGHT="1785">
+        
+        <TextBlock HPOS="113"
+                   VPOS="71"
+                   WIDTH="1206"
+                   HEIGHT="808"
+                   ID="block_13"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="1183 345 1177 391 1224 438 1147 522 814 541 1034 565 1099 595 1135 636 1141 706 738 730 700 849 619 879 611 855 577 855 558 819 517 807 488 731 440 694 434 642 464 635 464 589 511 553 408 539 408 529 363 529 273 510 238 474 261 456 238 409 261 368 220 291 113 278 136 113 218 95 250 148 403 148 468 142 494 89 718 107 738 71 803 160 885 172 869 196 944 196 940 166 956 166 1000 196 1260 202 1319 238 1319 307"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="138 272 800 172" 
+                    HPOS="126"
+                    VPOS="121"
+                    WIDTH="673"
+                    HEIGHT="157">
+            <Shape><Polygon POINTS="788 142 745 148 739 147 681 121 680 121 678 121 677 121 675 121 653 141 610 148 608 148 607 148 607 150 595 160 583 174 514 177 513 177 511 177 500 187 440 194 406 178 404 178 403 178 401 178 400 178 400 179 380 197 352 199 300 188 273 182 272 182 191 194 190 194 188 194 184 199 171 209 126 205 136 270 136 273 169 278 171 278 172 278 199 266 205 263 331 245 345 246 369 251 370 251 372 251 373 251 373 249 382 242 386 237 392 240 406 245 407 245 409 245 410 245 455 232 501 220 522 224 534 226 535 226 537 226 553 220 571 212 578 217 586 220 587 220 589 220 590 220 626 211 674 197 723 197 723 196 724 196 726 196 739 185 758 193 760 193 761 193 799 187 799 171 793 148 788 142"/></Shape>
+	    <String CONTENT="Madame Daviet"
+                    HPOS="126"
+                    VPOS="121"
+                    WIDTH="673"
+                    HEIGHT="157"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="263 334 471 339 681 316 1212 291 1315 293" 
+                    HPOS="260.0"
+                    VPOS="212.0"
+                    WIDTH="1055.0"
+                    HEIGHT="143.0">
+            <Shape><Polygon POINTS="263 334 260 279 279 281 285 278 319 252 321 252 321 252 321 252 322 252 322 252 322 252 324 252 324 252 325 252 325 252 379 273 380 273 403 273 403 272 430 249 430 248 430 248 431 248 431 248 431 248 433 248 433 248 434 248 434 248 434 248 436 248 436 248 485 269 507 278 633 273 645 261 669 240 669 239 669 239 671 239 671 239 671 239 672 239 672 239 674 239 674 239 674 239 675 239 736 257 750 261 758 257 796 236 796 236 796 236 797 236 797 236 797 236 799 236 799 236 800 236 800 236 800 236 836 254 852 261 875 251 891 245 891 245 892 245 892 245 892 245 894 245 894 245 895 245 895 245 895 245 897 245 904 251 916 257 930 249 952 238 952 238 952 238 953 238 953 238 953 238 955 238 955 238 956 238 956 238 956 238 958 238 958 238 970 248 973 251 1017 255 1041 245 1093 218 1093 218 1095 218 1095 218 1095 218 1096 218 1160 221 1181 214 1181 214 1183 214 1183 214 1183 214 1251 212 1253 212 1253 212 1254 212 1254 212 1254 212 1294 233 1294 233 1312 233 1315 293 1314 306 1148 303 1120 313 1108 318 1108 318 1107 318 1107 318 1105 318 1105 318 1105 318 1104 318 1104 318 1104 318 1102 318 1098 313 1084 306 1059 306 988 316 988 316 986 316 986 316 940 312 930 319 930 321 930 321 928 321 928 321 928 321 927 321 927 321 927 321 925 321 925 321 924 321 924 321 924 321 921 319 909 313 900 321 900 321 900 321 898 321 898 321 897 321 897 321 897 321 895 321 895 321 894 321 892 321 875 316 866 322 849 333 848 333 848 333 848 333 846 333 846 333 793 336 791 336 791 336 791 336 790 336 758 325 744 321 648 324 638 330 616 340 616 340 616 340 614 340 614 340 361 355 360 355 360 355 261 342"/></Shape>
+	    <String CONTENT="chez Monsieur Charles de Saint-Guilhem"
+                    HPOS="260.0"
+                    VPOS="212.0"
+                    WIDTH="1055.0"
+                    HEIGHT="143.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="305 496 703 453 1205 458" 
+                    HPOS="299"
+                    VPOS="392"
+                    WIDTH="904"
+                    HEIGHT="118">
+            <Shape><Polygon POINTS="1193 415 1081 417 1075 415 1071 410 1069 410 1068 410 1067 410 1065 410 1064 410 1058 415 1052 419 1044 415 1003 392 1001 392 1000 392 998 392 959 413 943 409 942 409 940 409 939 409 927 415 916 420 907 415 885 404 883 404 882 404 880 404 854 416 824 429 747 431 723 416 697 400 696 400 694 400 693 400 644 401 642 401 641 401 641 403 626 416 607 435 571 422 569 422 568 422 532 425 519 417 504 407 502 407 501 407 500 407 395 410 394 410 392 410 383 417 366 431 299 419 303 495 303 510 468 496 482 502 483 502 485 502 486 502 522 484 569 486 571 486 572 486 574 486 589 473 791 467 809 480 811 480 812 480 814 480 815 480 846 473 888 487 895 489 897 489 898 489 927 486 928 486 930 486 930 484 962 461 1013 478 1014 478 1016 478 1017 478 1074 461 1104 477 1111 481 1113 481 1114 481 1203 473 1203 456 1202 455 1193 415"/></Shape>
+	    <String CONTENT="5 Rue du Printemps"
+                    HPOS="299"
+                    VPOS="392"
+                    WIDTH="904"
+                    HEIGHT="118"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    
+                    BASELINE="869 699 1117 703" 
+                    HPOS="864.0"
+                    VPOS="642.0"
+                    WIDTH="253.0"
+                    HEIGHT="77.0">
+            <Shape><Polygon POINTS="869 699 867 667 952 658 952 658 953 658 953 658 955 658 955 658 958 658 979 667 992 657 1008 642 1008 642 1010 642 1010 642 1010 642 1011 642 1011 642 1013 642 1117 647 1117 703 1116 719 1062 719 1061 718 1061 718 1059 718 1059 718 1059 718 1053 715 1032 706 967 711 903 715 901 715 901 715 901 715 900 715 864 705"/></Shape>
+	    <String CONTENT="Paris"
+                    HPOS="864.0"
+                    VPOS="642.0"
+                    WIDTH="253.0"
+                    HEIGHT="77.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="342"
+                   VPOS="558"
+                   WIDTH="3"
+                   HEIGHT="46"
+                   ID="eSc_textblock_ff9dfc1e"
+                   >
+          <Shape><Polygon POINTS="342 558 342 604 345 604 345 558"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
