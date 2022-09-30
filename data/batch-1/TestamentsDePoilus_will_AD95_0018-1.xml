@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AD95_0018-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1841"
+          HEIGHT="1366"
+          PHYSICAL_IMG_NR="96"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1841"
+                  HEIGHT="1366">
+        
+        <TextBlock HPOS="517"
+                   VPOS="81"
+                   WIDTH="883"
+                   HEIGHT="769"
+                   ID="eSc_textblock_fe4fc6b6"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="517 81 517 850 1400 850 1400 81"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="534 198 897 183 1337 176" 
+                    HPOS="531"
+                    VPOS="124"
+                    WIDTH="805"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="714 175 703 182 692 185 680 161 679 160 531 163 533 196 533 208 602 201 629 206 630 206 631 206 650 198 691 201 692 201 728 193 741 199 742 199 743 199 787 192 820 196 822 196 823 196 844 187 938 186 962 194 973 198 974 198 975 198 976 198 989 193 1009 185 1031 192 1040 194 1041 194 1042 194 1062 191 1098 183 1229 183 1234 184 1248 190 1250 190 1251 190 1252 190 1253 190 1263 183 1268 183 1324 188 1325 188 1326 188 1327 188 1336 182 1336 175 1332 125 1231 135 1213 130 1192 124 1190 124 1189 124 1188 124 1171 133 1170 133 1169 133 1153 127 1152 127 1151 127 1149 127 1135 134 1103 151 1087 151 1070 137 1059 129 1058 129 1057 129 1056 129 839 132 837 132 823 140 809 133 808 133 807 133 806 133 804 133 786 145 758 142 757 142 755 142 754 142 738 153 729 160 719 160 714 175"/></Shape>
+	    <String CONTENT="A ouvrir apres"
+                    HPOS="531"
+                    VPOS="124"
+                    WIDTH="805"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="598 432 1165 438" 
+                    HPOS="596"
+                    VPOS="381"
+                    WIDTH="568"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="779 393 768 388 767 387 761 390 751 385 745 385 734 385 727 384 718 392 713 396 704 393 674 383 666 383 664 382 653 388 646 382 643 382 631 382 630 382 597 395 597 431 596 438 612 443 613 443 614 443 615 443 633 439 638 438 646 440 680 449 681 449 683 449 725 442 738 448 740 448 741 448 742 448 755 442 765 439 889 440 899 446 903 448 905 448 906 448 907 448 908 448 910 447 915 443 919 447 934 456 935 456 937 456 938 456 939 456 963 448 965 447 966 448 972 453 972 454 973 454 974 454 975 454 976 454 977 454 984 448 987 447 988 448 992 451 993 451 995 451 996 451 997 451 998 451 998 450 1000 449 1005 445 1021 449 1049 457 1050 457 1052 457 1163 453 1164 437 1164 383 1126 383 1124 383 1123 383 1122 383 1100 402 1090 397 1089 397 1088 397 1087 397 1063 406 1045 398 1044 398 1042 398 1041 398 1024 405 1004 397 1003 397 1001 397 979 401 963 387 959 384 959 383 958 383 957 383 938 381 937 381 906 385 905 385 903 385 900 389 877 404 817 404 804 392 804 391 803 391 781 384 779 384 779 393"/></Shape>
+	    <String CONTENT="ma mort"
+                    HPOS="596"
+                    VPOS="381"
+                    WIDTH="568"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    
+                    BASELINE="633 758 1269 822" 
+                    HPOS="629"
+                    VPOS="705"
+                    WIDTH="641"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="631 756 629 770 652 767 694 776 695 776 696 776 697 776 705 769 726 770 740 780 741 780 742 780 743 780 744 780 745 780 754 775 791 783 792 783 793 783 806 779 815 787 816 787 817 787 818 787 819 787 820 787 825 783 875 795 876 795 877 795 894 792 903 802 905 802 905 803 906 803 907 803 929 807 930 807 931 807 935 805 958 796 1049 803 1071 820 1072 821 1073 821 1074 821 1100 824 1102 824 1103 824 1104 824 1119 815 1159 829 1162 830 1163 830 1164 830 1168 830 1196 828 1266 841 1268 821 1270 768 1211 790 1164 785 1155 772 1154 772 1154 771 1153 771 1152 771 1151 771 1130 772 1103 754 1102 754 1100 754 1099 754 1098 754 1097 754 1067 774 1045 774 958 764 929 744 927 744 926 744 925 744 900 744 881 737 850 726 849 726 848 726 847 726 832 734 818 741 807 731 791 718 790 718 789 718 666 705 664 705 663 705 635 716 631 756"/></Shape>
+	    <String CONTENT="Herbaut Paul"
+                    HPOS="629"
+                    VPOS="705"
+                    WIDTH="641"
+                    HEIGHT="136"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
