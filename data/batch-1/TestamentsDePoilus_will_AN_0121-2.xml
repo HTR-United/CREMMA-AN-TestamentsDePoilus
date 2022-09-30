@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0121-2.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1539"
+          HEIGHT="1974"
+          PHYSICAL_IMG_NR="56"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1539"
+                  HEIGHT="1974">
+        
+        <TextBlock HPOS="164.0"
+                   VPOS="1138.0"
+                   WIDTH="1223.0"
+                   HEIGHT="715.0"
+                   ID="block_1"
+                   >
+          <Shape><Polygon POINTS="1013 1190 1071 1184 1046 1263 1380 1296 1387 1386 1190 1439 928 1432 880 1459 768 1426 506 1432 520 1467 599 1480 1183 1454 1275 1480 1288 1513 1288 1577 1262 1603 1104 1638 1143 1684 1137 1774 1104 1814 566 1853 493 1814 506 1730 579 1677 722 1636 505 1610 230 1617 164 1590 177 1447 335 1426 316 1381 342 1368 276 1353 263 1327 283 1243 335 1202 348 1158 434 1138 459 1151 459 1202 546 1276 926 1269 992 1243 1013 1190"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="289 1320 685 1342 1364 1377" 
+                    HPOS="274"
+                    VPOS="1144"
+                    WIDTH="1090"
+                    HEIGHT="230">
+            <Shape><Polygon POINTS="289 1320 288 1281 322 1281 274 1274 285 1254 315 1233 356 1171 453 1144 399 1251 401 1251 403 1251 419 1263 436 1273 1364 1286 1364 1374 482 1332 286 1327"/></Shape>
+	    <String CONTENT="Pour ma famille"
+                    HPOS="274"
+                    VPOS="1144"
+                    WIDTH="1090"
+                    HEIGHT="230"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="218 1539 560 1548 1193 1585" 
+                    HPOS="172"
+                    VPOS="1454"
+                    WIDTH="1089"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="172 1524 218 1470 344 1454 345 1454 371 1457 373 1457 375 1457 375 1459 401 1482 401 1483 1241 1487 1261 1591 449 1580 385 1589 383 1589 381 1589 380 1589 357 1575 342 1590 342 1592 340 1592 339 1592 337 1592 297 1592 286 1598 266 1608 265 1608 263 1608 212 1605"/></Shape>
+	    <String CONTENT="après ma mort"
+                    HPOS="172"
+                    VPOS="1454"
+                    WIDTH="1089"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0f592d2"
+                    
+                    BASELINE="518 1767 521 1767 542 1767 573 1767 701 1773 790 1786 861 1786 937 1792 1023 1782 1038 1782 1093 1761" 
+                    HPOS="515"
+                    VPOS="1700"
+                    WIDTH="577"
+                    HEIGHT="119">
+            <Shape><Polygon POINTS="516 1766 515 1819 613 1819 613 1817 615 1817 630 1811 683 1786 735 1804 739 1804 740 1804 742 1804 743 1804 745 1804 747 1802 763 1789 783 1797 785 1797 786 1797 788 1797 790 1797 804 1788 819 1796 821 1796 822 1796 877 1789 883 1794 897 1802 898 1802 900 1802 902 1802 1091 1779 1092 1760 1086 1700 985 1700 984 1700 982 1700 981 1700 981 1702 974 1707 962 1719 948 1710 943 1705 941 1705 939 1705 938 1705 936 1705 920 1712 892 1722 870 1715 849 1709 847 1709 846 1709 844 1709 826 1719 773 1748 656 1748 617 1737 615 1737 613 1737 562 1745 553 1738 548 1733 546 1733 544 1733 543 1733 541 1733 516 1740 516 1766"/></Shape>
+	    <String CONTENT="Charles"
+                    HPOS="515"
+                    VPOS="1700"
+                    WIDTH="577"
+                    HEIGHT="119"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
