@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AD78_0034-0.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1832"
+          HEIGHT="1400"
+          PHYSICAL_IMG_NR="123"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1832"
+                  HEIGHT="1400">
+        
+        <TextBlock HPOS="289"
+                   VPOS="490"
+                   WIDTH="1463"
+                   HEIGHT="194"
+                   ID="block_2"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="1127 550 1287 522 1472 532 1514 546 1534 574 1715 583 1752 624 1743 647 1710 656 653 656 367 684 308 675 289 597 317 522 569 490 680 490 728 536 963 527 1030 550"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    
+                    BASELINE="500 626 805 620 1108 635 1379 630 1697 645" 
+                    HPOS="497.0"
+                    VPOS="570.0"
+                    WIDTH="1200.0"
+                    HEIGHT="84.0">
+            <Shape><Polygon POINTS="500 626 497 597 590 570 591 570 591 570 592 570 645 571 645 571 645 571 646 571 719 598 722 598 724 598 798 574 799 574 799 574 800 574 966 577 966 577 966 577 967 577 1033 599 1046 604 1094 610 1358 613 1396 612 1418 600 1425 598 1425 598 1427 598 1427 598 1427 598 1428 598 1428 598 1452 602 1560 616 1584 602 1607 589 1607 589 1607 589 1609 589 1609 589 1609 589 1610 589 1610 589 1611 589 1656 602 1661 603 1696 603 1697 645 1695 654 1420 640 1319 648 1316 648 1315 648 1315 648 1315 648 1313 648 1313 648 1313 648 1313 648 1296 639 1233 645 1233 645 1232 645 1232 645 1231 645 1231 645 1231 645 1212 637 1157 646 1154 646 1154 646 1152 646 1028 644 1028 644 1028 644 1026 644 1026 644 1026 644 1026 644 1005 633 965 642 962 642 962 642 962 642 961 642 961 642 961 642 959 642 927 635 870 639 869 639 869 639 869 639 868 639 845 631 731 628 499 634"/></Shape>
+	    <String CONTENT="Ceci est mon testament"
+                    HPOS="497.0"
+                    VPOS="570.0"
+                    WIDTH="1200.0"
+                    HEIGHT="84.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="93"
+                   VPOS="765"
+                   WIDTH="1085"
+                   HEIGHT="577"
+                   ID="block_1"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="835 868 1080 872 1089 941 1011 955 935 1100 854 1123 829 1179 849 1194 1173 1180 1178 1258 927 1268 834 1300 292 1342 130 1300 126 1255 93 1221 93 1152 144 1096 294 1067 308 994 298 961 270 950 294 882 334 868 340 849 376 849 392 807 610 784 639 765 680 765 732 807 782 816 788 840"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

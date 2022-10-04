@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AD78_0005-0.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1416"
+          HEIGHT="1832"
+          PHYSICAL_IMG_NR="129"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1416"
+                  HEIGHT="1832">
+        
+        <TextBlock HPOS="217"
+                   VPOS="355"
+                   WIDTH="1029"
+                   HEIGHT="118"
+                   ID="eSc_textblock_e21b8ffd"
+                   TAGREFS="BT4218">
+          <Shape><Polygon POINTS="217 355 217 473 1246 473 1246 355"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_074a570f"
+                    
+                    BASELINE="251 434 259 434 285 434 352 426 473 423 564 420 699 414 851 423 981 417 1048 417 1198 417" 
+                    HPOS="251"
+                    VPOS="414"
+                    WIDTH="947"
+                    HEIGHT="20">
+            
+	    <String CONTENT="Ceci est mon testament"
+                    HPOS="251"
+                    VPOS="414"
+                    WIDTH="947"
+                    HEIGHT="20"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="446"
+                   VPOS="1337"
+                   WIDTH="157"
+                   HEIGHT="157"
+                   ID="block_6"
+                   >
+          <Shape><Polygon POINTS="603 1374 603 1494 446 1488 452 1398 530 1404 556 1337"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="531"
+                   VPOS="1080"
+                   WIDTH="29"
+                   HEIGHT="29"
+                   ID="block_7"
+                   >
+          <Shape><Polygon POINTS="554 1080 560 1097 531 1109 531 1080"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="531"
+                   VPOS="1123"
+                   WIDTH="54"
+                   HEIGHT="127"
+                   ID="block_8"
+                   >
+          <Shape><Polygon POINTS="531 1213 531 1123 585 1129 585 1250 556 1250"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="574"
+                   VPOS="1661"
+                   WIDTH="4"
+                   HEIGHT="10"
+                   ID="block_9"
+                   >
+          <Shape><Polygon POINTS="574 1671 574 1661 578 1661 578 1671"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1222"
+                   VPOS="1331"
+                   WIDTH="22"
+                   HEIGHT="35"
+                   ID="block_10"
+                   >
+          <Shape><Polygon POINTS="1244 1349 1244 1366 1228 1354 1222 1331"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1276"
+                   VPOS="1416"
+                   WIDTH="17"
+                   HEIGHT="35"
+                   ID="block_11"
+                   >
+          <Shape><Polygon POINTS="1293 1435 1293 1451 1276 1427 1276 1416"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="568"
+                   VPOS="1086"
+                   WIDTH="4"
+                   HEIGHT="11"
+                   ID="block_3"
+                   >
+          <Shape><Polygon POINTS="568 1097 568 1086 572 1086 572 1097"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="197"
+                   VPOS="501"
+                   WIDTH="1139"
+                   HEIGHT="513"
+                   ID="eSc_textblock_479c66b7"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="197 538 197 1014 1336 1014 1336 538 1056 504 403 501"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
