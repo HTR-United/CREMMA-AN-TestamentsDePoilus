@@ -32,6 +32,24 @@ authors:
   - project-manager
   - quality-control
   - support
+- name: Alix
+  surname: "Chagu\xE9"
+  roles:
+  - aligner
+  - project-manager
+  - quality-control
+  - support
+- name: Thibault
+  surname: "Clérice"
+  roles:
+  - aligner
+  - project-manager
+  - quality-control
+  - support
+- name: Falcoz
+  surname: "Elsa"
+  roles:
+  - aligner
 - name: "Marie-Fran\xE7oise"
   surname: Limon-Bonnet
   roles:
@@ -154,10 +172,6 @@ authors:
 - surname: sgauthier
   roles:
   - transcriber
-- name: Alix
-  surname: "Chagu\xE9"
-  roles:
-  - aligner
 - surname: EdChamps
   roles:
   - quality-control
