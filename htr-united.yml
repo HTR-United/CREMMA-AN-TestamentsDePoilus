@@ -40,14 +40,14 @@ authors:
   - quality-control
   - support
 - name: Thibault
-  surname: "Clérice"
+  surname: "Cl\xE9rice"
   roles:
   - aligner
   - project-manager
   - quality-control
   - support
 - name: Falcoz
-  surname: "Elsa"
+  surname: Elsa
   roles:
   - aligner
 - name: "Marie-Fran\xE7oise"
