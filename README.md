@@ -1,6 +1,6 @@
 # CREMMA-AN-TestamentDePoilus
 
-![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
 
 ## Données
 
@@ -157,7 +157,7 @@ Sélection aléatoire, 1 échantillon par département disponible par batch
 | TestamentsDePoilus_will_AN_0225 | Léon Auguste Cros (1885-1914) | Aveyron | 1885 | 2 |
 | TestamentsDePoilus_will_AN_0345 | Georges Julien Lohou (1891-1914) | Seine-Saint-Denis | 1891 | 2 |
 | TestamentsDePoilus_will_AD78_0110 | Henri Victor Georges Houttelette (1885-1918) | Aisne | 1885 | 2 |
-| TestamentsDePoilus_will_AN_0006 | édouard Désiré Cauville (1876-1914) | Manche | 1876 | 2 |
+| TestamentsDePoilus_will_AN_0006 | Édouard Désiré Cauville (1876-1914) | Manche | 1876 | 2 |
 | TestamentsDePoilus_will_AN_0314 | Lucien Marie Pressou (1887-1916) | Orne | 1887 | 2 |
 | TestamentsDePoilus_will_AD78_0003 | Marie François Joseph Pierre Barruel (1882-1915) | Charente | 1882 | 2 |
 | TestamentsDePoilus_will_AN_0091 | Jean Besse (1887-1918) | Corrèze | 1887 | 2 |
@@ -169,8 +169,23 @@ Sélection aléatoire, 1 échantillon par département disponible par batch
 | TestamentsDePoilus_will_AN_0092 | Herman Alcide David-Passod ou David-Passot (1888-1918) | Jura | 1888 | 2 |
 | TestamentsDePoilus_will_AN_0199 | Jean Antonin Fernand Robinet (1890-1917) | Deux-Sèvres | 1890 | 2 |
 | TestamentsDePoilus_will_AN_0218 | Urbain Joseph Célestin Dufréchou (1875-1916) | Hautes-Pyrénées | 1875 | 2 |
-| TestamentsDePoilus_will_AN_0043 | Gaston élisée Justin Simonin (1880-1916) | Haute-Saône | 1880 | 2 |
+| TestamentsDePoilus_will_AN_0043 | Gaston Élisée Justin Simonin (1880-1916) | Haute-Saône | 1880 | 2 |
 | TestamentsDePoilus_will_AN_0344 | Henri Louis Marie Bonnaud (1890-1915) | Var | 1890 | 2 |
+| TestamentsDePoilus_will_AN_0174 | Paul Henri Antoine Rogé (1877-1916) | Paris (France) | 1877 | 3 |
+| TestamentsDePoilus_will_AD78_0023 | Gabriel Louis Lambert (1883-1916) | Yvelines | 1883 | 3 |
+| TestamentsDePoilus_will_AD78_0040 | Médéric Fagnou (1880-1914) | Eure-et-Loir | 1880 | 3 |
+| TestamentsDePoilus_will_AN_0256 | Joseph François Albert André (1886-1918) | Rhône | 1886 | 3 |
+| TestamentsDePoilus_will_AD78_0071 | Albert Alphonse Duval (1880-1914) | Hauts-de-Seine | 1880 | 3 |
+| TestamentsDePoilus_will_AN_0078 | Paul Louis Perdrigeon (1883-1916) | Essonne | 1883 | 3 |
+| TestamentsDePoilus_will_AN_0048 | Florentin Joseph Dupanloup (1874-1917) | Haute-Savoie | 1874 | 3 |
+| TestamentsDePoilus_will_AN_0217 | Auguste François Léon Louis Dubreuil (1876-1916) | Manche | 1876 | 3 |
+| TestamentsDePoilus_will_AN_0169 | Jean Célestin Niceron (1885-1918) | Indre-et-Loire | 1885 | 3 |
+| TestamentsDePoilus_will_AN_0039 | Jean Pierre Pécoul (1877-1915) | Cantal | 1877 | 3 |
+| TestamentsDePoilus_will_AD95_0043 | Paul Alfred Alline (1884-1917) | Val-d’Oise | 1884 | 3 |
+| TestamentsDePoilus_will_AN_0330 | Louis Maurice Momon (1886-1915) | Yonne | 1886 | 3 |
+| TestamentsDePoilus_will_AD78_0061 | Jean Henri Rousselet (1890-1916) | Hérault | 1890 | 3 |
+| TestamentsDePoilus_will_AN_0310 | Georges Kneis ou Kernéis (1882-1917) | Aisne | 1882 | 3 |
+| TestamentsDePoilus_will_AN_0051 | Jules Alexandre Malauze (1886-1917) | Finistère | 1886 | 3 |
 <!-- End Table -->
 
 ## Credits
