@@ -1,3 +1,5 @@
+<img src="https://testaments-de-poilus.huma-num.fr/webapp/app/web/images/FaviconTdP.png" width="100" align=right> <img src="https://testaments-de-poilus.huma-num.fr/webapp/app/web/images/FaviconTdP.png" width="100" align=right>
+
 # CREMMA-AN-TestamentDePoilus
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
