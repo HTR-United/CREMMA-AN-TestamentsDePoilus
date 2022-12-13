@@ -1,4 +1,4 @@
-<img src="https://testaments-de-poilus.huma-num.fr/webapp/app/web/images/FaviconTdP.png" width="100" align=right> <img src="https://testaments-de-poilus.huma-num.fr/webapp/app/web/images/FaviconTdP.png" width="100" align=right>
+<img src="https://testaments-de-poilus.huma-num.fr/webapp/app/web/images/FaviconTdP.png" width="100" align=right> <img src="./cremma_testaments.png" width="120" align=right>
 
 # CREMMA-AN-TestamentDePoilus
 
