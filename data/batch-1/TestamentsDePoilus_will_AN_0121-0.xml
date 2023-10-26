@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -36,34 +36,17 @@
           
           <TextLine ID="line_0"
                     
-                    BASELINE="261 186 1012 187" 
-                    HPOS="258"
-                    VPOS="138"
-                    WIDTH="753"
-                    HEIGHT="64">
-            <Shape><Polygon POINTS="259 184 258 196 470 202 472 202 473 202 484 199 502 192 519 199 527 202 529 202 530 202 547 199 573 193 596 199 607 202 609 202 610 202 630 199 685 192 707 201 712 202 713 202 715 202 716 202 718 202 718 201 719 201 727 193 752 199 753 199 755 199 756 199 784 192 796 201 798 202 799 202 801 202 802 202 827 201 975 192 1007 202 1011 186 1008 153 961 153 959 153 938 138 936 138 935 138 821 138 819 138 818 138 816 138 807 147 784 138 782 138 781 138 779 138 778 138 755 155 753 155 741 144 739 144 738 144 736 144 735 144 733 144 733 146 722 155 718 161 655 161 645 155 609 139 607 139 605 139 604 139 602 139 576 156 569 161 429 161 422 158 372 138 370 138 309 138 307 138 306 138 304 138 278 158 276 159 259 159 259 184"/></Shape>
+                    BASELINE="224 179 430 196 435 196 1012 187" 
+                    HPOS="222"
+                    VPOS="62"
+                    WIDTH="789"
+                    HEIGHT="144">
+            <Shape><Polygon POINTS="318 193 329 198 341 202 342 202 344 204 344 202 346 202 356 198 367 193 375 198 382 204 384 204 386 204 387 206 536 206 536 204 598 199 656 195 733 199 755 201 756 201 758 201 762 199 787 193 815 201 824 202 825 202 827 202 828 202 835 201 853 193 879 201 881 201 882 201 884 201 888 201 962 190 1010 201 1011 186 1010 161 975 147 973 147 971 147 970 147 959 153 936 136 935 136 933 136 931 136 824 138 822 138 821 149 826 135 825 98 763 116 768 138 767 138 765 138 765 139 750 155 741 147 741 146 739 146 738 146 736 146 735 146 733 146 733 147 725 155 718 162 656 162 639 152 610 138 609 138 607 138 605 138 604 138 584 152 565 162 535 162 467 155 465 155 464 155 432 162 396 147 379 139 378 139 335 77 311 71 293 82 294 62 288 76 263 127 262 155 261 155 259 155 258 155 256 155 255 155 249 161 224 142 222 178 222 196"/></Shape>
 	    <String CONTENT="Paris 2 Aout"
-                    HPOS="258"
-                    VPOS="138"
-                    WIDTH="753"
-                    HEIGHT="64"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_9"
-                    
-                    BASELINE="875 104 1088 95 1348 99" 
-                    HPOS="871.0"
-                    VPOS="47.0"
-                    WIDTH="477.0"
-                    HEIGHT="62.0">
-            <Shape><Polygon POINTS="875 104 871 67 921 66 941 47 941 47 942 47 942 47 942 47 944 47 944 47 945 47 1007 47 1007 47 1007 47 1008 47 1008 47 1008 47 1010 47 1024 58 1036 47 1036 47 1038 47 1038 47 1038 47 1039 47 1039 47 1041 47 1041 47 1041 47 1042 47 1042 47 1042 47 1044 47 1044 47 1059 61 1061 61 1061 61 1078 49 1079 49 1079 49 1079 49 1081 49 1081 49 1081 49 1082 49 1082 49 1139 58 1164 63 1345 53 1348 99 1348 109 875 109"/></Shape>
-	    <String CONTENT="Page première"
-                    HPOS="871.0"
-                    VPOS="47.0"
-                    WIDTH="477.0"
-                    HEIGHT="62.0"></String>
+                    HPOS="222"
+                    VPOS="62"
+                    WIDTH="789"
+                    HEIGHT="144"></String>
           </TextLine>
 
           

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -32,23 +32,6 @@
                    ID="block_2"
                    TAGREFS="BT4215">
           <Shape><Polygon POINTS="2365 1095 2417 1354 2313 1538 2404 2211 2391 3643 530 3668 478 3630 478 3353 500 3353 500 2004 489 2004 491 2000 490 1979 495 1979 495 1919 565 1919 565 1899 550 1884 555 1119 550 1029 535 909 585 909 605 879 630 834 685 400 635 400 635 310 170 310 181 142 1747 90 2352 90 2391 168 2339 371 2404 762"/></Shape>
-          
-          
-          <TextLine ID="line_0"
-                    
-                    BASELINE="1702 158 2177 148 2371 161" 
-                    HPOS="1692.0"
-                    VPOS="87.0"
-                    WIDTH="679.0"
-                    HEIGHT="103.0">
-            <Shape><Polygon POINTS="1702 158 1692 113 1753 87 1753 87 1757 87 1757 87 1760 87 2365 106 2371 161 2371 184 2242 187 2239 187 2239 187 2239 187 2232 187 2116 161 1702 190"/></Shape>
-	    <String CONTENT="Page première"
-                    HPOS="1692.0"
-                    VPOS="87.0"
-                    WIDTH="679.0"
-                    HEIGHT="103.0"></String>
-          </TextLine>
-
           
           
           <TextLine ID="line_5"

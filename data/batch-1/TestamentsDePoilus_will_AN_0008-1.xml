@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -32,23 +32,6 @@
                    ID="block_4"
                    TAGREFS="BT4215">
           <Shape><Polygon POINTS="2300 940 2378 1099 2352 1186 2404 1409 2378 2737 2417 2983 2378 3203 2430 3271 2430 3733 491 3746 440 3268 475 2973 485 2973 485 1194 517 1173 530 271 310 268 168 358 116 229 142 103 747 103 841 168 2326 142 2417 193 2430 785 2300 879"/></Shape>
-          
-          
-          <TextLine ID="line_0"
-                    
-                    BASELINE="148 206 478 164 750 148" 
-                    HPOS="132.0"
-                    VPOS="90.0"
-                    WIDTH="618.0"
-                    HEIGHT="149.0">
-            <Shape><Polygon POINTS="148 206 132 109 300 90 300 90 304 90 304 90 307 90 307 90 307 90 310 90 326 103 362 126 417 100 423 96 423 96 427 96 427 96 427 96 430 96 430 96 433 96 433 96 440 96 469 109 482 96 488 90 488 90 491 90 491 90 491 90 495 90 495 90 498 90 744 90 750 148 750 174 533 177 511 200 511 200 511 200 508 200 508 200 504 200 504 200 504 200 501 200 501 200 498 200 443 187 401 213 398 213 398 213 398 213 394 213 394 213 394 213 391 213 391 213 391 213 330 203 310 219 310 223 310 223 307 223 307 223 307 223 307 223 304 223 304 223 148 239"/></Shape>
-	    <String CONTENT="Page deuxième"
-                    HPOS="132.0"
-                    VPOS="90.0"
-                    WIDTH="618.0"
-                    HEIGHT="149.0"></String>
-          </TextLine>
-
           
           
           <TextLine ID="line_2"
@@ -238,23 +221,6 @@
 
           
           
-          <TextLine ID="line_15"
-                    
-                    BASELINE="533 1558 1944 1561 2213 1528 2384 1528" 
-                    HPOS="524.0"
-                    VPOS="1467.0"
-                    WIDTH="1860.0"
-                    HEIGHT="123.0">
-            <Shape><Polygon POINTS="533 1558 524 1509 621 1470 621 1470 624 1470 624 1470 627 1470 721 1470 721 1470 721 1470 724 1470 724 1470 724 1470 728 1470 728 1470 728 1474 760 1499 828 1496 854 1474 854 1470 857 1470 857 1470 857 1470 860 1470 860 1470 863 1470 990 1470 990 1470 990 1470 993 1470 993 1470 993 1470 996 1470 1032 1496 1048 1506 1177 1493 1258 1486 1258 1486 1261 1486 1261 1486 1265 1486 1265 1486 1278 1490 1316 1506 1423 1490 1423 1490 1426 1490 1426 1490 1543 1506 1595 1483 1611 1477 1611 1477 1614 1477 1614 1477 1614 1477 1617 1477 1617 1477 1617 1477 1621 1477 1621 1477 1634 1483 1685 1509 2015 1509 2155 1474 2155 1474 2155 1474 2158 1474 2158 1474 2158 1474 2223 1486 2255 1467 2255 1467 2258 1467 2258 1467 2261 1467 2261 1467 2265 1467 2381 1467 2384 1528 2384 1570 1983 1590 1980 1590 1980 1590 1860 1574 1857 1574 1854 1574 1808 1590 1808 1590 1805 1590 1805 1590 1802 1590 530 1574"/></Shape>
-	    <String CONTENT="tué lui aussi au feu. les autres façons,"
-                    HPOS="524.0"
-                    VPOS="1467.0"
-                    WIDTH="1860.0"
-                    HEIGHT="123.0"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="line_14"
                     
                     BASELINE="1718 1496 2248 1486" 
@@ -268,6 +234,23 @@
                     VPOS="1428.0"
                     WIDTH="537.0"
                     HEIGHT="97.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    
+                    BASELINE="533 1558 1944 1561 2213 1528 2384 1528" 
+                    HPOS="524.0"
+                    VPOS="1467.0"
+                    WIDTH="1860.0"
+                    HEIGHT="123.0">
+            <Shape><Polygon POINTS="533 1558 524 1509 621 1470 621 1470 624 1470 624 1470 627 1470 721 1470 721 1470 721 1470 724 1470 724 1470 724 1470 728 1470 728 1470 728 1474 760 1499 828 1496 854 1474 854 1470 857 1470 857 1470 857 1470 860 1470 860 1470 863 1470 990 1470 990 1470 990 1470 993 1470 993 1470 993 1470 996 1470 1032 1496 1048 1506 1177 1493 1258 1486 1258 1486 1261 1486 1261 1486 1265 1486 1265 1486 1278 1490 1316 1506 1423 1490 1423 1490 1426 1490 1426 1490 1543 1506 1595 1483 1611 1477 1611 1477 1614 1477 1614 1477 1614 1477 1617 1477 1617 1477 1617 1477 1621 1477 1621 1477 1634 1483 1685 1509 2015 1509 2155 1474 2155 1474 2155 1474 2158 1474 2158 1474 2158 1474 2223 1486 2255 1467 2255 1467 2258 1467 2258 1467 2261 1467 2261 1467 2265 1467 2381 1467 2384 1528 2384 1570 1983 1590 1980 1590 1980 1590 1860 1574 1857 1574 1854 1574 1808 1590 1808 1590 1805 1590 1805 1590 1802 1590 530 1574"/></Shape>
+	    <String CONTENT="tué lui aussi au feu. les autres façons,"
+                    HPOS="524.0"
+                    VPOS="1467.0"
+                    WIDTH="1860.0"
+                    HEIGHT="123.0"></String>
           </TextLine>
 
           

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -34,36 +34,19 @@
           <Shape><Polygon POINTS="35 377 35 2858 428 2858 428 377"/></Shape>
           
           
-          <TextLine ID="eSc_line_645ff359"
-                    
-                    BASELINE="312 1575 312 1499 307 1419 302 1197 302 1167 287 1102 287 1072 287 911 282 875 272 639 272 634 272 629 272 563 272 553 277 558" 
-                    HPOS="272"
-                    VPOS="553"
-                    WIDTH="40"
-                    HEIGHT="1022">
-            
-	    <String CONTENT="d’assurance et des bijoux. La combinaison"
-                    HPOS="272"
-                    VPOS="553"
-                    WIDTH="40"
-                    HEIGHT="1022"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_22f46484"
                     
-                    BASELINE="146 1610 136 1514 141 1318 141 1283 146 1248 151 1243 156 1157 141 981 136 956 136 911 131 906 131 790 131 604 131 523 126 518 126 483 116 458 116 443 111 443 111 428 106 428 106 418" 
-                    HPOS="64"
+                    BASELINE="138 1651 136 1514 141 1318 141 1283 146 1248 151 1243 156 1157 141 981 136 956 136 911 131 906 131 790 131 604 131 523 126 518 126 483 116 458 116 443 111 443 111 428 106 428 106 418" 
+                    HPOS="71"
                     VPOS="413"
-                    WIDTH="129"
-                    HEIGHT="1193">
-            <Shape><Polygon POINTS="103 416 64 416 90 948 87 1603 145 1606 193 1603 154 413 103 416"/></Shape>
+                    WIDTH="116"
+                    HEIGHT="1235">
+            <Shape><Polygon POINTS="103 416 71 416 96 1648 135 1648 164 1645 187 1445 187 1442 154 413 103 416"/></Shape>
 	    <String CONTENT="J’ai remis la clef de mon coffre fort 8.13"
-                    HPOS="64"
+                    HPOS="71"
                     VPOS="413"
-                    WIDTH="129"
-                    HEIGHT="1193"></String>
+                    WIDTH="116"
+                    HEIGHT="1235"></String>
           </TextLine>
 
           
@@ -76,7 +59,7 @@
                     WIDTH="106"
                     HEIGHT="184">
             <Shape><Polygon POINTS="329 1448 339 1629 384 1629 435 1616 419 1564 432 1445 364 1448 329 1448"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="31 607"
                     HPOS="329"
                     VPOS="1445"
                     WIDTH="106"
@@ -87,17 +70,34 @@
           
           <TextLine ID="eSc_line_79a35c52"
                     
-                    BASELINE="247 1655 247 1645 236 1585 216 1464 211 1459 211 1444 201 1424 201 1313 206 1308 206 1273 211 1243 206 1207 196 916 196 890 201 885 201 745 196 740 196 694 196 523 186 483 186 458 181 458 181 428" 
+                    BASELINE="247 1655 247 1645 236 1585 216 1464 211 1459 211 1444 201 1424 201 1313 206 1308 206 1273 211 1243 206 1207 196 916 196 890 201 885 201 745 196 740 196 694 181 428" 
                     HPOS="125"
                     VPOS="422"
-                    WIDTH="172"
+                    WIDTH="162"
                     HEIGHT="1230">
-            <Shape><Polygon POINTS="180 425 125 425 154 745 154 861 138 884 138 887 138 890 138 893 138 897 138 900 142 900 142 903 154 913 142 967 142 977 142 980 145 993 161 1074 158 1377 158 1400 158 1403 158 1410 180 1519 167 1648 245 1652 297 1642 277 1513 287 1445 290 1419 290 1416 290 1413 290 1410 287 1410 287 1406 261 1381 255 1310 255 1155 271 1129 277 1119 277 1116 277 1113 277 1109 277 1106 267 1074 255 1026 264 997 271 974 271 971 271 967 271 964 261 938 242 890 255 848 258 842 258 838 258 835 255 806 238 716 248 700 258 687 258 684 258 680 258 677 258 674 245 642 232 609 232 422 180 425"/></Shape>
+            <Shape><Polygon POINTS="180 425 125 425 129 532 132 542 132 548 161 1106 158 1390 158 1435 158 1439 158 1442 158 1448 180 1519 167 1648 245 1652 287 1645 232 422 180 425"/></Shape>
 	    <String CONTENT="à Mr Jaillet. Il y a la des papiers, mes polices"
                     HPOS="125"
                     VPOS="422"
-                    WIDTH="172"
+                    WIDTH="162"
                     HEIGHT="1230"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2417b6da"
+                    
+                    BASELINE="328 1647 296 878 296 878 298 532" 
+                    HPOS="232"
+                    VPOS="525"
+                    WIDTH="110"
+                    HEIGHT="1120">
+            <Shape><Polygon POINTS="297 529 242 529 232 864 232 867 235 955 235 958 235 961 238 961 251 977 258 984 255 1032 242 1151 242 1155 258 1229 267 1277 267 1642 326 1645 342 1639 309 525 297 529"/></Shape>
+	    <String CONTENT="d’assurance et des bijoux. La combinaison"
+                    HPOS="232"
+                    VPOS="525"
+                    WIDTH="110"
+                    HEIGHT="1120"></String>
           </TextLine>
 
           

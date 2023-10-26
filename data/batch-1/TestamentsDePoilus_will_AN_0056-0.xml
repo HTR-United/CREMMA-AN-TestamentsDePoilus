@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -24,84 +24,6 @@
                   VPOS="0"
                   WIDTH="2192"
                   HEIGHT="3123">
-        
-        <TextBlock HPOS="1073"
-                   VPOS="72"
-                   WIDTH="994"
-                   HEIGHT="373"
-                   ID="block_6"
-                   TAGREFS="BT4218">
-          <Shape><Polygon POINTS="1973 445 1091 405 1091 257 1083 257 1093 208 1073 206 1073 196 1330 196 1330 153 1298 153 1442 145 1528 72 2067 72 2056 392"/></Shape>
-          
-          
-          <TextLine ID="line_8"
-                    
-                    BASELINE="1551 150 1785 130 2067 122" 
-                    HPOS="1543.0"
-                    VPOS="65.0"
-                    WIDTH="524.0"
-                    HEIGHT="117.0">
-            <Shape><Polygon POINTS="1551 150 1543 109 1986 65 1986 65 1988 65 1988 65 1988 65 2061 83 2067 122 2067 148 1895 182 1895 182 1892 182 1892 182 1892 182 1890 182 1890 182 1887 182 1887 182 1856 158 1850 156 1551 171"/></Shape>
-	    <String CONTENT="Page premiere"
-                    HPOS="1543.0"
-                    VPOS="65.0"
-                    WIDTH="524.0"
-                    HEIGHT="117.0"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_9"
-                    
-                    BASELINE="1538 197 1876 189" 
-                    HPOS="1530.0"
-                    VPOS="145.0"
-                    WIDTH="346.0"
-                    HEIGHT="73.0">
-            <Shape><Polygon POINTS="1538 197 1530 153 1869 145 1876 189 1876 205 1538 218"/></Shape>
-	    <String CONTENT="et derniére"
-                    HPOS="1530.0"
-                    VPOS="145.0"
-                    WIDTH="346.0"
-                    HEIGHT="73.0"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_10"
-                    
-                    BASELINE="1299 291 1681 283" 
-                    HPOS="1288.0"
-                    VPOS="182.0"
-                    WIDTH="393.0"
-                    HEIGHT="122.0">
-            <Shape><Polygon POINTS="1299 291 1288 236 1418 182 1418 182 1421 182 1421 182 1421 182 1424 182 1424 182 1676 229 1681 283 1681 291 1299 304"/></Shape>
-	    <String CONTENT="Paris"
-                    HPOS="1288.0"
-                    VPOS="182.0"
-                    WIDTH="393.0"
-                    HEIGHT="122.0"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_11"
-                    
-                    BASELINE="1124 382 1684 379 1918 390" 
-                    HPOS="1116.0"
-                    VPOS="281.0"
-                    WIDTH="802.0"
-                    HEIGHT="132.0">
-            <Shape><Polygon POINTS="1124 382 1116 309 1200 281 1202 281 1202 281 1205 281 1286 281 1286 281 1286 281 1288 281 1288 281 1340 304 1361 291 1364 291 1364 291 1364 291 1366 291 1366 291 1369 291 1369 291 1369 291 1371 291 1371 291 1371 291 1374 291 1374 291 1374 294 1390 307 1390 309 1426 309 1429 307 1465 281 1468 281 1468 281 1468 281 1470 281 1470 281 1470 281 1473 281 1473 281 1473 281 1476 281 1543 304 1561 288 1561 288 1564 288 1564 288 1564 288 1567 288 1567 288 1569 288 1569 288 1569 288 1572 288 1616 301 1640 281 1640 281 1642 281 1642 281 1642 281 1645 281 1645 281 1645 281 1647 281 1647 281 1650 281 1650 281 1650 281 1699 307 1702 307 1705 307 1741 294 1744 294 1744 294 1744 294 1746 294 1746 294 1746 294 1749 294 1749 294 1752 294 1770 307 1775 307 1913 307 1918 390 1916 408 1702 413 1699 413 1699 413 1697 413 1697 413 1697 413 1679 403 1658 392 1528 392 1507 400 1470 413 1470 413 1468 413 1468 413 1465 413 1465 413 1465 413 1392 398 1366 392 1122 392"/></Shape>
-	    <String CONTENT="le 2 Août 1914"
-                    HPOS="1116.0"
-                    VPOS="281.0"
-                    WIDTH="802.0"
-                    HEIGHT="132.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
         <TextBlock HPOS="656"
                    VPOS="687"
@@ -414,6 +336,50 @@
                     VPOS="2841.0"
                     WIDTH="508.0"
                     HEIGHT="227.0"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1073"
+                   VPOS="72"
+                   WIDTH="994"
+                   HEIGHT="373"
+                   ID="block_6"
+                   TAGREFS="BT4218">
+          <Shape><Polygon POINTS="1973 445 1091 405 1091 257 1083 257 1093 208 1073 206 1073 196 1330 196 1330 153 1298 153 1442 145 1528 72 2067 72 2056 392"/></Shape>
+          
+          
+          <TextLine ID="line_10"
+                    
+                    BASELINE="1299 291 1681 283" 
+                    HPOS="1288.0"
+                    VPOS="182.0"
+                    WIDTH="393.0"
+                    HEIGHT="122.0">
+            <Shape><Polygon POINTS="1299 291 1288 236 1418 182 1418 182 1421 182 1421 182 1421 182 1424 182 1424 182 1676 229 1681 283 1681 291 1299 304"/></Shape>
+	    <String CONTENT="Paris"
+                    HPOS="1288.0"
+                    VPOS="182.0"
+                    WIDTH="393.0"
+                    HEIGHT="122.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_11"
+                    
+                    BASELINE="1124 382 1684 379 1918 390" 
+                    HPOS="1116.0"
+                    VPOS="281.0"
+                    WIDTH="802.0"
+                    HEIGHT="132.0">
+            <Shape><Polygon POINTS="1124 382 1116 309 1200 281 1202 281 1202 281 1205 281 1286 281 1286 281 1286 281 1288 281 1288 281 1340 304 1361 291 1364 291 1364 291 1364 291 1366 291 1366 291 1369 291 1369 291 1369 291 1371 291 1371 291 1371 291 1374 291 1374 291 1374 294 1390 307 1390 309 1426 309 1429 307 1465 281 1468 281 1468 281 1468 281 1470 281 1470 281 1470 281 1473 281 1473 281 1473 281 1476 281 1543 304 1561 288 1561 288 1564 288 1564 288 1564 288 1567 288 1567 288 1569 288 1569 288 1569 288 1572 288 1616 301 1640 281 1640 281 1642 281 1642 281 1642 281 1645 281 1645 281 1645 281 1647 281 1647 281 1650 281 1650 281 1650 281 1699 307 1702 307 1705 307 1741 294 1744 294 1744 294 1744 294 1746 294 1746 294 1746 294 1749 294 1749 294 1752 294 1770 307 1775 307 1913 307 1918 390 1916 408 1702 413 1699 413 1699 413 1697 413 1697 413 1697 413 1679 403 1658 392 1528 392 1507 400 1470 413 1470 413 1468 413 1468 413 1465 413 1465 413 1465 413 1392 398 1366 392 1122 392"/></Shape>
+	    <String CONTENT="le 2 Août 1914"
+                    HPOS="1116.0"
+                    VPOS="281.0"
+                    WIDTH="802.0"
+                    HEIGHT="132.0"></String>
           </TextLine>
 
           

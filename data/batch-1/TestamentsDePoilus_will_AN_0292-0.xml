@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -32,23 +32,6 @@
                    ID="block_2"
                    >
           <Shape><Polygon POINTS="1408 285 113 254 175 195 329 213 316 172 195 172 223 151 82 172 92 82 216 72 810 72 988 133 1562 113 1696 244"/></Shape>
-          
-          
-          <TextLine ID="line_0"
-                    
-                    BASELINE="74 133 491 128" 
-                    HPOS="69.0"
-                    VPOS="74.0"
-                    WIDTH="422.0"
-                    HEIGHT="88.0">
-            <Shape><Polygon POINTS="74 133 69 87 463 74 466 74 466 74 468 74 468 74 468 74 471 74 471 74 491 90 491 128 491 136 378 141 373 144 352 159 350 159 350 159 350 159 347 159 347 159 344 159 344 159 257 151 167 144 74 162"/></Shape>
-	    <String CONTENT="age unique"
-                    HPOS="69.0"
-                    VPOS="74.0"
-                    WIDTH="422.0"
-                    HEIGHT="88.0"></String>
-          </TextLine>
-
           
           
           <TextLine ID="line_2"
@@ -103,7 +86,7 @@
                     WIDTH="1352.0"
                     HEIGHT="116.0">
             <Shape><Polygon POINTS="265 689 254 632 270 617 270 614 270 614 272 614 272 614 272 614 275 614 275 614 278 614 278 614 278 614 280 614 280 614 321 632 350 645 381 632 424 612 424 612 427 612 427 612 427 612 429 612 429 612 429 612 432 612 432 612 435 612 468 632 494 645 859 645 875 635 911 609 913 609 913 609 913 609 916 609 916 609 919 609 1004 609 1004 609 1004 609 1006 609 1006 609 1006 609 1009 609 1045 635 1045 635 1047 635 1078 609 1078 609 1081 609 1081 609 1081 609 1083 609 1083 609 1083 609 1166 606 1168 606 1168 606 1171 606 1171 606 1240 635 1251 640 1258 635 1307 606 1310 606 1310 606 1313 606 1313 606 1315 606 1392 606 1392 606 1392 606 1395 606 1395 606 1467 637 1477 642 1526 642 1534 637 1557 619 1560 619 1560 619 1560 619 1562 619 1562 619 1562 619 1565 619 1565 619 1567 619 1567 619 1567 619 1603 637 1606 681 1603 707 1341 696 1264 712 1258 712 1258 712 1258 712 1256 712 1256 712 1253 712 1253 712 1253 712 1253 712 1251 712 1251 712 1225 694 1071 714 1060 714 1060 714 1058 714 1058 714 1050 714 934 696 903 709 903 709 901 709 901 709 901 709 898 709 738 699 265 722"/></Shape>
-	    <String CONTENT="Je par comme l&#39;on doit faire a"
+	    <String CONTENT="Je par comme l&#x27;on doit faire ce"
                     HPOS="254.0"
                     VPOS="606.0"
                     WIDTH="1352.0"
@@ -120,7 +103,7 @@
                     WIDTH="1251.0"
                     HEIGHT="139.0">
             <Shape><Polygon POINTS="275 794 270 735 344 717 344 717 344 717 347 717 347 717 347 717 350 717 350 717 352 717 352 717 370 732 605 732 610 732 610 730 687 691 687 691 687 691 689 691 689 691 689 691 692 691 692 691 695 691 695 691 695 691 738 712 782 691 782 691 782 691 785 691 785 691 787 691 787 691 787 691 849 702 957 689 957 689 960 689 960 689 960 689 962 689 962 689 993 702 1104 689 1104 689 1107 689 1107 689 1109 689 1109 689 1109 689 1112 689 1112 689 1132 704 1238 689 1238 689 1240 689 1240 689 1240 689 1243 689 1243 689 1243 689 1246 689 1271 707 1295 689 1295 686 1295 686 1297 686 1297 686 1297 686 1300 686 1300 686 1302 686 1351 686 1351 686 1351 686 1354 686 1354 686 1354 686 1356 686 1408 725 1516 725 1521 776 1521 799 1482 804 1482 804 1480 804 1480 804 1480 804 1477 804 1477 804 1475 804 1475 804 1475 802 1472 802 1454 786 1400 802 1398 802 1398 802 1398 802 1395 802 1395 802 1395 802 1395 802 1392 802 1392 802 1392 802 1367 789 1271 804 1199 817 1199 817 1197 817 1197 817 1197 817 1194 817 1194 817 1194 817 1176 807 1143 789 996 802 996 802 993 802 993 802 991 802 991 802 991 802 960 786 924 804 924 804 921 804 921 804 921 804 919 804 682 792 646 792 612 820 610 822 610 822 607 822 607 822 607 822 605 822 605 822 605 825 509 825 507 822 507 822 504 822 504 822 504 822 502 822 502 822 502 822 471 797 391 797 278 825"/></Shape>
-	    <String CONTENT="qu&#39;un patriote doit faire"
+	    <String CONTENT="qu&#x27;un patriote doit faire"
                     HPOS="270.0"
                     VPOS="686.0"
                     WIDTH="1251.0"
@@ -435,36 +418,19 @@
 
           
           
-          <TextLine ID="line_24"
+          <TextLine ID="eSc_line_4a27891d"
                     
-                    BASELINE="77 2548 319 2515 607 2509" 
-                    HPOS="64.0"
-                    VPOS="2450.0"
-                    WIDTH="543.0"
-                    HEIGHT="116.0">
-            <Shape><Polygon POINTS="77 2548 64 2499 105 2468 105 2468 108 2468 108 2468 108 2468 110 2468 110 2468 113 2468 113 2468 113 2468 115 2468 187 2489 262 2458 262 2458 265 2458 265 2458 267 2458 267 2458 267 2458 270 2458 326 2476 347 2455 347 2455 347 2453 347 2453 350 2453 350 2453 352 2453 352 2453 352 2453 422 2450 424 2450 424 2450 424 2450 427 2450 427 2450 429 2450 429 2450 429 2453 450 2468 599 2463 607 2509 607 2533 342 2533 77 2566"/></Shape>
-	    <String CONTENT="XXXX Paris."
-                    HPOS="64.0"
-                    VPOS="2450.0"
-                    WIDTH="543.0"
-                    HEIGHT="116.0"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_26"
-                    
-                    BASELINE="43 2674 308 2651" 
-                    HPOS="36.0"
-                    VPOS="2576.0"
-                    WIDTH="278.0"
-                    HEIGHT="173.0">
-            <Shape><Polygon POINTS="43 2674 36 2615 105 2587 105 2587 108 2587 108 2587 110 2587 110 2587 175 2594 208 2597 298 2576 308 2651 314 2666 252 2710 249 2710 249 2710 249 2710 247 2710 247 2710 247 2710 244 2710 244 2710 242 2710 242 2710 211 2697 167 2682 126 2725 105 2743 105 2746 105 2746 102 2746 102 2746 102 2746 100 2746 100 2746 48 2749"/></Shape>
-	    <String CONTENT="6 juin XXXX"
-                    HPOS="36.0"
-                    VPOS="2576.0"
-                    WIDTH="278.0"
-                    HEIGHT="173.0"></String>
+                    BASELINE="300 2518 319 2515 607 2509" 
+                    HPOS="296"
+                    VPOS="2455"
+                    WIDTH="309"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="298 2517 298 2535 602 2533 605 2507 597 2466 458 2471 442 2463 432 2455 429 2455 427 2455 424 2455 388 2461 326 2473 296 2461 298 2517"/></Shape>
+	    <String CONTENT=""
+                    HPOS="296"
+                    VPOS="2455"
+                    WIDTH="309"
+                    HEIGHT="80"></String>
           </TextLine>
 
           
@@ -499,23 +465,6 @@
                     VPOS="2605"
                     WIDTH="492"
                     HEIGHT="108"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_27"
-                    
-                    BASELINE="36 2831 113 2826 244 2787 375 2779" 
-                    HPOS="23.0"
-                    VPOS="2695.0"
-                    WIDTH="358.0"
-                    HEIGHT="236.0">
-            <Shape><Polygon POINTS="36 2831 23 2764 66 2756 66 2756 82 2731 82 2731 84 2731 84 2728 84 2728 87 2728 87 2728 87 2728 90 2728 90 2728 90 2728 275 2720 296 2697 296 2697 296 2695 296 2695 298 2695 298 2695 298 2695 301 2695 301 2695 303 2695 303 2695 303 2695 365 2707 375 2779 381 2833 329 2844 324 2849 257 2918 257 2921 257 2921 254 2921 254 2921 254 2921 252 2921 252 2921 172 2931 172 2931 169 2931 169 2931 169 2931 167 2931 97 2908 74 2900 54 2918"/></Shape>
-	    <String CONTENT="XXXX"
-                    HPOS="23.0"
-                    VPOS="2695.0"
-                    WIDTH="358.0"
-                    HEIGHT="236.0"></String>
           </TextLine>
 
           

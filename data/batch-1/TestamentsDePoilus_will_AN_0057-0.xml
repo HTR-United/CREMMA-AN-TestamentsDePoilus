@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -239,33 +239,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="1259"
-                   VPOS="83"
-                   WIDTH="879"
-                   HEIGHT="470"
-                   ID="block_3"
-                   TAGREFS="BT4218">
-          <Shape><Polygon POINTS="1939 553 1823 521 1269 553 1259 429 1311 367 1498 325 1655 377 1826 301 1385 280 1353 249 1374 146 1542 83 2138 94 2138 207 2001 356 2033 469"/></Shape>
-          
-          
-          <TextLine ID="line_2"
-                    
-                    BASELINE="1380 233 1778 194 2125 183" 
-                    HPOS="1367.0"
-                    VPOS="117.0"
-                    WIDTH="758.0"
-                    HEIGHT="150.0">
-            <Shape><Polygon POINTS="1380 233 1367 178 1406 146 1406 146 1408 146 1408 146 1408 146 1411 146 1411 146 1414 146 1414 146 1414 146 1479 159 1524 138 1524 138 1524 138 1527 138 1527 138 1637 131 1639 131 1639 131 1639 131 1642 131 1642 131 1694 154 1873 133 1873 133 1876 133 1876 133 1876 133 1878 133 1878 133 1881 133 1881 133 1891 144 1910 128 1910 128 1912 128 1912 128 1915 128 1915 128 1915 128 1918 128 2046 133 2062 120 2062 117 2062 117 2064 117 2064 117 2064 117 2067 117 2067 117 2067 117 2070 117 2070 117 2072 117 2122 131 2125 183 2122 204 1988 201 1952 220 1904 243 1904 243 1904 243 1902 243 1902 243 1834 249 1831 249 1831 249 1831 249 1828 249 1828 249 1828 249 1799 233 1778 222 1650 222 1618 249 1600 264 1600 264 1597 264 1597 264 1597 264 1595 264 1595 264 1595 264 1380 267"/></Shape>
-	    <String CONTENT="Page unique"
-                    HPOS="1367.0"
-                    VPOS="117.0"
-                    WIDTH="758.0"
-                    HEIGHT="150.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="283"
                    VPOS="83"
                    WIDTH="533"
@@ -273,6 +246,16 @@
                    ID="block_1"
                    TAGREFS="BT4217">
           <Shape><Polygon POINTS="283 249 304 83 679 94 734 146 805 146 816 207"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1259"
+                   VPOS="83"
+                   WIDTH="879"
+                   HEIGHT="470"
+                   ID="block_3"
+                   TAGREFS="BT4218">
+          <Shape><Polygon POINTS="1939 553 1823 521 1269 553 1259 429 1311 367 1498 325 1655 377 1826 301 1385 280 1353 249 1374 146 1542 83 2138 94 2138 207 2001 356 2033 469"/></Shape>
           
         </TextBlock>
         

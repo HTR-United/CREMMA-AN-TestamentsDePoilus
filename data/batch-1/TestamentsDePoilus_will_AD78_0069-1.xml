@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -86,7 +86,7 @@
                     WIDTH="120"
                     HEIGHT="857">
             <Shape><Polygon POINTS="462 949 462 1137 462 1139 467 1154 479 1183 470 1224 462 1261 462 1263 462 1266 472 1288 477 1300 472 1307 462 1331 462 1334 462 1336 472 1590 472 1592 482 1614 499 1643 504 1765 489 1801 540 1806 567 1799 582 1704 582 1702 582 1699 564 1650 560 1641 560 1400 555 1064 555 1061 550 1047 535 998 547 949 501 949 462 949"/></Shape>
-	    <String CONTENT="Eviter les complications et"
+	    <String CONTENT="les procedures couteuses"
                     HPOS="462"
                     VPOS="949"
                     WIDTH="120"
@@ -103,7 +103,7 @@
                     WIDTH="124"
                     HEIGHT="886">
             <Shape><Polygon POINTS="652 1826 652 1816 645 1806 652 1779 652 1777 652 1753 652 1738 633 1687 650 1653 652 1648 652 1631 652 1607 652 1582 652 1558 652 1551 645 1543 628 1526 628 1473 628 1390 638 1358 650 1317 650 1314 650 1312 650 1310 633 1278 623 1256 623 1224 630 1215 647 1195 647 1193 647 1190 647 1188 647 1185 633 1127 645 1078 645 1076 645 1073 645 1071 645 1068 642 1068 625 1049 638 1015 638 1012 638 1010 638 1008 638 1005 635 1005 618 988 618 986 618 952 564 954 528 954 528 1054 528 1056 528 1059 528 1061 530 1061 533 1066 545 1076 535 1100 530 1112 530 1115 530 1117 530 1120 535 1139 552 1190 540 1232 533 1251 533 1254 533 1256 533 1258 540 1288 555 1336 543 1348 540 1351 540 1353 540 1356 540 1358 540 1361 545 1370 550 1385 545 1417 538 1475 538 1478 538 1480 550 1502 560 1521 550 1541 540 1565 540 1568 540 1570 540 1573 552 1619 562 1653 562 1835 596 1838 652 1828 652 1826"/></Shape>
-	    <String CONTENT="les procedures couteuses"
+	    <String CONTENT="Eviter les complications et"
                     HPOS="528"
                     VPOS="952"
                     WIDTH="124"
@@ -114,51 +114,51 @@
           
           <TextLine ID="eSc_line_e4c4566c"
                     
-                    BASELINE="131 1142 131 1210 131 1350 131 1400 144 1472 144 1493 157 1544 157 1561 165 1595 178 1684 182 1747 182 1815" 
-                    HPOS="104"
-                    VPOS="1134"
-                    WIDTH="120"
-                    HEIGHT="680">
-            <Shape><Polygon POINTS="129 1139 109 1139 116 1273 114 1280 104 1317 104 1319 104 1322 124 1463 126 1480 126 1482 114 1512 114 1514 114 1517 126 1704 126 1706 138 1731 148 1750 141 1762 133 1772 133 1775 133 1777 133 1779 133 1782 141 1814 180 1814 224 1809 221 1741 221 1738 219 1731 202 1699 211 1658 214 1641 214 1638 214 1636 214 1633 211 1633 209 1629 194 1616 202 1573 202 1570 202 1568 202 1565 189 1551 199 1538 206 1531 206 1529 206 1526 206 1524 204 1482 204 1480 192 1453 182 1429 187 1392 189 1373 189 1370 189 1368 182 1346 175 1319 180 1312 192 1292 192 1290 192 1288 192 1285 192 1283 175 1246 170 1239 163 1134 129 1139"/></Shape>
-	    <String CONTENT="Fait en double expedition"
-                    HPOS="104"
-                    VPOS="1134"
-                    WIDTH="120"
-                    HEIGHT="680"></String>
+                    BASELINE="131 1142 131 1210 131 1350 131 1400 144 1472 144 1493 157 1544 157 1561 165 1595 178 1684 182 1747 185 1866" 
+                    HPOS="112"
+                    VPOS="1137"
+                    WIDTH="109"
+                    HEIGHT="728">
+            <Shape><Polygon POINTS="129 1139 112 1139 121 1636 155 1865 182 1865 206 1862 221 1801 221 1799 202 1699 214 1682 214 1680 214 1677 214 1675 214 1672 214 1670 194 1646 192 1587 189 1553 204 1517 204 1514 204 1512 177 1346 177 1344 189 1266 189 1263 189 1261 189 1258 172 1241 163 1137 129 1139"/></Shape>
+	    <String CONTENT="au cas ou un se perdrait"
+                    HPOS="112"
+                    VPOS="1137"
+                    WIDTH="109"
+                    HEIGHT="728"></String>
           </TextLine>
 
           
           
           <TextLine ID="eSc_line_f26b4161"
                     
-                    BASELINE="212 1130 212 1134 212 1151 212 1193 212 1320 216 1367 216 1430 224 1468 228 1527 228 1582 241 1680 250 1781 250 1807 258 1823" 
-                    HPOS="168"
-                    VPOS="1122"
-                    WIDTH="146"
-                    HEIGHT="699">
-            <Shape><Polygon POINTS="211 1129 168 1129 182 1263 172 1288 170 1297 170 1300 170 1302 170 1305 170 1307 172 1307 175 1312 185 1322 180 1397 177 1426 177 1429 177 1431 180 1441 197 1480 199 1821 255 1821 301 1809 314 1775 314 1772 314 1770 314 1767 314 1765 301 1750 282 1723 301 1694 301 1692 301 1689 301 1687 301 1685 301 1682 277 1653 275 1597 299 1546 314 1512 314 1509 314 1507 314 1504 314 1502 297 1482 267 1446 292 1397 292 1395 292 1392 292 1390 258 1290 294 1210 294 1207 294 1205 294 1202 292 1122 211 1129"/></Shape>
-	    <String CONTENT="au cas ou un se perdrait"
-                    HPOS="168"
-                    VPOS="1122"
-                    WIDTH="146"
-                    HEIGHT="699"></String>
+                    BASELINE="212 1130 212 1134 212 1151 212 1193 212 1320 216 1367 216 1430 224 1468 228 1527 228 1582 241 1680 250 1781 250 1807 255 1855" 
+                    HPOS="170"
+                    VPOS="1124"
+                    WIDTH="141"
+                    HEIGHT="729">
+            <Shape><Polygon POINTS="211 1129 170 1129 202 1853 253 1853 287 1850 311 1765 311 1762 311 1760 311 1758 311 1755 289 1731 282 1723 289 1716 301 1694 301 1692 301 1689 301 1687 301 1685 301 1682 289 1667 277 1653 275 1597 289 1563 311 1512 311 1509 311 1507 311 1504 311 1502 289 1475 267 1446 289 1402 292 1397 292 1395 292 1392 292 1390 289 1380 258 1263 289 1215 294 1210 294 1207 294 1205 294 1202 289 1124 211 1129"/></Shape>
+	    <String CONTENT="Fait en double expedition"
+                    HPOS="170"
+                    VPOS="1124"
+                    WIDTH="141"
+                    HEIGHT="729"></String>
           </TextLine>
 
           
           
-          <TextLine ID="eSc_line_06d4a884"
+          <TextLine ID="eSc_line_da3aefe8"
                     
-                    BASELINE="440 1599 440 1739 440 1781 444 1819 453 1866 457 1967 465 1997 465 1993 465 1980" 
-                    HPOS="440"
-                    VPOS="1599"
-                    WIDTH="25"
-                    HEIGHT="398">
-            
+                    BASELINE="396 1569 460 2047" 
+                    HPOS="348"
+                    VPOS="1558"
+                    WIDTH="199"
+                    HEIGHT="489">
+            <Shape><Polygon POINTS="394 1568 355 1570 348 1663 348 1665 348 1667 348 1670 370 1702 357 1733 357 1736 357 1738 357 1741 357 1743 379 1775 365 1806 365 1809 365 1811 377 1923 377 1926 418 2047 457 2045 526 2033 547 1928 547 1926 538 1855 538 1853 538 1850 508 1809 523 1772 523 1770 523 1767 523 1765 484 1680 462 1558 394 1568"/></Shape>
 	    <String CONTENT="P Soucin"
-                    HPOS="440"
-                    VPOS="1599"
-                    WIDTH="25"
-                    HEIGHT="398"></String>
+                    HPOS="348"
+                    VPOS="1558"
+                    WIDTH="199"
+                    HEIGHT="489"></String>
           </TextLine>
 
           

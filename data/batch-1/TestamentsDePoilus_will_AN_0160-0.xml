@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -355,27 +355,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="line_0"
-                    
-                    BASELINE="921 139 1176 121 1516 121" 
-                    HPOS="910.0"
-                    VPOS="54.0"
-                    WIDTH="606.0"
-                    HEIGHT="121.0">
-            <Shape><Polygon POINTS="921 139 910 79 941 61 944 61 944 61 946 61 946 61 946 61 1065 59 1068 59 1068 59 1070 59 1070 59 1070 59 1073 59 1073 59 1073 61 1088 77 1106 77 1168 82 1176 77 1191 64 1191 61 1191 61 1194 61 1194 61 1197 61 1197 61 1197 61 1199 61 1199 61 1202 61 1202 61 1202 61 1204 61 1225 77 1228 77 1230 77 1282 54 1282 54 1284 54 1284 54 1284 54 1287 54 1287 54 1287 54 1289 54 1289 54 1292 54 1292 54 1318 74 1514 74 1516 121 1516 136 1269 170 1269 170 1266 170 1266 170 1266 170 1181 152 1155 146 1130 154 1068 175 1065 175 1065 175 1065 175 1062 175 918 162"/></Shape>
-	    <String CONTENT="Page unique"
-                    HPOS="910.0"
-                    VPOS="54.0"
-                    WIDTH="606.0"
-                    HEIGHT="121.0"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

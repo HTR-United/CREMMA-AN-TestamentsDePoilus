@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -32,23 +32,6 @@
                    ID="block_0"
                    TAGREFS="BT4215">
           <Shape><Polygon POINTS="761 98 1331 168 2374 142 2400 786 2322 1152 2374 1307 2348 3648 492 3622 453 297 411 255 310 268 281 359 181 398 194 271 90 216 142 103"/></Shape>
-          
-          
-          <TextLine ID="line_0"
-                    
-                    BASELINE="113 187 790 161" 
-                    HPOS="103.0"
-                    VPOS="97.0"
-                    WIDTH="690.0"
-                    HEIGHT="132.0">
-            <Shape><Polygon POINTS="113 187 103 132 187 110 191 110 191 110 194 110 194 110 194 110 197 110 197 110 197 110 233 126 236 129 323 129 327 126 343 110 343 106 343 106 346 106 346 106 346 106 349 106 349 106 447 100 450 100 450 100 453 100 453 100 505 119 524 100 524 97 524 97 528 97 528 97 528 97 531 97 531 97 534 97 534 97 534 97 537 97 602 116 605 116 780 113 790 161 793 181 725 200 722 200 722 200 719 200 719 200 719 200 715 200 715 200 715 200 712 200 712 200 699 187 680 174 553 174 524 200 524 200 524 203 524 203 521 203 521 203 518 203 518 203 518 203 401 210 398 210 398 210 395 210 395 210 314 191 262 220 249 226 249 226 249 226 246 226 246 226 246 226 113 229"/></Shape>
-	    <String CONTENT="Page troisième"
-                    HPOS="103.0"
-                    VPOS="97.0"
-                    WIDTH="690.0"
-                    HEIGHT="132.0"></String>
-          </TextLine>
-
           
           
           <TextLine ID="line_1"

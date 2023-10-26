@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -163,7 +163,7 @@
                     WIDTH="1076.0"
                     HEIGHT="86.0">
             <Shape><Polygon POINTS="47 461 45 421 68 408 68 408 68 408 69 408 69 408 69 408 172 407 173 407 173 407 174 407 174 407 174 407 199 420 211 427 253 435 300 430 300 430 301 430 427 433 487 425 487 425 488 425 488 425 488 425 489 425 489 425 505 432 531 432 561 421 561 421 562 421 562 421 563 421 563 421 563 421 612 430 632 419 663 400 664 400 664 400 665 400 665 400 666 400 691 400 691 400 691 400 692 400 750 418 777 426 798 418 814 411 814 411 815 411 815 411 816 411 816 411 816 411 846 418 872 423 884 418 927 397 927 397 927 397 928 397 928 397 929 397 929 397 929 397 1000 410 1042 395 1042 395 1043 395 1043 395 1045 395 1064 395 1064 395 1064 395 1065 395 1065 395 1118 417 1121 449 1120 461 1020 456 1005 462 986 471 986 471 985 471 985 471 985 471 937 472 936 472 936 472 935 472 935 472 913 463 897 457 753 458 740 464 732 468 732 468 731 468 731 468 730 468 730 468 699 464 663 460 648 464 613 476 612 476 612 476 612 476 554 477 553 477 553 477 552 477 552 477 524 465 517 462 500 465 430 479 430 479 429 479 429 479 374 474 330 480 330 480 329 480 255 476 245 481 245 481 245 481 244 481 244 481 244 481 243 481 46 468"/></Shape>
-	    <String CONTENT="A n&#39;ouvrir que si je ne rentre pas"
+	    <String CONTENT="A n&#x27;ouvrir que si je ne rentre pas"
                     HPOS="45.0"
                     VPOS="395.0"
                     WIDTH="1076.0"

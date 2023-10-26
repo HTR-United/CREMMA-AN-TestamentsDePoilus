@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -51,23 +51,6 @@
 
           
           
-          <TextLine ID="line_10"
-                    
-                    BASELINE="902 161 1029 149 1218 143 1384 147 1466 158" 
-                    HPOS="893.0"
-                    VPOS="65.0"
-                    WIDTH="573.0"
-                    HEIGHT="129.0">
-            <Shape><Polygon POINTS="902 161 893 112 938 70 938 69 938 69 940 69 940 69 942 69 942 69 942 69 1033 65 1035 65 1073 65 1073 65 1073 65 1075 65 1075 65 1144 90 1213 65 1213 65 1215 65 1215 65 1217 65 1217 65 1217 65 1218 65 1218 65 1218 65 1220 65 1278 105 1278 105 1282 105 1360 96 1360 96 1362 96 1466 103 1466 158 1466 187 1417 189 1415 189 1415 189 1415 189 1413 189 1413 189 1411 189 1409 187 1360 158 1318 185 1311 190 1309 190 1309 190 1309 190 1307 190 1307 190 1306 190 1306 190 1306 190 1304 190 1304 190 1304 190 1302 190 1295 185 1255 158 1157 158 1100 181 1073 192 1073 192 1071 192 1071 192 1071 192 1015 194 1013 194 1013 194 1011 194 1011 194 1011 194 1009 194 1009 194 1009 192 995 179 973 161 902 178"/></Shape>
-	    <String CONTENT="Page unique"
-                    HPOS="893.0"
-                    VPOS="65.0"
-                    WIDTH="573.0"
-                    HEIGHT="129.0"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="line_11"
                     
                     BASELINE="1007 285 1226 283 1465 337" 
@@ -102,23 +85,6 @@
 
           
           
-          <TextLine ID="line_4"
-                    
-                    BASELINE="524 634 745 634 1002 657 1162 661" 
-                    HPOS="522"
-                    VPOS="568"
-                    WIDTH="638"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="523 632 522 643 722 645 727 650 742 663 742 665 744 665 745 665 827 668 829 668 831 668 833 668 842 661 853 670 855 670 856 670 858 670 960 661 1016 677 1018 677 1020 677 1158 665 1160 659 1158 628 1056 623 1055 621 1009 588 1007 588 1006 588 942 587 940 587 938 587 936 587 909 610 905 614 895 610 816 579 814 579 813 579 811 579 767 601 760 605 751 599 704 574 702 574 700 574 698 574 696 574 664 594 653 599 616 599 605 590 580 568 578 568 576 568 574 568 573 568 525 583 523 632"/></Shape>
-	    <String CONTENT="Emile Bertrand"
-                    HPOS="522"
-                    VPOS="568"
-                    WIDTH="638"
-                    HEIGHT="109"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="line_16"
                     
                     BASELINE="553 567 1253 592" 
@@ -149,6 +115,23 @@
                     VPOS="625"
                     WIDTH="901"
                     HEIGHT="131"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    
+                    BASELINE="524 634 745 634 1002 657 1162 661" 
+                    HPOS="522"
+                    VPOS="568"
+                    WIDTH="638"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="523 632 522 643 722 645 727 650 742 663 742 665 744 665 745 665 827 668 829 668 831 668 833 668 842 661 853 670 855 670 856 670 858 670 960 661 1016 677 1018 677 1020 677 1158 665 1160 659 1158 628 1056 623 1055 621 1009 588 1007 588 1006 588 942 587 940 587 938 587 936 587 909 610 905 614 895 610 816 579 814 579 813 579 811 579 767 601 760 605 751 599 704 574 702 574 700 574 698 574 696 574 664 594 653 599 616 599 605 590 580 568 578 568 576 568 574 568 573 568 525 583 523 632"/></Shape>
+	    <String CONTENT="Emile Bertrand"
+                    HPOS="522"
+                    VPOS="568"
+                    WIDTH="638"
+                    HEIGHT="109"></String>
           </TextLine>
 
           

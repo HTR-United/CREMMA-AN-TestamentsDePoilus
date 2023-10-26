@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -32,23 +32,6 @@
                    ID="block_3"
                    TAGREFS="BT4215">
           <Shape><Polygon POINTS="1444 1534 1495 1684 1422 1734 743 1780 781 1801 1002 1801 973 1814 642 1830 673 1852 1140 1852 1162 1968 1140 2031 758 2067 282 2038 251 2047 266 2060 108 2067 72 1959 65 1801 86 1744 159 1742 152 1447 128 1402 101 1416 101 1280 137 1279 144 1179 101 1163 72 1071 123 1025 144 938 166 265 164 237 108 215 108 159 237 151 253 101 316 101 340 151 541 173 533 208 456 186 432 209 456 224 541 217 571 253 780 246 767 188 803 150 809 65 953 57 1473 57 1502 101 1480 745 1502 1358 1487 1517 1468 1438"/></Shape>
-          
-          
-          <TextLine ID="line_0"
-                    
-                    BASELINE="868 148 1169 115 1428 110 1455 117" 
-                    HPOS="861.0"
-                    VPOS="65.0"
-                    WIDTH="596.0"
-                    HEIGHT="130.0">
-            <Shape><Polygon POINTS="868 148 861 97 964 81 964 81 966 81 966 81 1013 88 1040 92 1049 86 1066 74 1067 74 1067 74 1067 74 1069 74 1069 74 1125 70 1127 70 1127 70 1127 70 1129 70 1129 70 1131 70 1131 70 1142 79 1178 66 1178 66 1180 66 1180 66 1182 66 1182 66 1259 74 1276 75 1453 65 1455 117 1457 133 1415 155 1415 155 1415 155 1413 155 1413 155 1411 155 1411 155 1411 155 1410 155 1377 146 1339 159 1339 159 1337 159 1337 159 1335 159 1335 159 1335 159 1294 151 1216 135 1002 142 953 188 950 189 950 191 950 191 948 191 948 191 946 191 946 191 946 191 872 195"/></Shape>
-	    <String CONTENT="Page deuxieme"
-                    HPOS="861.0"
-                    VPOS="65.0"
-                    WIDTH="596.0"
-                    HEIGHT="130.0"></String>
-          </TextLine>
-
           
           
           <TextLine ID="line_1"

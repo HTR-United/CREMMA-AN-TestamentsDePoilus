@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -34,19 +34,19 @@
           <Shape><Polygon POINTS="217 355 217 473 1246 473 1246 355"/></Shape>
           
           
-          <TextLine ID="eSc_line_074a570f"
+          <TextLine ID="eSc_line_4e979cff"
                     
-                    BASELINE="251 434 259 434 285 434 352 426 473 423 564 420 699 414 851 423 981 417 1048 417 1198 417" 
-                    HPOS="251"
-                    VPOS="414"
-                    WIDTH="947"
-                    HEIGHT="20">
-            
+                    BASELINE="232 452 1251 429" 
+                    HPOS="229"
+                    VPOS="384"
+                    WIDTH="1020"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="230 451 230 456 328 454 332 458 345 468 346 468 348 468 349 468 406 456 427 453 449 456 499 465 501 465 548 456 575 450 597 454 623 462 624 462 626 462 627 462 629 462 640 454 650 447 665 454 667 454 669 454 670 454 678 454 748 447 760 453 763 456 765 456 766 456 768 456 769 456 771 456 771 454 772 453 783 444 811 453 824 458 826 458 827 458 829 458 830 458 837 453 853 442 892 453 905 456 907 456 908 456 910 456 927 451 977 439 1031 451 1043 453 1044 453 1046 453 1052 451 1084 438 1156 448 1157 448 1159 448 1160 448 1160 447 1173 436 1199 448 1200 448 1202 450 1247 450 1249 428 1244 406 1134 409 1131 407 1101 387 1099 387 1098 387 1096 387 1095 387 1069 396 1041 387 1040 387 1038 387 1037 387 1035 387 1023 398 998 384 997 384 995 384 994 384 992 384 992 386 963 412 934 403 933 403 931 403 866 413 852 403 850 403 849 403 847 403 792 406 771 389 769 389 768 389 766 389 636 390 635 390 568 416 531 406 530 406 528 406 526 406 493 422 491 424 490 422 468 415 467 415 465 415 464 415 462 415 452 424 450 424 387 416 386 416 334 424 303 409 302 409 300 409 299 409 229 428 230 451"/></Shape>
 	    <String CONTENT="Ceci est mon testament"
-                    HPOS="251"
-                    VPOS="414"
-                    WIDTH="947"
-                    HEIGHT="20"></String>
+                    HPOS="229"
+                    VPOS="384"
+                    WIDTH="1020"
+                    HEIGHT="84"></String>
           </TextLine>
 
           

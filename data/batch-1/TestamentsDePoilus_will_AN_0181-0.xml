@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -298,47 +298,9 @@
                    TAGREFS="BT4215">
           <Shape><Polygon POINTS="1113 2595 1140 2120 906 2097 999 2076 945 2035 684 2155 564 2056 370 2056 370 1996 764 1737 1707 1945 2055 1976 2044 2117 2096 2192 2086 2251 1995 2220 1997 2528"/></Shape>
           
-          
-          <TextLine ID="eSc_line_2705f465"
-                    
-                    BASELINE="1224 2514 1228 2514 1250 2514 1294 2509 1361 2505 1423 2492 1476 2492 1529 2483 1568 2483 1780 2465 1891 2456 1984 2448 2010 2443" 
-                    HPOS="1215"
-                    VPOS="2390"
-                    WIDTH="793"
-                    HEIGHT="149">
-            <Shape><Polygon POINTS="1223 2511 1223 2539 1702 2527 1704 2527 1707 2527 1746 2496 1885 2485 1903 2501 1905 2501 1908 2501 1910 2501 1913 2501 2008 2472 2008 2442 2001 2390 1813 2390 1810 2390 1807 2390 1787 2400 1774 2408 1761 2400 1748 2395 1746 2395 1743 2395 1570 2400 1568 2400 1516 2413 1421 2439 1346 2424 1344 2424 1341 2424 1339 2424 1336 2424 1336 2426 1318 2444 1292 2426 1290 2426 1287 2426 1285 2426 1215 2429 1223 2511"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1215"
-                    VPOS="2390"
-                    WIDTH="793"
-                    HEIGHT="149"></String>
-          </TextLine>
-
-          
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_65ddb534"
-                    
-                    BASELINE="119 97 203 97 265 93 336 93 433 84" 
-                    HPOS="113"
-                    VPOS="18"
-                    WIDTH="319"
-                    HEIGHT="118">
-            <Shape><Polygon POINTS="118 95 118 120 162 136 164 136 167 136 169 136 172 136 193 123 208 113 283 110 319 123 327 126 329 126 332 126 432 123 432 82 424 18 113 18 118 95"/></Shape>
-	    <String CONTENT="Page unique"
-                    HPOS="113"
-                    VPOS="18"
-                    WIDTH="319"
-                    HEIGHT="118"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>

@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -36,17 +36,17 @@
           
           <TextLine ID="line_0"
                     
-                    BASELINE="500 626 805 620 1108 635 1379 630 1697 645" 
-                    HPOS="497.0"
-                    VPOS="570.0"
-                    WIDTH="1200.0"
-                    HEIGHT="84.0">
-            <Shape><Polygon POINTS="500 626 497 597 590 570 591 570 591 570 592 570 645 571 645 571 645 571 646 571 719 598 722 598 724 598 798 574 799 574 799 574 800 574 966 577 966 577 966 577 967 577 1033 599 1046 604 1094 610 1358 613 1396 612 1418 600 1425 598 1425 598 1427 598 1427 598 1427 598 1428 598 1428 598 1452 602 1560 616 1584 602 1607 589 1607 589 1607 589 1609 589 1609 589 1609 589 1610 589 1610 589 1611 589 1656 602 1661 603 1696 603 1697 645 1695 654 1420 640 1319 648 1316 648 1315 648 1315 648 1315 648 1313 648 1313 648 1313 648 1313 648 1296 639 1233 645 1233 645 1232 645 1232 645 1231 645 1231 645 1231 645 1212 637 1157 646 1154 646 1154 646 1152 646 1028 644 1028 644 1028 644 1026 644 1026 644 1026 644 1026 644 1005 633 965 642 962 642 962 642 962 642 961 642 961 642 961 642 959 642 927 635 870 639 869 639 869 639 869 639 868 639 845 631 731 628 499 634"/></Shape>
+                    BASELINE="479 599 805 620 1108 635 1379 630 1697 645" 
+                    HPOS="477"
+                    VPOS="489"
+                    WIDTH="1278"
+                    HEIGHT="165">
+            <Shape><Polygon POINTS="477 621 673 628 674 628 680 627 723 618 758 620 772 630 773 631 774 631 775 631 777 631 778 631 780 630 793 625 808 631 812 632 813 632 814 632 830 632 908 627 924 634 937 640 938 640 939 640 986 635 1004 634 1010 637 1028 644 1029 644 1101 647 1102 647 1155 640 1193 635 1259 642 1260 642 1261 642 1278 635 1694 654 1730 644 1755 577 1662 602 1616 596 1600 595 1599 595 1598 595 1596 596 1550 618 1504 604 1502 604 1501 604 1464 607 1493 540 1461 530 1400 586 1360 529 1309 523 1263 567 1232 587 1207 607 1043 603 979 583 988 532 960 529 802 565 801 565 800 565 773 579 751 590 673 588 648 576 696 537 695 504 652 492 611 489 574 491 493 504 478 574 478 598"/></Shape>
 	    <String CONTENT="Ceci est mon testament"
-                    HPOS="497.0"
-                    VPOS="570.0"
-                    WIDTH="1200.0"
-                    HEIGHT="84.0"></String>
+                    HPOS="477"
+                    VPOS="489"
+                    WIDTH="1278"
+                    HEIGHT="165"></String>
           </TextLine>
 
           

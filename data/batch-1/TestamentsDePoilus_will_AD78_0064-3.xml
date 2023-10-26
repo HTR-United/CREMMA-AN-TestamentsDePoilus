@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -212,7 +212,7 @@
                     WIDTH="1744.0"
                     HEIGHT="134.0">
             <Shape><Polygon POINTS="310 1312 304 1260 416 1257 476 1225 476 1225 476 1225 480 1225 480 1225 480 1225 483 1225 800 1248 809 1248 809 1248 838 1222 838 1219 838 1219 841 1219 841 1219 841 1219 844 1219 844 1219 844 1219 848 1219 848 1219 851 1219 851 1219 915 1241 956 1225 956 1225 960 1225 960 1225 963 1225 1132 1225 1132 1225 1132 1225 1136 1225 1136 1225 1136 1225 1139 1225 1158 1241 1161 1241 1174 1241 1347 1209 1347 1209 1350 1209 1350 1209 1350 1209 1446 1232 1484 1216 1484 1216 1488 1216 1488 1216 1488 1216 1491 1216 1724 1228 1763 1228 1785 1225 1948 1200 1948 1200 1952 1200 1952 1200 1952 1200 2041 1222 2048 1280 2044 1289 851 1305 796 1324 790 1324 787 1324 787 1324 784 1324 748 1324 515 1315 310 1334"/></Shape>
-	    <String CONTENT="au 20&#39; traies. Il me doit des honoraires en 1916."
+	    <String CONTENT="au 20&#x27; traies. Il me doit des honoraires en 1916."
                     HPOS="304.0"
                     VPOS="1200.0"
                     WIDTH="1744.0"

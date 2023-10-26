@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -32,23 +32,6 @@
                    ID="block_0"
                    TAGREFS="BT4215">
           <Shape><Polygon POINTS="590 139 1643 160 1646 128 1933 128 1987 278 1997 1573 1965 1873 1997 2838 1507 2848 949 2923 429 2923 375 2891 343 2583 386 1725 332 1243 396 940 407 546 343 533 343 428 375 375 407 415 417 312 421 312 421 324 459 324 459 240 522 240 522 168"/></Shape>
-          
-          
-          <TextLine ID="line_0"
-                    
-                    BASELINE="101 179 469 176" 
-                    HPOS="96.0"
-                    VPOS="120.0"
-                    WIDTH="373.0"
-                    HEIGHT="81.0">
-            <Shape><Polygon POINTS="101 179 96 134 461 120 469 176 463 198 128 187 107 201"/></Shape>
-	    <String CONTENT="e premiére"
-                    HPOS="96.0"
-                    VPOS="120.0"
-                    WIDTH="373.0"
-                    HEIGHT="81.0"></String>
-          </TextLine>
-
           
           
           <TextLine ID="line_4"
@@ -85,23 +68,6 @@
 
           
           
-          <TextLine ID="line_7"
-                    
-                    BASELINE="418 420 1955 426" 
-                    HPOS="415.0"
-                    VPOS="340.0"
-                    WIDTH="1540.0"
-                    HEIGHT="123.0">
-            <Shape><Polygon POINTS="418 420 418 364 748 375 767 359 785 343 785 340 785 340 788 340 788 340 788 340 791 340 791 340 793 340 954 340 954 340 954 340 957 340 957 340 957 340 986 356 1016 372 1037 353 1043 348 1043 348 1045 348 1045 348 1045 348 1048 348 1048 348 1051 348 1051 348 1099 353 1163 361 1185 353 1206 343 1206 343 1209 343 1209 343 1209 343 1212 343 1212 343 1212 343 1214 343 1214 343 1217 343 1217 343 1228 351 1265 380 1306 380 1383 351 1402 343 1402 343 1405 343 1405 343 1407 343 1496 343 1496 343 1496 343 1499 343 1499 343 1499 343 1501 343 1501 343 1507 348 1542 380 1689 380 1724 345 1724 345 1724 343 1724 343 1727 343 1727 343 1727 343 1729 343 1729 343 1732 343 1791 343 1791 343 1791 343 1794 343 1794 343 1794 343 1796 343 1796 343 1796 343 1834 372 1947 343 1955 426 1949 452 1606 436 1437 455 1429 455 1429 455 1426 455 1426 455 1421 455 1289 436 1188 452 1188 452 1185 452 1185 452 1185 452 1107 436 1045 458 1035 460 1032 460 1032 460 1032 463 930 463 927 460 927 460 925 460 925 460 925 460 917 458 876 439 801 458 785 460 785 460 785 460 785 463 710 463 708 460 708 460 705 460 705 460 705 460 699 458 667 442 415 458"/></Shape>
-	    <String CONTENT="reneur de transports en librairie demeur"
-                    HPOS="415.0"
-                    VPOS="340.0"
-                    WIDTH="1540.0"
-                    HEIGHT="123.0"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="line_6"
                     
                     BASELINE="1882 388 1952 388" 
@@ -115,6 +81,23 @@
                     VPOS="348.0"
                     WIDTH="73.0"
                     HEIGHT="64.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    
+                    BASELINE="418 420 1955 426" 
+                    HPOS="415.0"
+                    VPOS="340.0"
+                    WIDTH="1540.0"
+                    HEIGHT="123.0">
+            <Shape><Polygon POINTS="418 420 418 364 748 375 767 359 785 343 785 340 785 340 788 340 788 340 788 340 791 340 791 340 793 340 954 340 954 340 954 340 957 340 957 340 957 340 986 356 1016 372 1037 353 1043 348 1043 348 1045 348 1045 348 1045 348 1048 348 1048 348 1051 348 1051 348 1099 353 1163 361 1185 353 1206 343 1206 343 1209 343 1209 343 1209 343 1212 343 1212 343 1212 343 1214 343 1214 343 1217 343 1217 343 1228 351 1265 380 1306 380 1383 351 1402 343 1402 343 1405 343 1405 343 1407 343 1496 343 1496 343 1496 343 1499 343 1499 343 1499 343 1501 343 1501 343 1507 348 1542 380 1689 380 1724 345 1724 345 1724 343 1724 343 1727 343 1727 343 1727 343 1729 343 1729 343 1732 343 1791 343 1791 343 1791 343 1794 343 1794 343 1794 343 1796 343 1796 343 1796 343 1834 372 1947 343 1955 426 1949 452 1606 436 1437 455 1429 455 1429 455 1426 455 1426 455 1421 455 1289 436 1188 452 1188 452 1185 452 1185 452 1185 452 1107 436 1045 458 1035 460 1032 460 1032 460 1032 463 930 463 927 460 927 460 925 460 925 460 925 460 917 458 876 439 801 458 785 460 785 460 785 460 785 463 710 463 708 460 708 460 705 460 705 460 705 460 699 458 667 442 415 458"/></Shape>
+	    <String CONTENT="reneur de transports en librairie demeur"
+                    HPOS="415.0"
+                    VPOS="340.0"
+                    WIDTH="1540.0"
+                    HEIGHT="123.0"></String>
           </TextLine>
 
           

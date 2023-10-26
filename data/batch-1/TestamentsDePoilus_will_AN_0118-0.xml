@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -34,23 +34,6 @@
           <Shape><Polygon POINTS="1613 331 1634 690 1603 804 1510 848 1520 918 1603 993 1624 1531 1593 1686 1603 2170 1520 2348 1603 2617 1530 2834 1551 2925 777 2904 725 2884 735 2772 681 2728 41 2687 62 320 321 237 549 289 1375 248 1541 300 1572 258"/></Shape>
           
           
-          <TextLine ID="line_3"
-                    
-                    BASELINE="339 359 1458 372" 
-                    HPOS="334.0"
-                    VPOS="281.0"
-                    WIDTH="1124.0"
-                    HEIGHT="114.0">
-            <Shape><Polygon POINTS="339 359 339 289 468 305 518 289 528 287 531 287 531 287 531 287 533 287 533 287 536 287 536 287 536 287 538 287 538 287 541 289 564 307 657 292 673 289 673 289 676 289 676 289 676 289 691 292 787 310 893 294 940 287 940 287 942 287 942 287 942 287 945 287 945 287 948 287 958 294 976 305 992 294 1012 281 1015 281 1015 281 1018 281 1018 281 1020 281 1106 281 1106 281 1106 281 1108 281 1108 281 1142 294 1183 312 1264 297 1279 294 1279 294 1279 294 1282 294 1282 294 1303 297 1331 302 1339 297 1354 284 1354 284 1357 284 1357 284 1357 284 1360 284 1360 284 1360 284 1362 284 1362 284 1455 300 1458 372 1455 395 1126 395 1124 393 1124 393 1121 393 1121 393 1119 393 1082 377 883 390 849 393 847 393 847 393 847 393 844 393 839 390 784 372 766 387 766 390 766 390 764 390 764 390 764 390 761 390 761 390 761 390 759 390 759 390 759 390 756 390 756 390 707 375 598 387 598 387 595 387 595 387 474 372 440 390 437 390 437 390 437 390 435 390 435 390 432 390 334 387"/></Shape>
-	    <String CONTENT="Je soussigné Albert Auguste"
-                    HPOS="334.0"
-                    VPOS="281.0"
-                    WIDTH="1124.0"
-                    HEIGHT="114.0"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="line_4"
                     
                     BASELINE="103 450 1502 463" 
@@ -64,6 +47,23 @@
                     VPOS="356.0"
                     WIDTH="1404.0"
                     HEIGHT="130.0"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_3"
+                    
+                    BASELINE="339 359 1458 372" 
+                    HPOS="334.0"
+                    VPOS="281.0"
+                    WIDTH="1124.0"
+                    HEIGHT="114.0">
+            <Shape><Polygon POINTS="339 359 339 289 468 305 518 289 528 287 531 287 531 287 531 287 533 287 533 287 536 287 536 287 536 287 538 287 538 287 541 289 564 307 657 292 673 289 673 289 676 289 676 289 676 289 691 292 787 310 893 294 940 287 940 287 942 287 942 287 942 287 945 287 945 287 948 287 958 294 976 305 992 294 1012 281 1015 281 1015 281 1018 281 1018 281 1020 281 1106 281 1106 281 1106 281 1108 281 1108 281 1142 294 1183 312 1264 297 1279 294 1279 294 1279 294 1282 294 1282 294 1303 297 1331 302 1339 297 1354 284 1354 284 1357 284 1357 284 1357 284 1360 284 1360 284 1360 284 1362 284 1362 284 1455 300 1458 372 1455 395 1126 395 1124 393 1124 393 1121 393 1121 393 1119 393 1082 377 883 390 849 393 847 393 847 393 847 393 844 393 839 390 784 372 766 387 766 390 766 390 764 390 764 390 764 390 761 390 761 390 761 390 759 390 759 390 759 390 756 390 756 390 707 375 598 387 598 387 595 387 595 387 474 372 440 390 437 390 437 390 437 390 435 390 435 390 432 390 334 387"/></Shape>
+	    <String CONTENT="Je soussigné Albert Auguste"
+                    HPOS="334.0"
+                    VPOS="281.0"
+                    WIDTH="1124.0"
+                    HEIGHT="114.0"></String>
           </TextLine>
 
           
@@ -467,23 +467,6 @@
                    ID="block_4"
                    TAGREFS="BT4218">
           <Shape><Polygon POINTS="942 51 1593 62 1603 162 1572 225 1489 235 984 225 911 152"/></Shape>
-          
-          
-          <TextLine ID="line_0"
-                    
-                    BASELINE="924 150 1204 118 1497 111" 
-                    HPOS="917.0"
-                    VPOS="49.0"
-                    WIDTH="580.0"
-                    HEIGHT="155.0">
-            <Shape><Polygon POINTS="924 150 917 98 994 56 994 56 994 56 997 56 997 56 997 56 1152 51 1155 51 1155 51 1155 51 1157 51 1157 51 1214 75 1349 49 1349 49 1349 49 1352 49 1352 49 1354 49 1354 49 1354 49 1383 62 1489 59 1497 111 1494 129 1295 134 1271 160 1251 181 1251 183 1251 183 1248 183 1248 183 1248 183 1246 183 1246 183 1243 183 1243 183 1243 183 1240 183 1240 183 1240 183 1212 168 1160 139 1113 150 1077 186 1064 196 1064 199 1064 199 1062 199 1062 199 1062 199 1059 199 1059 199 1059 199 927 204"/></Shape>
-	    <String CONTENT="Page unique"
-                    HPOS="917.0"
-                    VPOS="49.0"
-                    WIDTH="580.0"
-                    HEIGHT="155.0"></String>
-          </TextLine>
-
           
         </TextBlock>
         
