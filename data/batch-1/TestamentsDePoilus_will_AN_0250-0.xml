@@ -25,16 +25,6 @@
                   WIDTH="2166"
                   HEIGHT="3070">
         
-        <TextBlock HPOS="71.0"
-                   VPOS="40.0"
-                   WIDTH="499.0"
-                   HEIGHT="203.0"
-                   ID="block_1"
-                   >
-          <Shape><Polygon POINTS="122 243 122 173 71 140 81 51 399 40 519 61 570 120 427 171 266 171 253 232 122 243"/></Shape>
-          
-        </TextBlock>
-        
         <TextBlock HPOS="563.0"
                    VPOS="40.0"
                    WIDTH="1346.0"
@@ -43,35 +33,9 @@
                    >
           <Shape><Polygon POINTS="1408 81 1349 51 1789 40 1889 40 1909 140 1531 232 696 243 563 202 696 92 819 71 1408 81"/></Shape>
           
-        </TextBlock>
-        
-        <TextBlock HPOS="696.0"
-                   VPOS="450.0"
-                   WIDTH="968.0"
-                   HEIGHT="161.0"
-                   ID="block_9"
-                   >
-          <Shape><Polygon POINTS="839 450 1490 470 1564 521 1653 501 1664 539 1428 611 696 550 747 470 839 450"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="501.0"
-                   VPOS="644.0"
-                   WIDTH="1593.0"
-                   HEIGHT="1727.0"
-                   ID="block_10"
-                   >
-          <Shape><Polygon POINTS="2094 1839 2063 2156 2022 2179 1991 2340 1920 2371 1523 2340 1400 2218 1367 2095 745 2125 542 2125 512 2095 532 1494 501 1422 553 1286 573 644 704 644 632 706 696 726 1664 726 1817 808 1943 961 2073 992 2094 1839"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="line_1"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="732 186 1528 176" 
                     HPOS="727"
                     VPOS="99"
@@ -86,26 +50,19 @@
           </TextLine>
 
           
-          
-          <TextLine ID="line_2"
-                    
-                    BASELINE="747 539 1508 539" 
-                    HPOS="742"
-                    VPOS="465"
-                    WIDTH="766"
-                    HEIGHT="105">
-            <Shape><Polygon POINTS="747 539 742 488 786 470 788 470 791 470 793 470 832 483 850 468 850 465 852 465 855 465 857 465 860 465 929 483 939 488 993 488 998 483 1018 465 1021 465 1024 465 1026 465 1029 465 1057 480 1070 488 1170 488 1185 478 1205 465 1208 465 1211 465 1213 465 1336 465 1339 465 1341 465 1351 475 1367 486 1505 473 1508 539 1508 560 747 570"/></Shape>
-	    <String CONTENT="Ceci est mon testament"
-                    HPOS="742"
-                    VPOS="465"
-                    WIDTH="766"
-                    HEIGHT="105"></String>
-          </TextLine>
-
+        </TextBlock>
+        
+        <TextBlock HPOS="501.0"
+                   VPOS="644.0"
+                   WIDTH="1593.0"
+                   HEIGHT="1727.0"
+                   ID="block_10"
+                   >
+          <Shape><Polygon POINTS="2094 1839 2063 2156 2022 2179 1991 2340 1920 2371 1523 2340 1400 2218 1367 2095 745 2125 542 2125 512 2095 532 1494 501 1422 553 1286 573 644 704 644 632 706 696 726 1664 726 1817 808 1943 961 2073 992 2094 1839"/></Shape>
           
           
           <TextLine ID="line_3"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="650 813 1669 805" 
                     HPOS="642"
                     VPOS="726"
@@ -122,7 +79,7 @@
           
           
           <TextLine ID="line_4"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="606 913 1807 897" 
                     HPOS="601"
                     VPOS="805"
@@ -139,7 +96,7 @@
           
           
           <TextLine ID="line_6"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="583 1002 1892 990" 
                     HPOS="578"
                     VPOS="908"
@@ -156,7 +113,7 @@
           
           
           <TextLine ID="line_7"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="558 1097 2043 1071" 
                     HPOS="553"
                     VPOS="992"
@@ -173,7 +130,7 @@
           
           
           <TextLine ID="line_8"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="578 1184 1994 1171" 
                     HPOS="573"
                     VPOS="1102"
@@ -190,7 +147,7 @@
           
           
           <TextLine ID="line_9"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="560 1271 1981 1258" 
                     HPOS="560"
                     VPOS="1192"
@@ -207,7 +164,7 @@
           
           
           <TextLine ID="line_10"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="568 1368 2048 1350" 
                     HPOS="565"
                     VPOS="1268"
@@ -224,7 +181,7 @@
           
           
           <TextLine ID="line_11"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="563 1455 1968 1442" 
                     HPOS="558"
                     VPOS="1368"
@@ -241,7 +198,7 @@
           
           
           <TextLine ID="line_12"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="547 1545 2022 1527" 
                     HPOS="542"
                     VPOS="1442"
@@ -258,7 +215,7 @@
           
           
           <TextLine ID="line_13"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="563 1632 2040 1616" 
                     HPOS="553"
                     VPOS="1540"
@@ -275,7 +232,7 @@
           
           
           <TextLine ID="line_14"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="565 1721 2025 1708" 
                     HPOS="558"
                     VPOS="1647"
@@ -292,7 +249,7 @@
           
           
           <TextLine ID="line_15"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="547 1813 2078 1798" 
                     HPOS="542"
                     VPOS="1724"
@@ -309,7 +266,7 @@
           
           
           <TextLine ID="line_16"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="560 1908 2076 1888" 
                     HPOS="555"
                     VPOS="1806"
@@ -326,7 +283,7 @@
           
           
           <TextLine ID="line_17"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="527 1998 1761 1977" 
                     HPOS="522"
                     VPOS="1905"
@@ -343,7 +300,7 @@
           
           
           <TextLine ID="line_18"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="527 2087 985 2077" 
                     HPOS="517"
                     VPOS="1990"
@@ -358,9 +315,52 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="696.0"
+                   VPOS="450.0"
+                   WIDTH="968.0"
+                   HEIGHT="161.0"
+                   ID="block_9"
+                   >
+          <Shape><Polygon POINTS="839 450 1490 470 1564 521 1653 501 1664 539 1428 611 696 550 747 470 839 450"/></Shape>
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT1381"
+                    BASELINE="747 539 1508 539" 
+                    HPOS="742"
+                    VPOS="465"
+                    WIDTH="766"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="747 539 742 488 786 470 788 470 791 470 793 470 832 483 850 468 850 465 852 465 855 465 857 465 860 465 929 483 939 488 993 488 998 483 1018 465 1021 465 1024 465 1026 465 1029 465 1057 480 1070 488 1170 488 1185 478 1205 465 1208 465 1211 465 1213 465 1336 465 1339 465 1341 465 1351 475 1367 486 1505 473 1508 539 1508 560 747 570"/></Shape>
+	    <String CONTENT="Ceci est mon testament"
+                    HPOS="742"
+                    VPOS="465"
+                    WIDTH="766"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="71.0"
+                   VPOS="40.0"
+                   WIDTH="499.0"
+                   HEIGHT="203.0"
+                   ID="block_1"
+                   >
+          <Shape><Polygon POINTS="122 243 122 173 71 140 81 51 399 40 519 61 570 120 427 171 266 171 253 232 122 243"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
           
           <TextLine ID="eSc_line_dc984c25"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="780 2513 845 2453 862 2431 871 2431 966 2341 987 2328 1039 2272 1069 2246 1082 2241 1086 2233 1112 2216 1121 2194 1125 2190" 
                     HPOS="711"
                     VPOS="2092"

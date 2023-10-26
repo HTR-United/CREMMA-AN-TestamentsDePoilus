@@ -35,7 +35,7 @@
           
           
           <TextLine ID="line_7"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="651 937 1446 928" 
                     HPOS="648"
                     VPOS="870"
@@ -52,7 +52,7 @@
           
           
           <TextLine ID="line_8"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="699 1116 1237 1091 1338 1092" 
                     HPOS="693"
                     VPOS="1041"

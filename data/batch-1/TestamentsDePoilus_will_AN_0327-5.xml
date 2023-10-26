@@ -35,7 +35,7 @@
           
           
           <TextLine ID="eSc_line_5fd117d5"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="283 696 579 214" 
                     HPOS="253"
                     VPOS="183"
@@ -62,7 +62,7 @@
           
           
           <TextLine ID="eSc_line_29d88b9b"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="885 1029 1311 523" 
                     HPOS="867"
                     VPOS="497"
@@ -89,18 +89,18 @@
           
           
           <TextLine ID="line_0"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="1341 123 1347 123" 
-                    HPOS="1339.0"
-                    VPOS="87.0"
-                    WIDTH="8.0"
-                    HEIGHT="45.0">
+                    HPOS="1339"
+                    VPOS="87"
+                    WIDTH="8"
+                    HEIGHT="45">
             <Shape><Polygon POINTS="1341 123 1339 89 1345 87 1347 123 1347 131 1341 132"/></Shape>
 	    <String CONTENT="6"
-                    HPOS="1339.0"
-                    VPOS="87.0"
-                    WIDTH="8.0"
-                    HEIGHT="45.0"></String>
+                    HPOS="1339"
+                    VPOS="87"
+                    WIDTH="8"
+                    HEIGHT="45"></String>
           </TextLine>
 
           

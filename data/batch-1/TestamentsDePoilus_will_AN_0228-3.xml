@@ -35,7 +35,7 @@
           
           
           <TextLine ID="line_2"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="227 258 1755 251" 
                     HPOS="223"
                     VPOS="177"
@@ -52,7 +52,7 @@
           
           
           <TextLine ID="line_3"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="165 388 497 379 1745 394" 
                     HPOS="163"
                     VPOS="280"
@@ -69,7 +69,7 @@
           
           
           <TextLine ID="line_4"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="169 534 997 520 1718 532" 
                     HPOS="165"
                     VPOS="443"
@@ -86,7 +86,7 @@
           
           
           <TextLine ID="line_5"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="150 644 809 629 1749 631" 
                     HPOS="146"
                     VPOS="553"
@@ -103,7 +103,7 @@
           
           
           <TextLine ID="line_6"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="196 753 710 737 1763 726" 
                     HPOS="192"
                     VPOS="654"
@@ -120,7 +120,7 @@
           
           
           <TextLine ID="line_7"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="165 850 464 848 613 867 1109 856 1668 861" 
                     HPOS="159"
                     VPOS="774"
@@ -137,7 +137,7 @@
           
           
           <TextLine ID="line_8"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="167 970 1805 976" 
                     HPOS="163"
                     VPOS="898"
@@ -154,7 +154,7 @@
           
           
           <TextLine ID="line_1"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="198 1096 1278 1096" 
                     HPOS="194"
                     VPOS="1015"
@@ -171,7 +171,7 @@
           
           
           <TextLine ID="line_9"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="150 1234 334 1226 1823 1232" 
                     HPOS="148"
                     VPOS="1146"
@@ -188,7 +188,7 @@
           
           
           <TextLine ID="line_10"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="171 1346 1371 1327 1891 1331" 
                     HPOS="165"
                     VPOS="1241"
@@ -205,7 +205,7 @@
           
           
           <TextLine ID="line_11"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="138 1455 532 1439 1677 1435" 
                     HPOS="132"
                     VPOS="1354"
@@ -222,7 +222,7 @@
           
           
           <TextLine ID="line_12"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="190 1563 563 1544 1235 1532 1796 1538" 
                     HPOS="183"
                     VPOS="1451"
@@ -239,7 +239,7 @@
           
           
           <TextLine ID="line_13"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="171 1658 1014 1635 1404 1635" 
                     HPOS="171"
                     VPOS="1550"
@@ -256,7 +256,7 @@
           
           
           <TextLine ID="line_14"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="264 1763 795 1742 1759 1742" 
                     HPOS="256"
                     VPOS="1656"
@@ -273,7 +273,7 @@
           
           
           <TextLine ID="line_15"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="169 1870 704 1852 1596 1850 1722 1852 1830 1877" 
                     HPOS="167"
                     VPOS="1777"
@@ -290,7 +290,7 @@
           
           
           <TextLine ID="line_16"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="138 1980 1509 1963 1782 1970" 
                     HPOS="134"
                     VPOS="1883"
@@ -307,7 +307,7 @@
           
           
           <TextLine ID="line_17"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="200 2102 1303 2077" 
                     HPOS="194"
                     VPOS="2009"
@@ -324,7 +324,7 @@
           
           
           <TextLine ID="line_18"
-                    
+                    TAGREFS="LT1381"
                     BASELINE="338 2254 731 2224 1621 2195 1867 2201" 
                     HPOS="330"
                     VPOS="2104"
