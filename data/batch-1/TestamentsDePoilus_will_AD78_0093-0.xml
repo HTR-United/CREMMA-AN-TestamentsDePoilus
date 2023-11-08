@@ -27,11 +27,11 @@
         
         <TextBlock HPOS="675"
                    VPOS="734"
-                   WIDTH="1306"
+                   WIDTH="1348"
                    HEIGHT="340"
                    ID="block_2"
-                   TAGREFS="BT4218">
-          <Shape><Polygon POINTS="1981 927 889 947 847 976 1004 1045 732 1074 695 1045 675 852 840 734 935 734 987 803 1844 822 1912 842"/></Shape>
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="2023 938 1708 1038 1248 1046 1004 1045 732 1074 695 1045 675 852 840 734 935 734 987 803 1844 822 1912 842"/></Shape>
           
           
           <TextLine ID="line_0"

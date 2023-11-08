@@ -28,27 +28,10 @@
         <TextBlock HPOS="35"
                    VPOS="377"
                    WIDTH="393"
-                   HEIGHT="2481"
+                   HEIGHT="1288"
                    ID="eSc_textblock_e41f75ee"
                    TAGREFS="BT4217">
-          <Shape><Polygon POINTS="35 377 35 2858 428 2858 428 377"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_22f46484"
-                    TAGREFS="LT1381"
-                    BASELINE="138 1651 136 1514 141 1318 141 1283 146 1248 151 1243 156 1157 141 981 136 956 136 911 131 906 131 790 131 604 131 523 126 518 126 483 116 458 116 443 111 443 111 428 106 428 106 418" 
-                    HPOS="71"
-                    VPOS="413"
-                    WIDTH="116"
-                    HEIGHT="1235">
-            <Shape><Polygon POINTS="103 416 71 416 96 1648 135 1648 164 1645 187 1445 187 1442 154 413 103 416"/></Shape>
-	    <String CONTENT="J’ai remis la clef de mon coffre fort 8.13"
-                    HPOS="71"
-                    VPOS="413"
-                    WIDTH="116"
-                    HEIGHT="1235"></String>
-          </TextLine>
-
+          <Shape><Polygon POINTS="428 377 428 1665 35 1665 35 377"/></Shape>
           
           
           <TextLine ID="eSc_line_e03d5805"
@@ -68,19 +51,19 @@
 
           
           
-          <TextLine ID="eSc_line_79a35c52"
+          <TextLine ID="eSc_line_22f46484"
                     TAGREFS="LT1381"
-                    BASELINE="247 1655 247 1645 236 1585 216 1464 211 1459 211 1444 201 1424 201 1313 206 1308 206 1273 211 1243 206 1207 196 916 196 890 201 885 201 745 196 740 196 694 181 428" 
-                    HPOS="125"
-                    VPOS="422"
-                    WIDTH="162"
-                    HEIGHT="1230">
-            <Shape><Polygon POINTS="180 425 125 425 129 532 132 542 132 548 161 1106 158 1390 158 1435 158 1439 158 1442 158 1448 180 1519 167 1648 245 1652 287 1645 232 422 180 425"/></Shape>
-	    <String CONTENT="à Mr Jaillet. Il y a la des papiers, mes polices"
-                    HPOS="125"
-                    VPOS="422"
-                    WIDTH="162"
-                    HEIGHT="1230"></String>
+                    BASELINE="138 1651 136 1514 141 1318 141 1283 146 1248 151 1243 156 1157 141 981 136 956 136 911 131 906 131 790 131 604 131 523 126 518 126 483 116 458 116 443 111 443 111 428 106 428 106 418" 
+                    HPOS="71"
+                    VPOS="413"
+                    WIDTH="116"
+                    HEIGHT="1235">
+            <Shape><Polygon POINTS="103 416 71 416 96 1648 135 1648 164 1645 187 1445 187 1442 154 413 103 416"/></Shape>
+	    <String CONTENT="J’ai remis la clef de mon coffre fort 8.13"
+                    HPOS="71"
+                    VPOS="413"
+                    WIDTH="116"
+                    HEIGHT="1235"></String>
           </TextLine>
 
           
@@ -101,6 +84,23 @@
           </TextLine>
 
           
+          
+          <TextLine ID="eSc_line_79a35c52"
+                    TAGREFS="LT1381"
+                    BASELINE="247 1655 247 1645 236 1585 216 1464 211 1459 211 1444 201 1424 201 1313 206 1308 206 1273 211 1243 206 1207 196 916 196 890 201 885 201 745 196 740 196 694 181 428" 
+                    HPOS="125"
+                    VPOS="422"
+                    WIDTH="162"
+                    HEIGHT="1230">
+            <Shape><Polygon POINTS="180 425 125 425 129 532 132 542 132 548 161 1106 158 1390 158 1435 158 1439 158 1442 158 1448 180 1519 167 1648 245 1652 287 1645 232 422 180 425"/></Shape>
+	    <String CONTENT="à Mr Jaillet. Il y a la des papiers, mes polices"
+                    HPOS="125"
+                    VPOS="422"
+                    WIDTH="162"
+                    HEIGHT="1230"></String>
+          </TextLine>
+
+          
         </TextBlock>
         
         <TextBlock HPOS="387"
@@ -109,7 +109,7 @@
                    HEIGHT="3443"
                    ID="block_6"
                    TAGREFS="BT4215">
-          <Shape><Polygon POINTS="2321 900 2269 916 2321 1016 2256 1058 2295 1084 2256 1145 2385 1200 2411 1381 2360 1535 2424 1600 2398 1906 2360 1936 2398 1974 2360 2039 2385 2203 2282 2384 2321 2413 2295 2487 2411 2529 2373 2707 2437 2762 2437 2887 2373 2929 2437 3123 2424 3688 1368 3713 1197 3791 529 3791 490 3752 477 3484 387 3442 477 3339 428 3008 438 3008 438 941 407 941 407 650 426 374 942 348 1352 361 1433 456 2230 490 2282 529 2269 603 2373 645"/></Shape>
+          <Shape><Polygon POINTS="2321 900 2269 916 2321 1016 2256 1058 2295 1084 2256 1145 2385 1200 2411 1381 2360 1535 2424 1600 2398 1906 2360 1936 2398 1974 2360 2039 2385 2203 2282 2384 2321 2413 2295 2487 2411 2529 2373 2707 2437 2762 2437 2887 2373 2929 2437 3123 2424 3688 1368 3713 1197 3791 529 3791 490 3752 477 3484 387 3442 477 3339 428 3008 438 3008 438 1714 449 1714 449 1665 438 1665 438 941 407 941 407 650 426 374 942 348 1352 361 1433 456 2230 490 2282 529 2269 603 2373 645"/></Shape>
           
           
           <TextLine ID="line_4"
@@ -654,6 +654,46 @@
                     HEIGHT="129"></String>
           </TextLine>
 
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="0"
+                   VPOS="10"
+                   WIDTH="577"
+                   HEIGHT="347"
+                   ID="eSc_textblock_31d560e7"
+                   TAGREFS="BT4550">
+          <Shape><Polygon POINTS="577 357 577 10 0 10 0 357"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1868"
+                   VPOS="35"
+                   WIDTH="509"
+                   HEIGHT="376"
+                   ID="eSc_textblock_2d0836c2"
+                   TAGREFS="BT4550">
+          <Shape><Polygon POINTS="1868 411 1868 39 2365 35 2377 411"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="81"
+                   VPOS="2873"
+                   WIDTH="409"
+                   HEIGHT="947"
+                   ID="eSc_textblock_09190741"
+                   TAGREFS="BT4550">
+          <Shape><Polygon POINTS="81 2873 81 3820 490 3820 490 2873"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="35"
+                   VPOS="1553"
+                   WIDTH="393"
+                   HEIGHT="1305"
+                   ID="eSc_textblock_28af7a2c"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="428 2858 35 2858 35 1714 259 1553 428 1714"/></Shape>
           
         </TextBlock>
         

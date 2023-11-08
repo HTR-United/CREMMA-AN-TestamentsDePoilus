@@ -120,6 +120,16 @@
           
         </TextBlock>
         
+        <TextBlock HPOS="1022"
+                   VPOS="83"
+                   WIDTH="564"
+                   HEIGHT="328"
+                   ID="eSc_textblock_9ab6cdd2"
+                   TAGREFS="BT4550">
+          <Shape><Polygon POINTS="1022 83 1022 411 1586 411 1586 83"/></Shape>
+          
+        </TextBlock>
+        
 
         
       </PrintSpace>
