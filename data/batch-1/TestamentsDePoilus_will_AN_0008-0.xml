@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -26,12 +26,12 @@
                   HEIGHT="3879">
         
         <TextBlock HPOS="170"
-                   VPOS="90"
+                   VPOS="123"
                    WIDTH="2247"
-                   HEIGHT="3578"
+                   HEIGHT="3545"
                    ID="block_2"
                    TAGREFS="BT4215">
-          <Shape><Polygon POINTS="2365 1095 2417 1354 2313 1538 2404 2211 2391 3643 530 3668 478 3630 478 3353 500 3353 500 2004 489 2004 491 2000 490 1979 495 1979 495 1919 565 1919 565 1899 550 1884 555 1119 550 1029 535 909 585 909 605 879 630 834 685 400 635 400 635 310 170 310 181 142 1747 90 2352 90 2391 168 2339 371 2404 762"/></Shape>
+          <Shape><Polygon POINTS="2365 1095 2417 1354 2313 1538 2404 2211 2391 3643 530 3668 478 3630 478 3353 500 3353 500 2004 489 2004 491 2000 490 1979 495 1979 495 1919 565 1919 565 1899 550 1884 555 1119 550 1029 535 909 585 909 605 879 630 834 685 400 635 400 635 310 170 310 181 142 1233 123 2052 201 2054 279 2162 424 2260 828"/></Shape>
           
           
           <TextLine ID="line_5"
@@ -467,7 +467,7 @@
                     WIDTH="1874"
                     HEIGHT="129">
             <Shape><Polygon POINTS="514 3601 504 3552 556 3533 556 3533 559 3533 559 3533 563 3533 563 3533 734 3546 789 3523 789 3523 792 3523 792 3523 792 3523 796 3523 796 3523 799 3523 799 3523 799 3523 847 3546 918 3523 922 3523 922 3523 922 3523 925 3523 925 3523 928 3523 928 3523 928 3523 931 3523 967 3546 1041 3523 1045 3523 1045 3523 1045 3523 1048 3523 1048 3523 1174 3542 1252 3513 1252 3513 1255 3513 1255 3513 1258 3513 1320 3513 1320 3513 1320 3513 1323 3513 1323 3513 1323 3513 1326 3513 1326 3513 1326 3516 1355 3542 1388 3526 1388 3526 1388 3526 1391 3526 1391 3526 1394 3526 1394 3526 1533 3542 1543 3542 1546 3542 1572 3523 1575 3523 1575 3523 1575 3523 1579 3523 1579 3523 1579 3523 1582 3523 1582 3523 1692 3539 1711 3542 1714 3539 1760 3510 1763 3510 1763 3510 1763 3510 1766 3510 1766 3510 1769 3510 1870 3510 1870 3510 1870 3510 1873 3510 1873 3510 1938 3539 1941 3539 1944 3539 2028 3510 2032 3510 2032 3510 2032 3510 2035 3510 2371 3536 2378 3591 2375 3607 2281 3630 2281 3630 2281 3630 2278 3630 2064 3613 2009 3610 1999 3613 1977 3630 1973 3630 1973 3630 1973 3630 1970 3630 1970 3630 1967 3630 1967 3630 1880 3617 1870 3617 1857 3617 1753 3633 1753 3633 1750 3633 1637 3630 1637 3630 1637 3630 1634 3630 1634 3630 1630 3630 1621 3620 1598 3610 1401 3626 1287 3633 1284 3633 1181 3630 1181 3630 1181 3630 1177 3630 1177 3630 1177 3630 1174 3630 1174 3630 1174 3630 1174 3626 1155 3610 760 3636 741 3636 737 3636 737 3636 737 3636 734 3636 621 3617 514 3639"/></Shape>
-	    <String CONTENT="qui suit : si monsieur Pierre Boiteu"
+	    <String CONTENT="qui suit : si monsieur Pierre Boiteux"
                     HPOS="504"
                     VPOS="3510"
                     WIDTH="1874"
@@ -478,22 +478,32 @@
         </TextBlock>
         
         <TextBlock HPOS="116"
-                   VPOS="342"
-                   WIDTH="464"
-                   HEIGHT="1567"
+                   VPOS="232"
+                   WIDTH="471"
+                   HEIGHT="1677"
                    ID="eSc_textblock_238e0883"
                    TAGREFS="BT4217">
-          <Shape><Polygon POINTS="129 1858 116 362 150 342 150 400 580 400 580 864 505 864 505 904 495 904 495 1069 515 1069 515 1124 540 1124 540 1879 395 1879 395 1909 180 1909"/></Shape>
+          <Shape><Polygon POINTS="129 1858 116 362 150 342 471 232 572 338 580 864 587 876 566 902 558 918 548 957 556 1010 552 1038 569 1110 540 1879 395 1879 395 1909 180 1909"/></Shape>
           
         </TextBlock>
         
         <TextBlock HPOS="155"
-                   VPOS="2057"
-                   WIDTH="300"
-                   HEIGHT="1123"
+                   VPOS="2094"
+                   WIDTH="337"
+                   HEIGHT="1135"
                    ID="eSc_textblock_6aa88bb9"
                    TAGREFS="BT4217">
-          <Shape><Polygon POINTS="271 3177 155 3048 155 2185 207 2094 423 2107 455 2057 455 3180"/></Shape>
+          <Shape><Polygon POINTS="271 3177 155 3048 155 2185 207 2094 423 2107 492 2172 492 3229"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1683"
+                   VPOS="92"
+                   WIDTH="662"
+                   HEIGHT="86"
+                   ID="eSc_textblock_fc8b495d"
+                   TAGREFS="BT4216">
+          <Shape><Polygon POINTS="2345 178 2345 92 1683 92 1683 178"/></Shape>
           
         </TextBlock>
         
