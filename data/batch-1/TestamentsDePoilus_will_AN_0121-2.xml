@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -25,13 +25,13 @@
                   WIDTH="1539"
                   HEIGHT="1974">
         
-        <TextBlock HPOS="164.0"
-                   VPOS="1138.0"
-                   WIDTH="1223.0"
-                   HEIGHT="715.0"
-                   ID="block_1"
-                   >
-          <Shape><Polygon POINTS="1013 1190 1071 1184 1046 1263 1380 1296 1387 1386 1190 1439 928 1432 880 1459 768 1426 506 1432 520 1467 599 1480 1183 1454 1275 1480 1288 1513 1288 1577 1262 1603 1104 1638 1143 1684 1137 1774 1104 1814 566 1853 493 1814 506 1730 579 1677 722 1636 505 1610 230 1617 164 1590 177 1447 335 1426 316 1381 342 1368 276 1353 263 1327 283 1243 335 1202 348 1158 434 1138 459 1151 459 1202 546 1276 926 1269 992 1243 1013 1190"/></Shape>
+        <TextBlock HPOS="123"
+                   VPOS="1079"
+                   WIDTH="1371"
+                   HEIGHT="773"
+                   ID="eSc_textblock_cf9f885d"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="123 1079 123 1852 1494 1852 1494 1079"/></Shape>
           
           
           <TextLine ID="line_0"
@@ -70,17 +70,17 @@
           
           <TextLine ID="eSc_line_c0f592d2"
                     TAGREFS="LT1381"
-                    BASELINE="518 1767 521 1767 542 1767 573 1767 701 1773 790 1786 861 1786 937 1792 1023 1782 1038 1782 1093 1761" 
+                    BASELINE="518 1767 486 1791 778 1775 996 1758 1093 1761" 
                     HPOS="515"
-                    VPOS="1700"
+                    VPOS="1667"
                     WIDTH="577"
-                    HEIGHT="119">
-            <Shape><Polygon POINTS="516 1766 515 1819 613 1819 613 1817 615 1817 630 1811 683 1786 735 1804 739 1804 740 1804 742 1804 743 1804 745 1804 747 1802 763 1789 783 1797 785 1797 786 1797 788 1797 790 1797 804 1788 819 1796 821 1796 822 1796 877 1789 883 1794 897 1802 898 1802 900 1802 902 1802 1091 1779 1092 1760 1086 1700 985 1700 984 1700 982 1700 981 1700 981 1702 974 1707 962 1719 948 1710 943 1705 941 1705 939 1705 938 1705 936 1705 920 1712 892 1722 870 1715 849 1709 847 1709 846 1709 844 1709 826 1719 773 1748 656 1748 617 1737 615 1737 613 1737 562 1745 553 1738 548 1733 546 1733 544 1733 543 1733 541 1733 516 1740 516 1766"/></Shape>
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="515 1812 617 1816 618 1816 620 1816 648 1806 720 1776 771 1797 773 1797 775 1797 776 1797 778 1797 803 1786 819 1794 822 1796 824 1796 826 1796 841 1794 903 1781 936 1788 981 1797 982 1797 984 1797 1010 1783 1091 1778 1092 1760 1087 1704 989 1702 987 1702 985 1702 984 1702 984 1704 976 1710 964 1722 948 1712 933 1704 931 1704 929 1704 928 1704 906 1712 875 1705 869 1702 853 1688 850 1692 848 1683 840 1667 744 1679 611 1711 587 1717 562 1743 554 1738 549 1733 548 1733 546 1733 544 1733 543 1733 516 1740 516 1766"/></Shape>
 	    <String CONTENT="Charles"
                     HPOS="515"
-                    VPOS="1700"
+                    VPOS="1667"
                     WIDTH="577"
-                    HEIGHT="119"></String>
+                    HEIGHT="149"></String>
           </TextLine>
 
           

@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -212,7 +212,7 @@
                     WIDTH="1284"
                     HEIGHT="115">
             <Shape><Polygon POINTS="738 1552 730 1484 777 1461 777 1461 777 1461 780 1461 780 1461 782 1461 832 1461 832 1461 832 1461 834 1461 834 1461 834 1461 837 1461 837 1461 837 1463 861 1484 868 1495 921 1495 952 1484 1030 1461 1033 1461 1033 1461 1033 1461 1200 1458 1202 1458 1202 1458 1205 1458 1205 1458 1205 1458 1208 1458 1234 1476 1278 1458 1278 1458 1281 1458 1281 1458 1283 1458 1403 1458 1403 1458 1403 1458 1406 1458 1406 1458 1406 1458 1409 1458 1448 1484 1453 1487 1497 1484 1656 1468 1656 1468 1659 1468 1659 1468 1662 1468 1662 1468 1662 1468 1664 1468 1688 1484 1696 1489 1769 1489 1776 1484 1816 1453 1816 1453 1818 1453 1818 1453 1818 1453 1821 1453 1821 1453 1823 1453 1823 1453 1823 1453 1826 1453 1826 1453 1897 1484 1902 1484 2006 1484 2014 1534 2011 1560 738 1568"/></Shape>
-	    <String CONTENT="domicilié à Paris, 121, Avenue"
+	    <String CONTENT="domicilié à &gt;Paris&lt;, 121, Avenue"
                     HPOS="730"
                     VPOS="1453"
                     WIDTH="1284"
@@ -294,12 +294,12 @@
         </TextBlock>
         
         <TextBlock HPOS="1137"
-                   VPOS="114"
+                   VPOS="82"
                    WIDTH="364"
-                   HEIGHT="123"
+                   HEIGHT="155"
                    ID="eSc_textblock_6512a4ad"
                    TAGREFS="BT4217">
-          <Shape><Polygon POINTS="1354 237 1179 237 1189 187 1137 174 1189 114 1497 133 1501 185"/></Shape>
+          <Shape><Polygon POINTS="1354 237 1179 237 1189 187 1137 174 1189 114 1492 82 1501 185"/></Shape>
           
         </TextBlock>
         
@@ -318,7 +318,7 @@
                    WIDTH="572"
                    HEIGHT="140"
                    ID="eSc_textblock_a1020787"
-                   TAGREFS="BT4218">
+                   TAGREFS="BT4216">
           <Shape><Polygon POINTS="1554 191 1554 116 1617 62 2087 52 2126 62 2126 164 1983 185 1986 186 1563 186 1563 192"/></Shape>
           
         </TextBlock>

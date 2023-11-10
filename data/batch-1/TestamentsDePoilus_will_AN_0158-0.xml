@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -31,7 +31,7 @@
                    HEIGHT="1125"
                    ID="block_6"
                    TAGREFS="BT4215">
-          <Shape><Polygon POINTS="2044 930 1972 1143 1808 1255 1115 1276 1043 1235 1064 1176 972 1122 1002 1043 949 1010 634 1010 634 501 603 368 562 345 552 209 719 165 790 182 795 182 795 151 839 163 2146 163 2156 345 2105 590 2146 634 2167 795 2146 866"/></Shape>
+          <Shape><Polygon POINTS="2044 930 1972 1143 1808 1255 1115 1276 1043 1235 1064 1176 972 1122 962 1086 873 1057 718 1076 679 1065 637 1054 571 1073 577 491 603 368 562 345 552 209 719 165 790 182 795 182 795 151 839 163 2146 163 2156 345 2105 590 2146 634 2167 795 2146 866"/></Shape>
           
           
           <TextLine ID="line_1"
@@ -195,7 +195,7 @@
                     WIDTH="778"
                     HEIGHT="87">
             <Shape><Polygon POINTS="1100 1053 1092 1010 1153 987 1153 987 1156 987 1156 987 1158 987 1207 987 1207 987 1207 987 1210 987 1210 987 1210 987 1212 987 1212 989 1235 1007 1235 1010 1343 1010 1345 1007 1371 984 1371 984 1373 984 1373 984 1373 984 1376 984 1376 984 1379 984 1379 984 1583 1005 1586 1005 1586 1005 1624 982 1627 982 1627 982 1629 982 1629 982 1629 982 1632 982 1865 1005 1870 1046 1867 1069 1097 1066"/></Shape>
-	    <String CONTENT="Bussu, le 1er août 1914"
+	    <String CONTENT="Bussu, le 1^er août 1914"
                     HPOS="1092"
                     VPOS="982"
                     WIDTH="778"
@@ -247,8 +247,28 @@
                    WIDTH="603"
                    HEIGHT="182"
                    ID="eSc_textblock_56b1326d"
-                   TAGREFS="BT4218">
+                   TAGREFS="BT4216">
           <Shape><Polygon POINTS="355 173 355 208 143 212 112 181 153 61 550 61 593 30 685 122 715 130 715 173"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="719"
+                   VPOS="2222"
+                   WIDTH="482"
+                   HEIGHT="399"
+                   ID="eSc_textblock_a9307258"
+                   TAGREFS="BT4550">
+          <Shape><Polygon POINTS="719 2222 719 2618 1201 2621 1201 2222"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2072"
+                   VPOS="44"
+                   WIDTH="83"
+                   HEIGHT="74"
+                   ID="eSc_textblock_fe442cd1"
+                   TAGREFS="BT4216">
+          <Shape><Polygon POINTS="2072 44 2072 118 2155 118 2155 44"/></Shape>
           
         </TextBlock>
         

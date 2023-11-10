@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -25,13 +25,13 @@
                   WIDTH="2261"
                   HEIGHT="3129">
         
-        <TextBlock HPOS="594"
-                   VPOS="171"
-                   WIDTH="1510"
-                   HEIGHT="337"
+        <TextBlock HPOS="518"
+                   VPOS="136"
+                   WIDTH="1622"
+                   HEIGHT="711"
                    ID="block_6"
                    TAGREFS="BT4215">
-          <Shape><Polygon POINTS="594 404 646 171 1019 250 1961 208 2104 239 2083 404 1968 456 1157 456 740 508 657 487"/></Shape>
+          <Shape><Polygon POINTS="594 404 518 171 1009 142 1961 136 2140 239 2098 445 1942 805 1291 820 632 847 544 549 577 454"/></Shape>
           
           
           <TextLine ID="line_3"
@@ -86,33 +86,6 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="636"
-                   VPOS="636"
-                   WIDTH="1051"
-                   HEIGHT="154"
-                   ID="block_5"
-                   TAGREFS="BT4215">
-          <Shape><Polygon POINTS="688 769 636 748 688 636 959 677 1074 646 1157 677 1666 667 1687 737 1603 790"/></Shape>
-          
-          
-          <TextLine ID="line_6"
-                    TAGREFS="LT1381"
-                    BASELINE="654 740 1640 745" 
-                    HPOS="649"
-                    VPOS="677"
-                    WIDTH="988"
-                    HEIGHT="113">
-            <Shape><Polygon POINTS="651 711 651 737 649 769 711 787 714 787 717 787 902 774 910 774 1116 774 1121 777 1150 790 1152 790 1155 790 1157 790 1160 790 1181 777 1191 777 1288 790 1290 790 1293 790 1327 779 1335 777 1337 779 1353 790 1356 790 1358 790 1361 790 1363 790 1366 790 1382 779 1389 777 1632 782 1637 743 1635 680 1582 680 1580 680 1577 680 1575 680 1551 698 1457 683 1455 683 1371 698 1356 683 1353 683 1353 680 1350 680 1348 680 1259 680 1256 680 1223 685 1147 698 1095 688 1045 677 1043 677 1040 677 1037 677 1024 688 1017 696 993 688 951 677 949 677 946 677 873 690 847 696 839 690 831 683 829 683 826 683 824 683 821 683 782 693 769 696 764 693 748 680 748 677 745 677 743 677 740 677 738 677 735 677 717 693 711 696 657 696 651 711"/></Shape>
-	    <String CONTENT="René Le Bescond"
-                    HPOS="649"
-                    VPOS="677"
-                    WIDTH="988"
-                    HEIGHT="113"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="229"
                    VPOS="1052"
                    WIDTH="738"
@@ -158,16 +131,37 @@
         </TextBlock>
         
         <TextBlock HPOS="994"
-                   VPOS="844"
+                   VPOS="814"
                    WIDTH="974"
-                   HEIGHT="236"
+                   HEIGHT="266"
                    ID="eSc_textblock_b86d8dd9"
                    TAGREFS="BT4215">
-          <Shape><Polygon POINTS="1011 896 1105 844 1885 865 1968 946 1822 1040 994 1080 994 958"/></Shape>
+          <Shape><Polygon POINTS="1011 896 1105 818 1900 814 1968 946 1822 1040 994 1080 994 958"/></Shape>
           
         </TextBlock>
         
 
+        
+        <TextBlock ID="eSc_dummyblock_">
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT1381"
+                    BASELINE="654 740 1640 745" 
+                    HPOS="649"
+                    VPOS="677"
+                    WIDTH="988"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="651 711 651 737 649 769 711 787 714 787 717 787 902 774 910 774 1116 774 1121 777 1150 790 1152 790 1155 790 1157 790 1160 790 1181 777 1191 777 1288 790 1290 790 1293 790 1327 779 1335 777 1337 779 1353 790 1356 790 1358 790 1361 790 1363 790 1366 790 1382 779 1389 777 1632 782 1637 743 1635 680 1582 680 1580 680 1577 680 1575 680 1551 698 1457 683 1455 683 1371 698 1356 683 1353 683 1353 680 1350 680 1348 680 1259 680 1256 680 1223 685 1147 698 1095 688 1045 677 1043 677 1040 677 1037 677 1024 688 1017 696 993 688 951 677 949 677 946 677 873 690 847 696 839 690 831 683 829 683 826 683 824 683 821 683 782 693 769 696 764 693 748 680 748 677 745 677 743 677 740 677 738 677 735 677 717 693 711 696 657 696 651 711"/></Shape>
+	    <String CONTENT="René Le Bescond"
+                    HPOS="649"
+                    VPOS="677"
+                    WIDTH="988"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
       </PrintSpace>
     </Page>

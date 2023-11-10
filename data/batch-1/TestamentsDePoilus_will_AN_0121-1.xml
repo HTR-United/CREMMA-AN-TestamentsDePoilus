@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -25,13 +25,13 @@
                   WIDTH="1520"
                   HEIGHT="1902">
         
-        <TextBlock HPOS="38"
+        <TextBlock HPOS="52"
                    VPOS="183"
-                   WIDTH="1462"
-                   HEIGHT="1275"
+                   WIDTH="1465"
+                   HEIGHT="1348"
                    ID="block_3"
                    TAGREFS="BT4215">
-          <Shape><Polygon POINTS="1500 828 1481 830 1475 1031 1451 1006 1431 1084 1424 1291 1323 1293 1350 1325 1367 1312 1356 1350 1381 1348 1388 1312 1418 1325 1425 1364 1101 1364 1101 1388 938 1388 938 1428 853 1428 853 1458 419 1458 391 1418 317 1412 328 1386 165 1380 61 1247 44 1279 38 1160 50 1210 69 1185 101 1196 139 1107 114 1057 133 1006 120 931 165 905 95 835 76 765 107 714 88 423 107 209 145 183 266 202 820 196 820 203 1458 203 1456 207 1488 240 1494 347 1443 461"/></Shape>
+          <Shape><Polygon POINTS="1412 1366 1228 1352 678 1531 543 1508 52 1349 88 423 107 209 145 183 266 202 820 196 820 203 1458 203 1456 207 1488 240 1493 326 1517 678 1504 861 1424 1186"/></Shape>
           
           
           <TextLine ID="line_8"
@@ -47,23 +47,6 @@
                     VPOS="209"
                     WIDTH="1354"
                     HEIGHT="136"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="line_7"
-                    TAGREFS="LT1381"
-                    BASELINE="917 155 1466 126" 
-                    HPOS="912"
-                    VPOS="79"
-                    WIDTH="554"
-                    HEIGHT="117">
-            <Shape><Polygon POINTS="917 155 912 126 1042 110 1042 110 1044 110 1044 110 1045 110 1045 110 1045 110 1053 114 1061 118 1069 112 1072 109 1072 109 1074 109 1074 109 1074 109 1075 109 1075 109 1077 109 1077 109 1077 109 1078 109 1078 109 1080 109 1083 110 1093 117 1105 109 1107 109 1107 109 1107 109 1109 109 1109 109 1109 109 1110 109 1110 109 1113 109 1153 114 1180 103 1213 90 1213 90 1215 90 1215 90 1215 90 1261 88 1262 88 1262 88 1264 88 1264 88 1264 88 1266 88 1266 88 1274 95 1280 101 1310 93 1335 85 1337 85 1337 85 1337 85 1339 85 1378 87 1420 88 1426 82 1429 80 1429 79 1429 79 1431 79 1431 79 1431 79 1432 79 1432 79 1432 79 1434 79 1462 80 1466 126 1464 136 1304 144 1291 155 1280 166 1280 166 1278 166 1278 166 1278 166 1277 166 1277 166 1277 166 1275 166 1275 166 1274 166 1274 166 1274 166 1272 166 1262 158 1243 145 1191 145 1109 174 1107 174 1107 174 1107 174 1105 174 1105 174 1105 174 1104 174 1104 174 1102 174 1102 174 1096 169 1086 177 1074 188 1074 190 1074 190 1072 190 1072 190 1070 190 1070 190 1070 190 977 194 975 194 975 194 975 194 974 194 974 194 972 194 972 194 967 191 948 175 921 196"/></Shape>
-	    <String CONTENT="Page deuxième"
-                    HPOS="912"
-                    VPOS="79"
-                    WIDTH="554"
-                    HEIGHT="117"></String>
           </TextLine>
 
           
@@ -210,8 +193,18 @@
                    WIDTH="608"
                    HEIGHT="121"
                    ID="eSc_textblock_839d2f4d"
-                   TAGREFS="BT4218">
+                   TAGREFS="BT4216">
           <Shape><Polygon POINTS="893 76 963 57 1481 88 1488 150 1472 178 880 178"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="533"
+                   VPOS="1327"
+                   WIDTH="859"
+                   HEIGHT="467"
+                   ID="eSc_textblock_fb2f9634"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="602 1794 533 1487 1392 1327 1364 1467 1358 1794"/></Shape>
           
         </TextBlock>
         

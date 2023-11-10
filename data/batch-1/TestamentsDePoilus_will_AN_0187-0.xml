@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -25,13 +25,13 @@
                   WIDTH="1700"
                   HEIGHT="3110">
         
-        <TextBlock HPOS="155"
-                   VPOS="445"
-                   WIDTH="1451"
-                   HEIGHT="993"
+        <TextBlock HPOS="123"
+                   VPOS="382"
+                   WIDTH="1483"
+                   HEIGHT="1084"
                    ID="block_2"
-                   TAGREFS="BT4217">
-          <Shape><Polygon POINTS="1326 808 1308 881 1481 881 1546 922 1596 891 1606 1117 1328 1117 1110 1189 1212 1285 1129 1337 1170 1358 1149 1438 228 1428 207 1036 249 974 197 920 197 808 249 756 207 743 207 684 228 642 352 611 166 619 155 507 207 456 301 445 1450 476 1419 567 1077 629 1149 694 1152 756 1263 736"/></Shape>
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="1211 775 1214 947 1534 944 1606 1117 1521 1198 1338 1273 1212 1285 1129 1281 998 1431 960 1437 777 1466 228 1428 125 1072 123 649 210 382 1120 387 1181 382 1475 476 1536 561 1496 643"/></Shape>
           
           
           <TextLine ID="line_0"
@@ -93,7 +93,7 @@
                     WIDTH="1362"
                     HEIGHT="125">
             <Shape><Polygon POINTS="228 1075 225 1013 378 997 378 997 381 997 381 997 384 997 449 1015 474 1023 726 1023 734 1021 760 1000 763 1000 763 1000 763 1000 765 1000 765 1000 765 1000 768 1000 768 1000 903 1023 931 1026 936 1023 962 1002 965 1002 965 1002 965 1002 968 1002 968 1002 970 1002 1038 1002 1038 1002 1038 1002 1040 1002 1040 1002 1040 1002 1043 1002 1077 1026 1084 1028 1092 1026 1136 1005 1136 1005 1139 1005 1139 1005 1139 1005 1141 1005 1141 1005 1269 1023 1308 1005 1308 1005 1308 1005 1310 1005 1310 1005 1313 1005 1313 1005 1313 1005 1315 1005 1393 1028 1427 1018 1427 1018 1430 1018 1430 1018 1432 1018 1432 1018 1583 1034 1585 1088 1583 1098 1043 1122 1040 1122 1040 1122 1038 1122 1038 1122 1038 1122 1035 1122 1035 1122 1009 1098 1001 1096 942 1098 781 1111 778 1111 778 1111 778 1111 776 1111 776 1111 776 1111 773 1111 773 1111 773 1109 763 1098 760 1098 750 1098 692 1109 692 1109 690 1109 690 1109 690 1109 635 1098 612 1096 602 1098 565 1114 565 1114 563 1114 563 1114 560 1114 560 1114 560 1114 558 1114 558 1114 524 1098 519 1098 508 1098 428 1114 428 1114 428 1114 425 1114 223 1098"/></Shape>
-	    <String CONTENT="61 avenue de Neuilly S/SeineNeuilly-sur-Seine"
+	    <String CONTENT="61 avenue de Neuilly S/Seine"
                     HPOS="223"
                     VPOS="997"
                     WIDTH="1362"
@@ -137,13 +137,33 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="394"
-                   VPOS="2042"
-                   WIDTH="849"
-                   HEIGHT="443"
+        <TextBlock HPOS="356"
+                   VPOS="2001"
+                   WIDTH="898"
+                   HEIGHT="768"
                    ID="block_1"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="616 2473 598 2400 584 2344 501 2290 356 2265 369 2140 383 2079 445 2029 889 2001 1121 2023 1171 2017 1243 2077 1254 2206 1242 2260 1149 2363 801 2769"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="261"
+                   VPOS="59"
+                   WIDTH="951"
+                   HEIGHT="205"
+                   ID="eSc_textblock_78a22240"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="261 264 261 67 1209 59 1212 264"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1516"
+                   VPOS="682"
+                   WIDTH="1"
+                   HEIGHT="1"
+                   ID="eSc_textblock_37013d6f"
                    >
-          <Shape><Polygon POINTS="705 2412 685 2311 620 2267 394 2257 394 2135 464 2125 498 2062 955 2042 1191 2042 1243 2166 1201 2236 1014 2301 1149 2363 1097 2485"/></Shape>
+          <Shape><Polygon POINTS="1516 682 1516 683 1517 683 1517 682"/></Shape>
           
         </TextBlock>
         
