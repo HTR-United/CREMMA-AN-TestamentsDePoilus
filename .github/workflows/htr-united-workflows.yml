@@ -3,6 +3,8 @@ name: HTR United Workflow
 'on':
   - push
   - pull_request
+permissions:
+  contents: write
 jobs:
   HTRUC:
     runs-on: ubuntu-latest
@@ -35,7 +37,7 @@ jobs:
           pip install htr-united-metadata-generator htruc anybadge
       - name: Run Report
         run: |
-          humGenerator --parse alto --group ./data/**/*.xml --github-envs --to-json updated_metrics.json --chars -n NFD
+          humGenerator --chars -n NFD --parse alto --group ./data/**/*.xml --github-envs --to-json updated_metrics.json
           cat envs.txt >> $GITHUB_ENV
       - name: Get HTR United Badge Template
         if: github.ref == 'refs/heads/main'
@@ -57,6 +59,27 @@ jobs:
           git add htr-united.yml ./badges/
           git commit -m "[Automatic] Update the Catalog & the Badges" || echo "Nothing to commit"
           git push || echo "Nothing to push"
+      - uses: rymndhng/release-on-push-action@master
+        if: ${{ github.ref == 'refs/heads/main' && github.event_name == 'push' }}
+        with:
+          bump_version_scheme: patch
+          use_github_release_notes: true
+  ChocoMufin:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install chocomufin
+      - name: Run ChocoMufin
+        run: |
+          chocomufin generate table.csv ./data/**/*.xml
+          cat table.csv
   HTRVX:
     runs-on: ubuntu-latest
     steps:
@@ -72,3 +95,4 @@ jobs:
       - name: Run HTRVX
         run: |
           htrvx --verbose --group --format alto --check-empty --segmonto --xsd ./data/**/*.xml
+
