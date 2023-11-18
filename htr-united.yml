@@ -1,323 +1,282 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: ' CREMMA-AN Testament De Poilus '
-url: https://github.com/HTR-United/CREMMA-AN-TestamentDePoilus
-description: "WWI\u2019s Poilus' testaments edited by the Archives National during\
-  \ the Testaments de Poilus project."
-project-name: Testaments de Poilus
-project-website: https://edition-testaments-de-poilus.huma-num.fr/
-language:
-- fra
-script:
-- iso: Latn
 authors:
 - name: Emmanuelle
+  roles:
+  - project-manager
   surname: de Champs
-  roles:
-  - project-manager
-- surname: Clavaud
-  name: Florence
+- name: Florence
   roles:
   - project-manager
   - quality-control
   - transcriber
+  surname: Clavaud
 - name: Pauline
+  roles:
+  - project-manager
+  - quality-control
+  - transcriber
   surname: Charbonnier
-  roles:
-  - project-manager
-  - quality-control
-  - transcriber
 - name: Christine
+  roles:
+  - project-manager
+  - quality-control
+  - support
   surname: Nougaret
-  roles:
-  - project-manager
-  - quality-control
-  - support
 - name: Alix
-  surname: "Chagu\xE9"
   roles:
   - aligner
   - project-manager
   - quality-control
   - support
+  surname: Chagué
 - name: Thibault
-  surname: "Cl\xE9rice"
   roles:
   - aligner
   - project-manager
   - quality-control
   - support
+  surname: Clérice
 - name: Falcoz
-  surname: Elsa
   roles:
   - aligner
-- name: "Marie-Fran\xE7oise"
+  surname: Elsa
+- name: Marie-Françoise
+  roles:
+  - project-manager
   surname: Limon-Bonnet
-  roles:
-  - project-manager
 - name: Elise
+  roles:
+  - project-manager
   surname: Wojszvzyk
-  roles:
-  - project-manager
 - name: Sylvie
-  surname: Dechavanne
   roles:
   - project-manager
   - quality-control
   - support
-- surname: ALemoine
-  roles:
+  surname: Dechavanne
+- roles:
   - transcriber
-- surname: ASJPeronneau
-  roles:
+  surname: ALemoine
+- roles:
   - transcriber
-- surname: Alcofrybas
-  roles:
+  surname: ASJPeronneau
+- roles:
   - transcriber
-- surname: BeaLct
-  roles:
+  surname: Alcofrybas
+- roles:
   - transcriber
-- surname: CLbt
-  roles:
+  surname: BeaLct
+- roles:
   - transcriber
-- surname: Chloelsa
-  roles:
+  surname: CLbt
+- roles:
   - transcriber
-- surname: DMichel
-  roles:
+  surname: Chloelsa
+- roles:
   - transcriber
-- surname: Desauthieux
-  roles:
+  surname: DMichel
+- roles:
   - transcriber
-- surname: EPerrin
-  roles:
+  surname: Desauthieux
+- roles:
   - transcriber
-- surname: GBMireille
-  roles:
+  surname: EPerrin
+- roles:
   - transcriber
-- surname: GPINET
-  roles:
+  surname: GBMireille
+- roles:
   - transcriber
-- surname: Genea78
-  roles:
+  surname: GPINET
+- roles:
   - transcriber
-- surname: JMGoux
-  roles:
+  surname: Genea78
+- roles:
   - transcriber
-- surname: Jideuxhemme
-  roles:
+  surname: JMGoux
+- roles:
   - transcriber
-- surname: LBIsabelle
-  roles:
+  surname: Jideuxhemme
+- roles:
   - transcriber
-- surname: Lamotte
-  roles:
+  surname: LBIsabelle
+- roles:
   - transcriber
-- surname: MFGarreau
-  roles:
+  surname: Lamotte
+- roles:
   - transcriber
-- surname: MIna
-  roles:
+  surname: MFGarreau
+- roles:
   - transcriber
-- surname: Maniet
-  roles:
+  surname: MIna
+- roles:
   - transcriber
-- surname: MarionJo
-  roles:
+  surname: Maniet
+- roles:
   - transcriber
-- surname: PGambette
-  roles:
+  surname: MarionJo
+- roles:
   - transcriber
-- surname: PPocard
-  roles:
+  surname: PGambette
+- roles:
   - transcriber
-- surname: PROMBAUT
-  roles:
+  surname: PPocard
+- roles:
   - transcriber
-- surname: PaulineTest
-  roles:
+  surname: PROMBAUT
+- roles:
   - transcriber
-- surname: SCayeux
-  roles:
+  surname: PaulineTest
+- roles:
   - transcriber
-- surname: SL.
-  roles:
+  surname: SCayeux
+- roles:
   - transcriber
-- surname: SLespinasse
-  roles:
+  surname: SL.
+- roles:
   - transcriber
-- surname: Silver08
-  roles:
+  surname: SLespinasse
+- roles:
   - transcriber
-- surname: "TPell\xE9"
-  roles:
+  surname: Silver08
+- roles:
   - transcriber
-- surname: "Val\xE9rie"
-  roles:
+  surname: TPellé
+- roles:
   - transcriber
-- surname: alp
-  roles:
+  surname: Valérie
+- roles:
   - transcriber
-- surname: jmorvan
-  roles:
+  surname: alp
+- roles:
   - transcriber
-- surname: lelia
-  roles:
+  surname: jmorvan
+- roles:
   - transcriber
-- surname: majubama
-  roles:
+  surname: lelia
+- roles:
   - transcriber
-- surname: mickael.lefevr
-  roles:
+  surname: majubama
+- roles:
   - transcriber
-- surname: sgauthier
-  roles:
+  surname: mickael.lefevr
+- roles:
   - transcriber
-- surname: EdChamps
-  roles:
+  surname: sgauthier
+- roles:
   - quality-control
-- name: "Dani\xE8le"
+  surname: EdChamps
+- name: Danièle
+  roles:
+  - support
   surname: Allezard
+- name: Françoise
   roles:
   - support
-- name: "Fran\xE7oise"
   surname: Auriau
+- name: Sophie
   roles:
   - support
-- name: Sophie
   surname: Blanchard
-  roles:
-  - support
 - name: Laure
+  roles:
+  - support
   surname: Cadars
-  roles:
-  - support
 - name: Paul
+  roles:
+  - support
   surname: Cazin-Bernier
-  roles:
-  - support
 - name: Rosine
+  roles:
+  - support
   surname: Cleyet-Michaud
-  roles:
-  - support
 - name: Sophie
+  roles:
+  - support
   surname: Delinge
-  roles:
-  - support
 - name: Christiane
-  surname: "Demeulenaere-Douy\xE8re"
   roles:
   - support
+  surname: Demeulenaere-Douyère
 - name: Mathilde
+  roles:
+  - support
   surname: Deuve
-  roles:
-  - support
 - name: Tristan
+  roles:
+  - support
   surname: Girard
-  roles:
-  - support
 - name: Wilfried
+  roles:
+  - support
   surname: Gourdon
-  roles:
-  - support
 - name: Emilie
+  roles:
+  - support
   surname: Laffitte-Louisou
+- name: Valérie
   roles:
   - support
-- name: "Val\xE9rie"
-  surname: "Lem\xE9e"
-  roles:
-  - support
+  surname: Lemée
 - name: Jean-Claude
+  roles:
+  - support
   surname: Lescure
+- name: Mélisa
   roles:
   - support
-- name: "M\xE9lisa"
   surname: Locatelli
+- name: Aurélie
   roles:
   - support
-- name: "Aur\xE9lie"
   surname: Massie
-  roles:
-  - support
 - name: Thomas
+  roles:
+  - support
   surname: Olivier
+- name: Françoise
   roles:
   - support
-- name: "Fran\xE7oise"
   surname: Pinchard
-  roles:
-  - support
 - name: Tiffanie
+  roles:
+  - support
   surname: Pitot
-  roles:
-  - support
 - name: Anais
+  roles:
+  - support
   surname: Pontoparia
-  roles:
-  - support
 - name: Michel
+  roles:
+  - support
   surname: Renard
-  roles:
-  - support
 - name: Thierry
+  roles:
+  - support
   surname: Rihouey
-  roles:
-  - support
 - name: Christian
+  roles:
+  - support
   surname: Rodriguez
-  roles:
-  - support
 - name: Konstantinos
+  roles:
+  - support
   surname: Sifakis
+- name: Marie-Thérèse
   roles:
   - support
-- name: "Marie-Th\xE9r\xE8se"
   surname: Solignat
-  roles:
-  - support
 - name: Lucie
+  roles:
+  - support
   surname: Vieillon
-  roles:
+- roles:
   - support
-- surname: SL
-  roles:
-  - support
-script-type: only-manuscript
-time:
-  notBefore: '1914'
-  notAfter: '1918'
-hands:
-  count: 1-per-file
-  precision: estimated
-license:
-- name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-- metric: characters
-  count: 33652
-- metric: files
-  count: 96
-- metric: lines
-  count: 1353
-- metric: regions
-  count: 105
-citation-file-link: https://github.com/Dummy/depot-test/CITATION.cff
-transcription-guidelines: 'The original transcriptions were performed on a crowdsourcing
-  application (https://testaments-de-poilus.huma-num.fr/#!/) under the supervision
-  of the Archives nationales de France. Only the allographic portions of the documents
-  were transcribed. Any marginal elements added later by clerks or archivists are
-  neither segmented nor transcribed. The segmentation follows the SegmOnto ontology.
-  Abbreviations and mispelling were not corrected. Superscripted portions of text
-  are preceeded by ^. '
-production-software: eScriptorium + Kraken
+  surname: SL
 characters:
-  mode: NFD
   members:
   - e
   - a
-  - n
   - i
+  - n
   - t
   - s
   - r
@@ -327,73 +286,124 @@ characters:
   - m
   - d
   - c
-  - "\u0301"
   - p
-  - "\u0300"
+  - ́
+  - ̀
+  - f
   - v
   - g
-  - f
   - ','
-  - b
   - q
-  - '1'
-  - "\u2019"
+  - b
   - .
+  - ’
+  - '1'
   - h
   - M
   - J
   - j
-  - C
   - P
-  - '-'
-  - L
+  - C
   - A
+  - '-'
+  - x
+  - L
+  - S
+  - F
   - '9'
   - y
-  - x
   - D
-  - S
   - B
-  - ^
+  - ̂
   - R
-  - F
-  - "\u0302"
-  - G
-  - E
-  - '4'
-  - z
   - '2'
+  - '4'
+  - ^
+  - z
+  - '0'
+  - E
   - V
-  - T
+  - G
   - '3'
   - '5'
-  - N
-  - '0'
+  - T
   - )
-  - H
   - (
+  - H
+  - '6'
+  - N
   - '7'
   - '8'
   - I
-  - Q
-  - '6'
-  - ;
   - ':'
   - O
-  - "\u0327"
+  - ;
+  - Q
+  - ̧
+  - °
   - U
-  - '"'
-  - "\u0308"
-  - "\u0153"
-  - W
-  - "\xB0"
-  - '?'
-  - Z
+  -  
   - /
+  - W
+  - '"'
+  - ̈
+  - '>'
+  - <
+  - '='
+  - œ
   - w
-  - k
-  - '&'
-  - +
+  - '?'
+  - _
   - X
   - '%'
-  - ''''
+  - k
+  - '*'
+  - ſ
+  - '!'
+  - Z
+  - '&'
+  - "'"
+  - –
+  - K
+  - +
+  mode: NFD
+citation-file-link: https://github.com/Dummy/depot-test/CITATION.cff
+description: WWI’s Poilus' testaments edited by the Archives National during the Testaments
+  de Poilus project.
+format: Alto-XML
+hands:
+  count: 1-per-file
+  precision: estimated
+language:
+- fra
+license:
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: Testaments de Poilus
+project-website: https://edition-testaments-de-poilus.huma-num.fr/
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1918'
+  notBefore: '1914'
+title: ' CREMMA-AN Testament De Poilus '
+transcription-guidelines: 'The original transcriptions were performed on a crowdsourcing
+  application (https://testaments-de-poilus.huma-num.fr/#!/) under the supervision
+  of the Archives nationales de France. Only the allographic portions of the documents
+  were transcribed. Any marginal elements added later by clerks or archivists are
+  neither segmented nor transcribed. The segmentation follows the SegmOnto ontology.
+  Abbreviations and mispelling were not corrected. Superscripted portions of text
+  are preceeded by ^. '
+url: https://github.com/HTR-United/CREMMA-AN-TestamentDePoilus
+volume:
+- count: 87768
+  metric: characters
+- count: 226
+  metric: files
+- count: 3330
+  metric: lines
+- count: 553
+  metric: regions
