@@ -11,8 +11,8 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
-    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -25,40 +25,30 @@
                   WIDTH="1623"
                   HEIGHT="3108">
         
-        <TextBlock HPOS="238"
-                   VPOS="62"
-                   WIDTH="1291"
-                   HEIGHT="215"
-                   ID="block_3"
-                   >
-          <Shape><Polygon POINTS="1011 225 466 235 238 194 248 103 331 93 1062 176 1158 62 1529 72 1508 235 1324 277 1011 225"/></Shape>
+        <TextBlock HPOS="98"
+                   VPOS="69"
+                   WIDTH="1405"
+                   HEIGHT="2021"
+                   ID="block_2"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="304 1942 118 1472 98 1009 117 499 321 439 601 441 591 345 487 284 140 249 110 132 169 70 488 81 873 69 926 193 760 316 812 443 986 419 1164 439 1395 491 1471 574 1503 691 1469 1039 1323 1143 1221 1244 1415 1313 1410 1449 1170 1556 884 1674 1249 1774 1267 1866 1249 1897 1164 2047 706 2080 564 2090"/></Shape>
           
           
           <TextLine ID="line_0"
                     TAGREFS="LT1381"
-                    BASELINE="251 186 837 194" 
-                    HPOS="246"
-                    VPOS="121"
-                    WIDTH="591"
-                    HEIGHT="91">
-            <Shape><Polygon POINTS="251 186 251 121 311 121 311 121 311 121 313 121 313 121 313 121 316 121 316 121 316 121 347 147 396 147 425 124 427 121 427 121 430 121 430 121 430 121 432 121 432 121 435 121 435 121 435 121 456 124 562 147 611 129 611 129 611 129 614 129 614 129 617 129 617 129 617 129 619 129 619 129 619 129 622 129 622 129 650 150 827 134 837 194 832 212 246 209"/></Shape>
+                    BASELINE="232 176 837 194" 
+                    HPOS="228"
+                    VPOS="116"
+                    WIDTH="606"
+                    HEIGHT="101">
+            <Shape><Polygon POINTS="230 173 228 199 829 217 834 191 832 132 751 147 679 147 658 129 658 126 655 126 653 126 650 126 627 129 521 139 490 126 479 121 477 121 474 121 471 121 456 126 422 137 383 124 370 121 368 121 365 121 362 121 355 124 331 134 321 124 318 119 316 119 316 116 313 116 311 116 308 116 230 121 230 173"/></Shape>
 	    <String CONTENT="Le 16-7-15"
-                    HPOS="246"
-                    VPOS="121"
-                    WIDTH="591"
-                    HEIGHT="91"></String>
+                    HPOS="228"
+                    VPOS="116"
+                    WIDTH="606"
+                    HEIGHT="101"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="124"
-                   VPOS="466"
-                   WIDTH="1405"
-                   HEIGHT="712"
-                   ID="block_2"
-                   >
-          <Shape><Polygon POINTS="580 1178 155 1126 165 787 124 598 155 497 1024 466 1332 466 1508 528 1529 670 1467 1116 1197 1178 580 1178"/></Shape>
           
           
           <TextLine ID="line_4"
@@ -120,7 +110,7 @@
                     WIDTH="1237"
                     HEIGHT="117">
             <Shape><Polygon POINTS="171 818 165 761 215 745 217 745 217 745 217 745 220 745 220 745 222 745 222 745 222 745 254 764 274 774 350 774 362 766 386 748 386 748 388 748 388 748 391 748 391 748 394 748 453 748 453 748 453 748 456 748 456 748 502 769 521 779 655 779 663 774 687 753 687 753 689 753 689 753 689 753 692 753 692 753 694 753 757 753 757 753 757 753 759 753 759 753 821 777 837 782 855 777 938 756 941 756 941 756 943 756 943 756 943 756 946 756 946 756 948 756 948 756 948 758 974 782 980 787 1003 787 1008 782 1031 761 1031 758 1031 758 1034 758 1034 758 1034 758 1037 758 1037 758 1039 758 1096 758 1096 758 1096 758 1099 758 1099 758 1099 758 1153 784 1158 787 1164 784 1231 761 1231 761 1234 761 1234 761 1236 761 1236 761 1236 761 1239 761 1239 761 1239 761 1241 761 1241 761 1241 764 1265 787 1324 764 1324 764 1327 764 1327 764 1330 764 1330 764 1330 764 1332 764 1332 764 1402 792 1402 839 1397 862 165 841"/></Shape>
-	    <String CONTENT="domicilé à Megève Ht SavoieHaute-Savoie"
+	    <String CONTENT="domicilé à Megève Ht savoie"
                     HPOS="165"
                     VPOS="745"
                     WIDTH="1237"
@@ -137,7 +127,7 @@
                     WIDTH="1135"
                     HEIGHT="121">
             <Shape><Polygon POINTS="178 914 178 839 269 841 269 841 269 841 272 841 272 841 272 841 274 841 318 870 378 854 381 854 381 854 383 854 383 854 383 854 386 854 386 854 386 854 425 872 560 862 562 862 562 862 668 875 689 857 702 846 702 846 705 846 705 846 705 846 707 846 707 846 710 846 762 846 762 846 762 846 764 846 764 846 764 846 767 846 767 846 767 849 782 862 795 875 819 862 842 852 842 852 842 852 845 852 845 852 847 852 847 852 847 852 850 852 850 852 852 852 852 852 868 865 878 872 959 878 985 870 1039 849 1039 849 1042 849 1042 849 1044 849 1192 852 1192 852 1192 852 1195 852 1195 852 1195 852 1197 852 1239 880 1244 883 1304 883 1306 927 1301 950 1164 940 1130 947 1086 960 1083 960 1083 960 1083 960 1081 960 1081 960 1078 960 1026 947 1005 942 969 945 858 958 858 958 855 958 684 940 588 932 547 940 510 945 510 945 508 945 508 945 508 945 466 937 451 934 448 937 438 945 438 947 438 947 435 947 435 947 435 947 432 947 432 947 430 947 430 947 430 947 375 934 347 929 339 934 324 947 324 947 321 947 321 947 318 947 318 947 318 947 217 950 215 950 215 950 212 950 212 950 171 932"/></Shape>
-	    <String CONTENT="Chez son oncle Socquet Marc"
+	    <String CONTENT="Chez son oncle socquet Marc"
                     HPOS="171"
                     VPOS="839"
                     WIDTH="1135"
@@ -179,16 +169,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="155"
-                   VPOS="1201"
-                   WIDTH="1312"
-                   HEIGHT="360"
-                   ID="block_1"
-                   >
-          <Shape><Polygon POINTS="456 1520 155 1437 155 1357 207 1305 362 1243 1096 1201 1374 1284 1467 1396 1405 1447 1210 1468 1021 1561 456 1520"/></Shape>
-          
           
           <TextLine ID="line_11"
                     TAGREFS="LT1381"
@@ -223,16 +203,6 @@
           </TextLine>
 
           
-        </TextBlock>
-        
-        <TextBlock HPOS="404"
-                   VPOS="1740"
-                   WIDTH="762"
-                   HEIGHT="142"
-                   ID="block_0"
-                   >
-          <Shape><Polygon POINTS="404 1831 456 1761 808 1740 1062 1771 1166 1831 1094 1882 404 1831"/></Shape>
-          
           
           <TextLine ID="line_13"
                     TAGREFS="LT1381"
@@ -252,13 +222,23 @@
           
         </TextBlock>
         
-        <TextBlock HPOS="539"
-                   VPOS="2165"
-                   WIDTH="928"
-                   HEIGHT="847"
-                   ID="block_4"
-                   >
-          <Shape><Polygon POINTS="1260 2722 959 2735 982 2766 1249 2755 1252 2828 1425 2817 1467 2929 1394 3001 930 3012 539 2918 560 2828 1065 2825 1062 2784 951 2825 928 2763 539 2763 560 2703 1000 2703 1013 2652 1065 2639 1083 2587 611 2577 653 2465 868 2463 653 2400 632 2258 715 2196 1013 2165 1342 2175 1363 2318 1467 2372 1425 2566 1283 2649 1260 2722"/></Shape>
+        <TextBlock HPOS="472"
+                   VPOS="2159"
+                   WIDTH="1053"
+                   HEIGHT="869"
+                   ID="eSc_textblock_418646e6"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="577 2159 472 3028 1525 3026 1525 2169"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1097"
+                   VPOS="61"
+                   WIDTH="449"
+                   HEIGHT="203"
+                   ID="eSc_textblock_2e514ad2"
+                   TAGREFS="BT4216">
+          <Shape><Polygon POINTS="1097 233 1151 61 1546 61 1546 264"/></Shape>
           
         </TextBlock>
         
