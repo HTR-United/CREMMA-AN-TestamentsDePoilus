@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0121-2.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1539"
+          HEIGHT="1974"
+          PHYSICAL_IMG_NR="56"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1539"
+                  HEIGHT="1974">
+        
+        <TextBlock HPOS="123"
+                   VPOS="1079"
+                   WIDTH="1371"
+                   HEIGHT="773"
+                   ID="eSc_textblock_cf9f885d"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="123 1079 123 1852 1494 1852 1494 1079"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT1381"
+                    BASELINE="289 1320 685 1342 1364 1377" 
+                    HPOS="274"
+                    VPOS="1144"
+                    WIDTH="1090"
+                    HEIGHT="230">
+            <Shape><Polygon POINTS="289 1320 288 1281 322 1281 274 1274 285 1254 315 1233 356 1171 453 1144 399 1251 401 1251 403 1251 419 1263 436 1273 1364 1286 1364 1374 482 1332 286 1327"/></Shape>
+	    <String CONTENT="Pour ma famille"
+                    HPOS="274"
+                    VPOS="1144"
+                    WIDTH="1090"
+                    HEIGHT="230"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT1381"
+                    BASELINE="218 1539 560 1548 1193 1585" 
+                    HPOS="172"
+                    VPOS="1454"
+                    WIDTH="1089"
+                    HEIGHT="154">
+            <Shape><Polygon POINTS="172 1524 218 1470 344 1454 345 1454 371 1457 373 1457 375 1457 375 1459 401 1482 401 1483 1241 1487 1261 1591 449 1580 385 1589 383 1589 381 1589 380 1589 357 1575 342 1590 342 1592 340 1592 339 1592 337 1592 297 1592 286 1598 266 1608 265 1608 263 1608 212 1605"/></Shape>
+	    <String CONTENT="après ma mort"
+                    HPOS="172"
+                    VPOS="1454"
+                    WIDTH="1089"
+                    HEIGHT="154"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c0f592d2"
+                    TAGREFS="LT1381"
+                    BASELINE="518 1767 486 1791 778 1775 996 1758 1093 1761" 
+                    HPOS="515"
+                    VPOS="1667"
+                    WIDTH="577"
+                    HEIGHT="149">
+            <Shape><Polygon POINTS="515 1812 617 1816 618 1816 620 1816 648 1806 720 1776 771 1797 773 1797 775 1797 776 1797 778 1797 803 1786 819 1794 822 1796 824 1796 826 1796 841 1794 903 1781 936 1788 981 1797 982 1797 984 1797 1010 1783 1091 1778 1092 1760 1087 1704 989 1702 987 1702 985 1702 984 1702 984 1704 976 1710 964 1722 948 1712 933 1704 931 1704 929 1704 928 1704 906 1712 875 1705 869 1702 853 1688 850 1692 848 1683 840 1667 744 1679 611 1711 587 1717 562 1743 554 1738 549 1733 548 1733 546 1733 544 1733 543 1733 516 1740 516 1766"/></Shape>
+	    <String CONTENT="Charles"
+                    HPOS="515"
+                    VPOS="1667"
+                    WIDTH="577"
+                    HEIGHT="149"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

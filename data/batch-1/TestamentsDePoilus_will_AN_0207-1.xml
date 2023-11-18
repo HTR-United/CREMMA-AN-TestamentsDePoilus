@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0207-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3557"
+          HEIGHT="2545"
+          PHYSICAL_IMG_NR="40"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3557"
+                  HEIGHT="2545">
+        
+        <TextBlock HPOS="509"
+                   VPOS="771"
+                   WIDTH="2521"
+                   HEIGHT="558"
+                   ID="block_2"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="1556 897 1779 797 2076 856 2403 873 2445 916 2445 990 2388 1043 2844 1094 3014 1145 3030 1210 2271 1253 2031 1329 1641 1287 975 1287 990 1092 888 1049 509 1032 526 882 610 797 687 771 786 771 822 831 975 873 1126 856"/></Shape>
+          
+          
+          <TextLine ID="line_0"
+                    TAGREFS="LT1381"
+                    BASELINE="522 971 752 989 1571 984 1728 960 2413 948" 
+                    HPOS="521"
+                    VPOS="856"
+                    WIDTH="1890"
+                    HEIGHT="168">
+            <Shape><Polygon POINTS="2341 869 2320 869 2301 867 2254 890 2161 873 2159 873 2099 878 2097 878 2095 878 2065 901 1972 856 1970 856 1968 856 1686 858 1684 858 1681 858 1601 909 1567 931 1459 911 1431 907 1429 907 1427 907 1425 907 1418 911 1382 935 1287 935 1249 914 1162 867 1160 867 1158 867 1155 867 1069 916 1060 920 1005 918 1003 918 1001 918 956 939 884 939 797 918 789 918 786 918 746 920 716 922 714 922 712 922 687 943 572 943 523 922 521 969 521 1024 837 1022 839 1022 844 1020 888 996 977 1018 994 1020 996 1020 999 1020 1007 1015 1020 1009 1073 1013 1075 1013 1077 1013 1124 990 1194 1011 1200 1013 1202 1013 1295 1018 1298 1018 1346 1009 1365 1005 1376 1007 1395 1013 1397 1013 1399 1013 1402 1013 1404 1013 1414 1007 1425 1001 1448 1007 1491 1015 1493 1015 1495 1015 1527 1005 1584 981 1690 977 1745 994 1747 994 1749 994 1813 979 1845 994 1847 994 1849 994 1851 994 1891 973 2101 973 2118 984 2121 984 2123 984 2125 984 2127 984 2152 973 2176 984 2178 984 2180 984 2337 971 2360 986 2373 994 2375 994 2377 994 2379 994 2381 994 2411 984 2411 945 2409 901 2354 869 2341 869"/></Shape>
+	    <String CONTENT="Ceci est mon testament"
+                    HPOS="521"
+                    VPOS="856"
+                    WIDTH="1890"
+                    HEIGHT="168"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT1381"
+                    BASELINE="978 1253 1547 1242 1973 1212 2876 1185" 
+                    HPOS="975"
+                    VPOS="1079"
+                    WIDTH="1899"
+                    HEIGHT="216">
+            <Shape><Polygon POINTS="2753 1083 2731 1081 2721 1079 2644 1126 2642 1128 2623 1128 2596 1126 2524 1087 2521 1087 2519 1087 2517 1087 2449 1121 2403 1117 2328 1079 2326 1079 2263 1079 2261 1079 2140 1083 2138 1083 2036 1138 1951 1126 1898 1092 1896 1092 1894 1092 1891 1092 1811 1094 1809 1094 1724 1136 1690 1126 1688 1126 1686 1126 1684 1126 1643 1141 1597 1124 1595 1124 1592 1124 1590 1124 1588 1124 1520 1166 1310 1170 1219 1115 1217 1115 1215 1115 1170 1115 1168 1115 1166 1115 1035 1179 975 1183 975 1215 977 1251 979 1293 1043 1272 1088 1283 1090 1283 1092 1283 1094 1283 1139 1270 1189 1285 1225 1295 1228 1295 1230 1295 1232 1295 1266 1280 1308 1264 1410 1274 1463 1280 1465 1280 1628 1266 1631 1266 1633 1266 1660 1247 1713 1261 1722 1264 1724 1264 1726 1264 1728 1264 1739 1261 1751 1257 1758 1259 1817 1289 1819 1289 1821 1289 2065 1283 2068 1283 2144 1242 2165 1232 2278 1236 2280 1236 2282 1236 2284 1236 2341 1221 2441 1227 2443 1227 2553 1213 2594 1223 2619 1230 2621 1230 2623 1230 2625 1230 2642 1221 2659 1213 2697 1219 2706 1219 2708 1219 2710 1219 2714 1217 2742 1202 2837 1200 2867 1210 2874 1183 2869 1119 2757 1083 2753 1083"/></Shape>
+	    <String CONTENT="il annule tout précédent"
+                    HPOS="975"
+                    VPOS="1079"
+                    WIDTH="1899"
+                    HEIGHT="216"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2291"
+                   VPOS="1513"
+                   WIDTH="933"
+                   HEIGHT="668"
+                   ID="eSc_textblock_43bd63eb"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="2291 1513 2291 2181 3224 2181 3224 1513"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1528"
+                   VPOS="1433"
+                   WIDTH="689"
+                   HEIGHT="535"
+                   ID="eSc_textblock_7ec21a9e"
+                   TAGREFS="BT4550">
+          <Shape><Polygon POINTS="1650 1433 1528 1814 2037 1968 2217 1582 1839 1483"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

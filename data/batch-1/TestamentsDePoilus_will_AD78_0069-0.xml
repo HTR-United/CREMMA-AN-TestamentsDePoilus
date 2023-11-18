@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AD78_0069-0.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1920"
+          HEIGHT="1550"
+          PHYSICAL_IMG_NR="108"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1920"
+                  HEIGHT="1550">
+        
+        <TextBlock HPOS="568"
+                   VPOS="763"
+                   WIDTH="960"
+                   HEIGHT="422"
+                   ID="block_2"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="1408 1069 1413 1088 1417 1165 642 1185 568 873 630 763 933 810 1177 780 1528 857 1516 945 1437 1003"/></Shape>
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT1381"
+                    BASELINE="610 915 1446 928" 
+                    HPOS="608"
+                    VPOS="861"
+                    WIDTH="837"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="608 935 699 946 700 946 701 946 702 946 714 937 727 928 741 939 749 945 750 945 751 945 761 945 763 924 763 945 834 948 835 948 837 948 859 940 900 927 938 927 941 932 943 932 943 933 944 933 945 933 947 933 1102 930 1131 940 1133 940 1134 940 1135 940 1151 932 1192 936 1210 948 1211 948 1213 948 1214 948 1218 948 1306 933 1339 950 1350 955 1351 955 1352 955 1444 951 1445 927 1445 873 1422 871 1421 871 1419 871 1418 871 1417 873 1403 883 1379 873 1378 873 1377 873 1376 873 1374 873 1373 873 1364 879 1324 874 1295 870 1294 870 1293 870 1279 874 1262 879 1257 875 1249 869 1248 869 1246 869 1180 868 1179 868 1178 868 1177 868 1166 877 1158 882 1144 877 1120 868 1118 868 1117 868 1116 868 1096 877 1073 888 1059 879 1058 879 1056 879 1055 879 1054 879 1031 891 945 891 912 889 894 879 872 869 870 869 869 869 868 869 846 879 794 862 793 862 746 861 745 861 744 861 742 861 717 882 714 884 609 884 609 914"/></Shape>
+	    <String CONTENT="Tres precieux"
+                    HPOS="608"
+                    VPOS="861"
+                    WIDTH="837"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_8"
+                    TAGREFS="LT1381"
+                    BASELINE="680 1100 1237 1091 1338 1092" 
+                    HPOS="678"
+                    VPOS="1043"
+                    WIDTH="659"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="679 1099 679 1119 829 1117 830 1117 832 1117 832 1116 842 1106 865 1114 866 1114 868 1116 883 1116 919 1116 919 1114 921 1114 922 1114 935 1106 947 1113 949 1114 950 1114 952 1114 953 1114 954 1114 954 1113 956 1113 967 1101 989 1112 993 1113 994 1113 996 1113 997 1113 1002 1112 1025 1101 1041 1110 1045 1113 1046 1113 1047 1113 1049 1113 1082 1112 1084 1112 1091 1108 1108 1100 1137 1106 1140 1108 1142 1108 1143 1108 1152 1106 1193 1097 1334 1100 1337 1091 1335 1043 1295 1043 1294 1043 1293 1043 1292 1043 1290 1044 1266 1061 1249 1052 1248 1052 1246 1052 1204 1059 1189 1050 1184 1044 1183 1044 1182 1044 1180 1044 1179 1044 1160 1051 1146 1055 1137 1051 1122 1046 1121 1046 1120 1046 1067 1047 1065 1047 1064 1047 1064 1048 1056 1055 1054 1057 1040 1056 1009 1052 1007 1052 1006 1052 1005 1052 1005 1054 1000 1057 996 1061 991 1057 971 1048 970 1048 969 1048 967 1048 966 1048 952 1060 940 1069 842 1072 798 1072 793 1066 775 1051 773 1051 772 1051 771 1051 770 1051 730 1069 724 1072 715 1070 684 1065 683 1065 682 1065 680 1065 678 1066 679 1099"/></Shape>
+	    <String CONTENT="a Conserver"
+                    HPOS="678"
+                    VPOS="1043"
+                    WIDTH="659"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="165"
+                   VPOS="117"
+                   WIDTH="1494"
+                   HEIGHT="1219"
+                   ID="block_1"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="1597 143 1613 281 1659 488 1651 637 1607 730 1289 732 540 754 513 818 502 854 626 1138 459 1280 432 1336 196 1331 165 1254 180 878 189 632 273 365 273 299 275 136 477 123 1132 117 1351 147"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1375"
+                   VPOS="966"
+                   WIDTH="374"
+                   HEIGHT="462"
+                   ID="eSc_textblock_4e48eca7"
+                   TAGREFS="BT4550">
+          <Shape><Polygon POINTS="1375 1415 1425 966 1749 994 1711 1428"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

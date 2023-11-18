@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0305-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1507"
+          HEIGHT="1062"
+          PHYSICAL_IMG_NR="11"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1507"
+                  HEIGHT="1062">
+        
+        <TextBlock HPOS="117"
+                   VPOS="433"
+                   WIDTH="1151"
+                   HEIGHT="406"
+                   ID="eSc_textblock_5af7ae57"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="117 433 117 789 1252 839 1268 470 1184 468"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_efc21c5b"
+                    TAGREFS="LT1381"
+                    BASELINE="166 513 528 534 548 535 815 562 1187 575" 
+                    HPOS="162"
+                    VPOS="485"
+                    WIDTH="1024"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="165 512 162 543 323 554 324 554 324 554 332 553 368 542 400 554 401 554 401 554 423 549 462 554 463 554 507 547 598 552 631 568 632 568 633 568 633 568 660 559 691 571 695 573 696 573 697 573 698 573 703 572 734 563 778 576 798 582 799 582 887 584 888 584 902 583 917 580 926 584 928 584 929 584 930 584 936 584 1013 577 1075 579 1117 594 1121 595 1122 595 1183 597 1186 574 1185 558 1066 552 1064 550 1051 542 1050 542 1049 542 1048 542 1027 546 1019 541 1018 541 1017 541 943 538 929 531 928 531 927 531 897 536 864 527 863 527 862 527 861 527 850 532 813 525 812 525 811 525 795 532 762 516 761 516 727 509 659 506 658 506 657 506 599 521 588 523 556 518 526 514 525 514 516 515 512 516 510 515 467 494 466 494 351 494 302 485 301 485 301 485 263 500 252 504 165 494 165 512"/></Shape>
+	    <String CONTENT="Ceci est mon"
+                    HPOS="162"
+                    VPOS="485"
+                    WIDTH="1024"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_7"
+                    TAGREFS="LT1381"
+                    BASELINE="304 679 526 703 938 698 1146 709" 
+                    HPOS="302"
+                    VPOS="652"
+                    WIDTH="843"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="303 678 302 709 321 717 322 717 323 718 323 717 324 717 344 709 355 705 368 709 401 720 401 720 402 720 454 713 479 722 479 722 642 725 643 725 701 712 718 708 742 710 746 713 765 723 766 723 767 723 797 716 819 726 819 726 820 726 873 723 874 723 896 714 898 713 902 714 935 728 936 728 937 728 938 728 939 728 962 715 966 713 1143 715 1145 708 1144 677 1113 681 1104 676 1095 671 1094 671 1093 671 987 674 959 663 958 663 958 663 957 663 927 674 909 680 889 674 883 671 882 671 881 671 881 671 875 673 862 679 845 673 838 670 837 670 836 670 835 670 834 670 831 673 822 678 803 672 799 671 798 671 797 671 790 672 770 677 653 676 642 671 639 669 638 669 637 669 626 670 603 674 595 670 578 661 577 661 576 661 575 661 565 664 527 654 526 654 425 652 425 652 375 654 374 654 373 654 365 660 361 656 360 656 359 656 358 656 357 656 336 668 335 668 303 668 303 678"/></Shape>
+	    <String CONTENT="testament"
+                    HPOS="302"
+                    VPOS="652"
+                    WIDTH="843"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="69"
+                   VPOS="77"
+                   WIDTH="456"
+                   HEIGHT="406"
+                   ID="eSc_textblock_36873116"
+                   TAGREFS="BT4550">
+          <Shape><Polygon POINTS="525 395 525 77 69 77 69 395 212 470 341 483"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="554"
+                   VPOS="117"
+                   WIDTH="837"
+                   HEIGHT="354"
+                   ID="eSc_textblock_8413632e"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="559 136 554 377 846 469 1205 471 1391 354 1391 117"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

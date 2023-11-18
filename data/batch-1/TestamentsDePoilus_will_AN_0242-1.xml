@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0242-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1513"
+          HEIGHT="1202"
+          PHYSICAL_IMG_NR="24"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1513"
+                  HEIGHT="1202">
+        
+        <TextBlock HPOS="63"
+                   VPOS="293"
+                   WIDTH="1444"
+                   HEIGHT="434"
+                   ID="eSc_textblock_11a943fa"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="63 293 63 727 1507 727 1507 297"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    TAGREFS="LT1381"
+                    BASELINE="54 438 126 483 128 483 973 505 1358 496 1487 523" 
+                    HPOS="70"
+                    VPOS="344"
+                    WIDTH="1417"
+                    HEIGHT="189">
+            <Shape><Polygon POINTS="70 513 241 517 242 517 251 516 326 503 411 508 412 508 477 497 687 501 745 517 746 517 747 517 851 515 884 524 897 528 898 528 899 528 919 525 932 523 941 525 962 531 963 531 964 531 989 526 1000 524 1022 526 1071 532 1072 532 1100 527 1148 519 1163 525 1164 525 1165 525 1191 520 1221 529 1232 532 1233 532 1234 532 1252 529 1310 520 1360 531 1367 532 1368 532 1369 532 1373 531 1399 523 1441 532 1448 533 1449 533 1485 532 1486 522 1487 456 1442 453 1441 453 1427 455 1383 463 1354 455 1351 454 1350 454 1349 454 1348 454 1346 455 1324 462 1302 454 1292 451 1291 451 1290 451 1289 451 1276 454 1243 463 1223 454 1222 454 1221 454 1219 454 1198 456 1188 454 1169 448 1168 448 1167 448 1166 448 1148 453 1113 464 1078 453 1051 444 1050 444 931 441 930 441 929 441 913 447 857 440 856 440 855 440 836 427 803 404 744 371 673 344 629 360 526 458 487 449 389 428 353 427 334 427 333 427 332 427 286 405 218 428 217 428 216 428 168 369 114 363 71 447 71 478"/></Shape>
+	    <String CONTENT="Madame Dusserm Jeanne"
+                    HPOS="70"
+                    VPOS="344"
+                    WIDTH="1417"
+                    HEIGHT="189"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_2"
+                    TAGREFS="LT1381"
+                    BASELINE="81 704 576 705 927 711 927 711 1060 699 1315 714" 
+                    HPOS="79"
+                    VPOS="628"
+                    WIDTH="1235"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1300 711 1291 711 1281 711 1279 673 1221 673 1219 672 1128 638 1127 638 1047 638 1046 638 1045 638 983 665 978 667 940 670 877 670 857 661 810 641 809 641 808 641 807 641 792 646 742 642 741 642 740 642 697 656 662 667 581 667 532 651 509 644 508 644 507 644 409 647 383 648 379 647 343 630 342 630 341 630 268 635 255 629 254 629 145 628 144 628 80 637 80 703 79 716 103 722 104 722 160 719 196 717 224 721 254 725 255 725 268 722 286 718 338 718 375 725 392 728 393 728 408 726 457 720 519 720 534 728 535 728 536 728 641 723 666 734 714 756 715 756 944 759 945 759 1038 745 1042 745 1049 746 1145 760 1146 760 1313 753 1314 713 1310 711 1300 711"/></Shape>
+	    <String CONTENT="a ouvrir apres Dècès."
+                    HPOS="79"
+                    VPOS="628"
+                    WIDTH="1235"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="675"
+                   VPOS="726"
+                   WIDTH="791"
+                   HEIGHT="386"
+                   ID="eSc_textblock_7c0b6ae7"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="1466 1112 1379 728 691 726 675 1112"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0082-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2261"
+          HEIGHT="3129"
+          PHYSICAL_IMG_NR="68"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2261"
+                  HEIGHT="3129">
+        
+        <TextBlock HPOS="518"
+                   VPOS="136"
+                   WIDTH="1622"
+                   HEIGHT="711"
+                   ID="block_6"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="594 404 518 171 1009 142 1961 136 2140 239 2098 445 1942 805 1291 820 632 847 544 549 577 454"/></Shape>
+          
+          
+          <TextLine ID="line_3"
+                    TAGREFS="LT1381"
+                    BASELINE="654 301 2091 302" 
+                    HPOS="651"
+                    VPOS="232"
+                    WIDTH="1437"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="2086 234 2073 232 1992 232 1989 232 1987 232 1914 255 1815 239 1812 239 1739 255 1715 234 1715 232 1713 232 1710 232 1624 232 1622 232 1619 232 1564 255 1494 232 1491 232 1489 232 1382 255 1340 234 1330 234 1303 237 1277 237 1251 239 1249 239 1230 258 1131 258 1113 245 1095 245 1069 247 1061 247 1056 252 787 237 784 237 782 237 717 255 654 232 651 299 657 331 675 318 2086 331 2088 299 2088 234 2086 234"/></Shape>
+	    <String CONTENT="L’an mil neuf-cent"
+                    HPOS="651"
+                    VPOS="232"
+                    WIDTH="1437"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_4"
+                    TAGREFS="LT1381"
+                    BASELINE="685 380 1945 406" 
+                    HPOS="680"
+                    VPOS="302"
+                    WIDTH="1265"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="685 380 680 336 805 302 808 302 808 302 811 302 811 302 811 302 813 302 813 302 813 302 881 336 923 320 923 320 925 320 925 320 928 320 928 320 928 320 931 320 983 338 996 344 1249 344 1256 338 1309 312 1309 312 1309 312 1311 312 1311 312 1314 312 1314 312 1314 312 1316 312 1410 341 1449 352 1536 341 1572 338 1572 338 1575 338 1575 338 1577 338 1577 338 1577 338 1580 338 1580 338 1580 341 1582 341 1590 352 1606 341 1650 320 1650 320 1650 320 1653 320 1653 320 1655 320 1882 325 1882 325 1882 325 1885 325 1885 325 1888 325 1888 325 1888 328 1908 344 1911 346 1942 346 1945 406 1942 422 1820 443 1820 443 1817 443 1817 443 1817 443 1815 443 1815 443 1815 443 1812 443 1812 443 1786 422 1695 440 1695 440 1695 440 1692 440 1692 440 1515 417 1499 417 1491 417 1452 427 1449 427 1449 427 1447 427 1447 427 1447 427 1444 427 1444 427 1442 427 1442 427 1429 417 1426 414 1416 417 1376 427 1374 427 1374 427 1374 427 1371 427 1371 427 1298 414 1275 411 1259 414 1207 430 1204 430 1204 430 1202 430 1202 430 1202 430 1126 414 1116 411 1110 414 1084 425 1084 425 1082 425 1082 425 1082 425 1079 425 1079 425 1077 425 1077 425 1077 425 1074 425 1074 425 1074 422 1064 411 1056 406 1030 411 970 425 970 425 970 425 967 425 967 425 871 409 808 401 683 406"/></Shape>
+	    <String CONTENT="seize dix-sept"
+                    HPOS="680"
+                    VPOS="302"
+                    WIDTH="1265"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_5"
+                    TAGREFS="LT1381"
+                    BASELINE="667 471 983 477" 
+                    HPOS="665"
+                    VPOS="404"
+                    WIDTH="318"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="667 471 665 427 808 404 808 404 811 404 811 404 811 404 813 404 813 404 878 432 884 435 983 435 983 477 980 508 665 511"/></Shape>
+	    <String CONTENT="Mars"
+                    HPOS="665"
+                    VPOS="404"
+                    WIDTH="318"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_6"
+                    TAGREFS="LT1381"
+                    BASELINE="654 740 1640 745" 
+                    HPOS="649"
+                    VPOS="677"
+                    WIDTH="988"
+                    HEIGHT="113">
+            <Shape><Polygon POINTS="651 711 651 737 649 769 711 787 714 787 717 787 902 774 910 774 1116 774 1121 777 1150 790 1152 790 1155 790 1157 790 1160 790 1181 777 1191 777 1288 790 1290 790 1293 790 1327 779 1335 777 1337 779 1353 790 1356 790 1358 790 1361 790 1363 790 1366 790 1382 779 1389 777 1632 782 1637 743 1635 680 1582 680 1580 680 1577 680 1575 680 1551 698 1457 683 1455 683 1371 698 1356 683 1353 683 1353 680 1350 680 1348 680 1259 680 1256 680 1223 685 1147 698 1095 688 1045 677 1043 677 1040 677 1037 677 1024 688 1017 696 993 688 951 677 949 677 946 677 873 690 847 696 839 690 831 683 829 683 826 683 824 683 821 683 782 693 769 696 764 693 748 680 748 677 745 677 743 677 740 677 738 677 735 677 717 693 711 696 657 696 651 711"/></Shape>
+	    <String CONTENT="René Le Bescond"
+                    HPOS="649"
+                    VPOS="677"
+                    WIDTH="988"
+                    HEIGHT="113"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="994"
+                   VPOS="814"
+                   WIDTH="974"
+                   HEIGHT="266"
+                   ID="eSc_textblock_b86d8dd9"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="1011 896 1105 818 1900 814 1968 946 1822 1040 994 1080 994 958"/></Shape>
+          
+          
+          <TextLine ID="line_14"
+                    TAGREFS="LT1381"
+                    BASELINE="1019 936 1813 943" 
+                    HPOS="1014"
+                    VPOS="823"
+                    WIDTH="798"
+                    HEIGHT="152">
+            <Shape><Polygon POINTS="1017 933 1014 967 1150 969 1152 969 1155 969 1157 969 1212 951 1447 972 1457 972 1460 972 1463 972 1543 954 1632 975 1640 975 1642 975 1650 975 1715 962 1807 975 1812 941 1809 860 1710 878 1674 852 1663 844 1661 844 1658 844 1655 844 1653 844 1629 850 1577 865 1543 847 1533 839 1530 839 1528 839 1525 839 1522 839 1502 844 1429 865 1382 847 1379 847 1376 847 1374 847 1371 847 1335 876 1285 876 1236 876 1165 829 1163 826 1160 826 1157 826 1017 823 1017 933"/></Shape>
+	    <String CONTENT="Marie Josephe Joncour"
+                    HPOS="1014"
+                    VPOS="823"
+                    WIDTH="798"
+                    HEIGHT="152"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="line_15"
+                    TAGREFS="LT1381"
+                    BASELINE="1004 1027 1624 1027" 
+                    HPOS="1001"
+                    VPOS="954"
+                    WIDTH="621"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1001 1024 1001 1074 1058 1074 1058 1071 1061 1071 1064 1071 1064 1069 1087 1048 1173 1048 1215 1066 1228 1071 1230 1071 1233 1071 1236 1071 1259 1063 1288 1056 1316 1061 1361 1071 1363 1071 1366 1071 1389 1058 1405 1050 1416 1058 1429 1071 1431 1071 1434 1071 1436 1071 1439 1071 1442 1071 1460 1058 1476 1071 1478 1071 1481 1071 1483 1071 1486 1071 1520 1056 1536 1048 1619 1050 1622 1024 1614 954 1580 975 1400 954 1392 954 1389 954 1387 954 1322 975 1249 959 1246 959 1110 975 1001 954 1001 1024"/></Shape>
+	    <String CONTENT="femme Le Bescond"
+                    HPOS="1001"
+                    VPOS="954"
+                    WIDTH="621"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="229"
+                   VPOS="1052"
+                   WIDTH="738"
+                   HEIGHT="612"
+                   ID="block_4"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="936 1269 894 1290 959 1664 229 1578 292 1209 365 1136 646 1063 967 1053 967 1052 967 1082 959 1082 864 1159 936 1209"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

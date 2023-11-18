@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>TestamentsDePoilus_will_AN_0292-1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="1663"
+          HEIGHT="1359"
+          PHYSICAL_IMG_NR="15"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1663"
+                  HEIGHT="1359">
+        
+        <TextBlock HPOS="146"
+                   VPOS="287"
+                   WIDTH="1452"
+                   HEIGHT="1032"
+                   ID="eSc_textblock_56d34505"
+                   TAGREFS="BT4215">
+          <Shape><Polygon POINTS="146 377 172 1316 1598 1319 1598 348 480 287 433 300 302 374"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_57038c66"
+                    TAGREFS="LT1381"
+                    BASELINE="214 645 687 600 1257 547 1540 505" 
+                    HPOS="210"
+                    VPOS="486"
+                    WIDTH="1330"
+                    HEIGHT="188">
+            <Shape><Polygon POINTS="212 644 216 674 276 656 364 659 377 659 378 659 379 659 387 656 435 642 484 646 497 646 498 646 524 642 582 630 613 631 635 633 636 633 721 624 722 624 723 624 730 619 742 612 774 614 800 616 802 616 803 616 820 609 851 597 909 600 949 601 950 601 1008 590 1069 590 1069 588 1070 588 1071 588 1084 580 1088 578 1093 579 1102 583 1103 583 1104 583 1105 583 1122 577 1139 570 1156 573 1186 577 1187 577 1269 560 1324 549 1540 531 1539 503 1536 490 1393 486 1392 486 1391 486 1335 509 1306 506 1305 506 1257 517 1256 517 1218 511 1217 511 1216 511 1194 518 1161 508 1160 508 1158 508 1025 540 990 528 988 528 987 528 986 528 939 544 907 534 906 534 905 534 872 539 848 530 847 530 846 530 739 540 663 548 662 548 661 548 624 573 560 587 559 588 558 588 418 588 416 588 415 588 368 607 297 592 296 592 295 592 294 592 254 616 210 622 212 644"/></Shape>
+	    <String CONTENT="a Remettre à Madame"
+                    HPOS="210"
+                    VPOS="486"
+                    WIDTH="1330"
+                    HEIGHT="188"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bba20b61"
+                    TAGREFS="LT1381"
+                    BASELINE="571 825 954 753 1578 695" 
+                    HPOS="565"
+                    VPOS="648"
+                    WIDTH="1013"
+                    HEIGHT="186">
+            <Shape><Polygon POINTS="570 824 572 834 616 831 617 831 619 830 655 815 687 822 688 822 689 822 691 822 692 822 731 797 752 802 753 802 754 802 755 802 756 802 778 789 816 784 850 790 851 790 853 790 902 776 941 778 942 778 943 778 976 765 1013 771 1015 771 1016 771 1017 771 1034 757 1079 751 1169 744 1210 759 1212 759 1213 759 1222 758 1299 744 1314 747 1315 747 1316 747 1317 747 1318 747 1358 725 1420 720 1421 720 1422 720 1431 712 1495 725 1496 725 1497 725 1578 715 1576 694 1571 656 1545 661 1538 660 1480 648 1479 648 1478 648 1477 648 1454 663 1433 659 1431 659 1394 665 1393 665 1320 687 1299 693 1286 691 1263 688 1261 688 1260 688 1218 699 1213 701 1210 701 1148 688 1147 688 1065 699 1064 699 1063 699 1049 711 1021 708 1020 708 1019 708 957 728 919 722 918 722 917 722 889 736 875 731 874 731 873 731 833 738 797 730 796 730 795 730 734 747 718 740 717 740 715 740 681 744 680 744 679 744 644 771 643 772 565 780 570 824"/></Shape>
+	    <String CONTENT="Bricaud Pierre"
+                    HPOS="565"
+                    VPOS="648"
+                    WIDTH="1013"
+                    HEIGHT="186"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_733187f7"
+                    TAGREFS="LT1381"
+                    BASELINE="299 1023 1303 989" 
+                    HPOS="296"
+                    VPOS="950"
+                    WIDTH="1006"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="297 1022 297 1039 316 1046 317 1046 318 1046 319 1046 334 1039 354 1046 355 1046 356 1046 357 1046 372 1039 415 1044 416 1044 418 1044 445 1035 465 1028 498 1028 531 1032 569 1038 570 1038 572 1038 590 1030 600 1027 608 1030 611 1031 612 1031 613 1031 632 1029 700 1021 723 1027 760 1036 761 1036 762 1036 763 1036 786 1024 788 1023 790 1024 794 1028 795 1028 796 1028 797 1028 798 1028 811 1024 834 1015 911 1014 923 1021 931 1026 932 1026 933 1026 965 1029 966 1029 1101 1024 1149 1014 1173 1009 1187 1013 1198 1016 1199 1016 1200 1016 1302 1009 1302 988 1299 967 1273 967 1229 950 1227 950 1226 950 1184 959 1166 952 1165 952 1164 952 1071 955 1070 955 1069 955 1039 973 1013 976 992 977 982 977 926 972 925 972 924 972 911 979 909 980 863 980 841 969 840 969 839 969 838 969 812 978 795 967 794 967 792 967 791 967 757 973 756 973 755 973 742 985 740 986 632 988 630 988 593 971 592 971 591 971 538 973 536 973 493 993 490 994 488 993 467 979 466 979 465 979 464 979 463 979 444 985 436 979 435 979 433 979 369 979 368 979 367 979 365 979 335 997 334 998 296 998 297 1022"/></Shape>
+	    <String CONTENT="en ca de Ddécée"
+                    HPOS="296"
+                    VPOS="950"
+                    WIDTH="1006"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b5caf10"
+                    TAGREFS="LT1381"
+                    BASELINE="194 1254 398 1229 773 1222 887 1229 1424 1221" 
+                    HPOS="192"
+                    VPOS="1172"
+                    WIDTH="1231"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="193 1253 193 1277 390 1274 391 1274 397 1271 410 1266 457 1266 457 1265 458 1265 475 1255 529 1262 530 1262 735 1240 817 1255 820 1255 821 1255 823 1255 933 1234 1008 1243 1009 1243 1010 1243 1039 1232 1076 1232 1102 1245 1105 1246 1106 1246 1107 1246 1109 1246 1113 1245 1150 1229 1209 1237 1210 1237 1212 1237 1231 1227 1285 1234 1286 1234 1314 1229 1348 1236 1367 1240 1368 1240 1423 1233 1423 1220 1420 1185 1361 1195 1337 1186 1319 1180 1318 1180 1317 1180 1290 1181 1265 1172 1264 1172 1263 1172 1224 1177 1223 1177 1192 1190 1164 1202 1027 1203 998 1194 974 1186 973 1186 871 1181 870 1181 726 1185 725 1185 687 1201 676 1206 660 1201 649 1199 647 1199 646 1199 626 1202 602 1207 590 1203 576 1199 575 1199 574 1199 573 1199 561 1203 551 1208 523 1204 483 1200 482 1200 481 1200 466 1206 450 1214 399 1214 387 1208 385 1207 384 1207 382 1207 376 1208 327 1219 309 1214 308 1214 306 1214 305 1214 304 1214 292 1221 229 1223 192 1212 193 1253"/></Shape>
+	    <String CONTENT="77 Rue d’aboukir Paris"
+                    HPOS="192"
+                    VPOS="1172"
+                    WIDTH="1231"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="60"
+                   VPOS="43"
+                   WIDTH="714"
+                   HEIGHT="319"
+                   ID="eSc_textblock_418a6e61"
+                   TAGREFS="BT4217">
+          <Shape><Polygon POINTS="60 170 60 362 774 266 719 126 602 43"/></Shape>
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1490"
+                   VPOS="58"
+                   WIDTH="100"
+                   HEIGHT="107"
+                   ID="eSc_textblock_4a37cfe9"
+                   TAGREFS="BT4216">
+          <Shape><Polygon POINTS="1495 58 1490 148 1590 165 1590 73"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
