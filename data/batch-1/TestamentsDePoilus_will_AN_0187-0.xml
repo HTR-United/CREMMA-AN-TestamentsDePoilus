@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -143,7 +143,7 @@
                    HEIGHT="768"
                    ID="block_1"
                    TAGREFS="BT4217">
-          <Shape><Polygon POINTS="616 2473 598 2400 584 2344 501 2290 356 2265 369 2140 383 2079 445 2029 889 2001 1121 2023 1171 2017 1243 2077 1254 2206 1242 2260 1149 2363 801 2769"/></Shape>
+          <Shape><Polygon POINTS="616 2473 598 2400 584 2344 501 2290 356 2265 369 2140 383 2079 445 2029 889 2001 1121 2023 1171 2017 1243 2077 1254 2206 1242 2260 1187 2497 801 2769"/></Shape>
           
         </TextBlock>
         
@@ -154,16 +154,6 @@
                    ID="eSc_textblock_78a22240"
                    TAGREFS="BT4217">
           <Shape><Polygon POINTS="261 264 261 67 1209 59 1212 264"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1516"
-                   VPOS="682"
-                   WIDTH="1"
-                   HEIGHT="1"
-                   ID="eSc_textblock_37013d6f"
-                   >
-          <Shape><Polygon POINTS="1516 682 1516 683 1517 683 1517 682"/></Shape>
           
         </TextBlock>
         

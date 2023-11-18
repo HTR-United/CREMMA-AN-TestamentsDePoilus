@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4219" LABEL="HeadingLine:title" DESCRIPTION="block type HeadingLine:title"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT4550" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4220" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4218" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT4217" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4216" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4215" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT3530" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1385" LABEL="HeadingLine:rubric" DESCRIPTION="line type HeadingLine:rubric"/><OtherTag ID="LT1384" LABEL="HeadingLine:title" DESCRIPTION="line type HeadingLine:title"/><OtherTag ID="LT1383" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1382" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1381" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -301,16 +301,16 @@
           
           <TextLine ID="line_13"
                     TAGREFS="LT1381"
-                    BASELINE="617 1312 1488 1305" 
-                    HPOS="608"
+                    BASELINE="617 1312 1336 1306" 
+                    HPOS="611"
                     VPOS="1215"
-                    WIDTH="880"
+                    WIDTH="721"
                     HEIGHT="123">
-            <Shape><Polygon POINTS="617 1312 608 1263 682 1241 685 1241 685 1241 689 1241 689 1241 825 1257 905 1218 905 1218 909 1218 909 1218 909 1218 1051 1215 1054 1215 1216 1215 1216 1215 1216 1215 1219 1215 1219 1215 1219 1215 1222 1215 1222 1215 1268 1257 1481 1257 1488 1305 1485 1338 614 1325"/></Shape>
+            <Shape><Polygon POINTS="614 1309 614 1338 1329 1328 1332 1305 1323 1250 1248 1250 1245 1250 1213 1218 1213 1215 1210 1215 1206 1215 889 1215 886 1215 883 1215 880 1215 831 1254 611 1254 614 1309"/></Shape>
 	    <String CONTENT="mes dépouilles."
-                    HPOS="608"
+                    HPOS="611"
                     VPOS="1215"
-                    WIDTH="880"
+                    WIDTH="721"
                     HEIGHT="123"></String>
           </TextLine>
 
