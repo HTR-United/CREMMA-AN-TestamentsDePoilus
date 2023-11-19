@@ -317,8 +317,8 @@ characters:
   - ̂
   - R
   - '2'
-  - '4'
   - ^
+  - '4'
   - z
   - '0'
   - E
@@ -399,7 +399,7 @@ transcription-guidelines: 'The original transcriptions were performed on a crowd
   are preceeded by ^. '
 url: https://github.com/HTR-United/CREMMA-AN-TestamentDePoilus
 volume:
-- count: 87768
+- count: 87726
   metric: characters
 - count: 226
   metric: files
