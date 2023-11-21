@@ -176,3 +176,9 @@ Sélection aléatoire, 1 échantillon par département disponible par batch
 <!-- End Table -->
 
 ## Credits
+
+- Transcription: Projet Testament de Poilus
+- Alignement: Alix Chagué, Anaïs Mazoue & Elsa Van Kote
+- Supervision: Alix Chagué
+- Sélection des manuscrits: Thibault Clérice
+- Gestion de projet: Thibault Clérice & Alix Chagué
