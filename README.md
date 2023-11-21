@@ -1,26 +1,35 @@
+<img src="https://testaments-de-poilus.huma-num.fr/webapp/app/web/images/FaviconTdP.png" width="100" align=right> <img src="./cremma_testaments.png" width="120" align=right>
+
 # CREMMA-AN-TestamentDePoilus
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
+## Description
+
+Jeu de données composés à partir des transcriptions éditées et publiées dans le cadre du projet [Testament de Poilus](https://testaments-de-poilus.huma-num.fr), conduit par les Archives nationales. Chaque document (1 ou plusieurs images partageant a même côte) correspond à une main. S'agissant de testaments de soldats morts pour la France durant la première guerre mondiale, l'ensemble des documents a été rédigé entre 1898 et 1918. 
+
+- batch 1 : 84 mains
+- batch 2 : 62 mains
+
 ## Données
 
-Les données se trouvent au chemin `./data/**/*.xml`
-
-## Description
+Les données se trouvent au chemin `./data/**/*.xml`.
 
 ## Méthode de sélection des données d'entraînement
 
-Sélection aléatoire, 1 échantillon par département disponible par batch
+Chaque batch est constitué d'un testament par département, sélectionné au hasard. Plus le numéro du batch est grand, moins on a de testaments car il n'y a parfois qu'un seul testament par département.
 
-### Ordre des scripts
+### Ordre des scripts...
 
-1. compileSourcesList.py
-2. selectDataDpt.py (Change batch_id)
-3. download_images.py
-4. create_text_files.py
-5. updateReadme.py
+...pour la constitution des batch et la mise à jour du Readme
 
-## Treated data
+1. `compileSourcesList.py`
+2. `selectDataDpt.py` (Change batch_id in script)
+3. `download_images.py`
+4. `create_text_files.py`
+5. `updateReadme.py`
+
+## Testaments réutilisées
 
 <!-- Start Table -->
 | Document | Testataire | Département de naissance | Année de naissance | Batch |
@@ -174,3 +183,9 @@ Sélection aléatoire, 1 échantillon par département disponible par batch
 <!-- End Table -->
 
 ## Credits
+
+- Transcription: Projet Testament de Poilus
+- Alignement: Alix Chagué, Anaïs Mazoue & Elsa Van Kote
+- Supervision: Alix Chagué
+- Sélection des manuscrits: Thibault Clérice
+- Gestion de projet: Thibault Clérice & Alix Chagué
