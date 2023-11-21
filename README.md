@@ -4,6 +4,9 @@
 
 ![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg) 
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10177106.svg)](https://doi.org/10.5281/zenodo.10177106)
+
+
 ## Description
 
 Jeu de données composés à partir des transcriptions éditées et publiées dans le cadre du projet [Testament de Poilus](https://testaments-de-poilus.huma-num.fr), conduit par les Archives nationales. Chaque document (1 ou plusieurs images partageant a même côte) correspond à une main. S'agissant de testaments de soldats morts pour la France durant la première guerre mondiale, l'ensemble des documents a été rédigé entre 1898 et 1918. 
